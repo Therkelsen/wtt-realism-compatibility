@@ -44,7 +44,8 @@
         "BaseChamberCheckSpeed": 1.7,
         "BaseFixSpeed": 1.7,
         "OffsetRotation": 0.01,
-        "RecoilIntensity": 0.23
+        "RecoilIntensity": 0.23,
+        "MasteryCategory": "AKM"
     },
     "66e8888f8fa84b78297cd8da": {
         "ItemID": "66e8888f8fa84b78297cd8da",
