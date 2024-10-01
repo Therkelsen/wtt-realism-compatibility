@@ -9,8 +9,8 @@
         "BaseTorque": 0,
         "HasShoulderContact": false,
         "Ergonomics": 34,
-        "VerticalRecoil": 300,
-        "HorizontalRecoil": 420,
+        "VerticalRecoil": 400,
+        "HorizontalRecoil": 500,
         "Dispersion": 10,
         "CameraRecoil": 0.1,
         "VisualMulti": 1.1,
@@ -44,7 +44,8 @@
         "BaseChamberCheckSpeed": 1.7,
         "BaseFixSpeed": 1.7,
         "OffsetRotation": 0.01,
-        "RecoilIntensity": 0.5
+        "RecoilIntensity": 0.5,
+        "MasteryCategory": "M1A"
     },
     "66c13c53999e17f0702c2e70": {
         "ItemID": "66c13c53999e17f0702c2e70",
@@ -91,7 +92,8 @@
         "BaseChamberCheckSpeed": 1.7,
         "BaseFixSpeed": 1.7,
         "OffsetRotation": 0.01,
-        "RecoilIntensity": 0.5
+        "RecoilIntensity": 0.5,
+        "MasteryCategory": "M1A"
     },
     "66c01f4392c2f89537d4513c": {
         "ItemID": "66c01f4392c2f89537d4513c",
