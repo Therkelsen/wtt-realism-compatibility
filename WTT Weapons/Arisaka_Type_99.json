@@ -452,6 +452,8 @@
         "Name": "ammo_77x58mm_tracer",
         "LoyaltyLevel": 4,
         "TemplateType": "ammo",
+        "Damage":116,
+        "PenetrationPower":59,
         "BasePriceModifier": 1
     }
 }
