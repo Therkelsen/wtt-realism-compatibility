@@ -453,7 +453,7 @@
         "LoyaltyLevel": 4,
         "TemplateType": "ammo",
         "Damage":116,
-        "PenetrationPower":59
+        "PenetrationPower":59,
         "BasePriceModifier": 1
     }
 }
