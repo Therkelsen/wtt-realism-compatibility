@@ -315,8 +315,8 @@
         "Name": "ammo_792x57mm_fmj",
         "LoyaltyLevel": 1,
         "TemplateType": "ammo",
-        "Damage":54,
-        "PenetrationPower":120,
+        "Damage":120,
+        "PenetrationPower":54,
         "BasePriceModifier": 1
     }
 }
