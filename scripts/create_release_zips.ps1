@@ -35,6 +35,7 @@ $filesToMove = @(
     'WTT Weapons\Remington_MSR.json',
     'WTT Weapons\Remington_R5.json',
     'WTT Weapons\Springfield_Prodigy.json',
+    'WTT Weapons\Wages_of_Sin_AR15.json',
     'WTT Weapons\Zastava_M76.json'
 )
 
