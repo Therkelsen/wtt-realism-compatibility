@@ -1,7 +1,7 @@
 {
     "66945f346fd04c33d4f9bc35": {
         "ItemID": "66945f346fd04c33d4f9bc35",
-        "Name": "weapon_arx160",
+        "Name": "weapon_arx160_556x45",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
@@ -49,7 +49,7 @@
     },
     "6696b5e6ed3ac659cc619eff": {
         "ItemID": "6696b5e6ed3ac659cc619eff",
-        "Name": "weapon_arx160_fde",
+        "Name": "weapon_arx160_fde_556x45",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
@@ -97,7 +97,7 @@
     },
     "6696b5f5520265c38b644920": {
         "ItemID": "6696b5f5520265c38b644920",
-        "Name": "weapon_arx160_od",
+        "Name": "weapon_arx160_od_556x45",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
@@ -145,7 +145,7 @@
     },
     "6696b60855a9454cbc033d4e": {
         "ItemID": "6696b60855a9454cbc033d4e",
-        "Name": "weapon_arx160_white",
+        "Name": "weapon_arx160_white_556x45",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",

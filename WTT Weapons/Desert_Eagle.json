@@ -1,7 +1,7 @@
 {
     "66b7d231babb635f70257534": {
         "ItemID": "66b7d231babb635f70257534",
-        "Name": "weapon_rexana_golden_desert_eagle_127x33",
+        "Name": "weapon_rexana_golden_desert_eagle_50ae",
         "TemplateType": "gun",
         "WeapType": "pistol",
         "OperationType": "",
@@ -50,7 +50,7 @@
     },
     "66b7d247d44615ed57a7d91c": {
         "ItemID": "66b7d247d44615ed57a7d91c",
-        "Name": "barrel_rexana_golden_desert_eagle_127x33",
+        "Name": "barrel_rexana_golden_desert_eagle",
         "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -20,
@@ -77,7 +77,7 @@
     },
     "66b7d26472e85e872a04d16a": {
         "ItemID": "66b7d26472e85e872a04d16a",
-        "Name": "fs_rexana_golden_desert_eagle_127x33",
+        "Name": "fs_rexana_golden_desert_eagle",
         "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
@@ -92,7 +92,7 @@
     },
     "66b7d26d4fdb9f6c36f7e5b5": {
         "ItemID": "66b7d26d4fdb9f6c36f7e5b5",
-        "Name": "rs_rexana_golden_desert_eagle_127x33",
+        "Name": "rs_rexana_golden_desert_eagle",
         "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
@@ -107,7 +107,7 @@
     },
     "66b7d26a2aa8c6dc9be441ca": {
         "ItemID": "66b7d26a2aa8c6dc9be441ca",
-        "Name": "mag_rexana_golden_desert_eagle_std_127x33_9rd",
+        "Name": "mag_rexana_golden_desert_eagle_std_9rd",
         "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
@@ -124,7 +124,7 @@
     },
     "66b7d2677e3552084bc7a8d8": {
         "ItemID": "66b7d2677e3552084bc7a8d8",
-        "Name": "pg_rexana_golden_desert_eagle_lv_127x33",
+        "Name": "pg_rexana_golden_desert_eagle_lv",
         "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
@@ -138,7 +138,7 @@
     },
     "66b7d261223b09b949cf0299": {
         "ItemID": "66b7d261223b09b949cf0299",
-        "Name": "muzzle_rexana_golden_desert_eagle_127x33",
+        "Name": "muzzle_rexana_golden_desert_eagle",
         "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
@@ -166,7 +166,7 @@
     },
     "66b7d25c0cef8b1b1b9ed780": {
         "ItemID": "66b7d25c0cef8b1b1b9ed780",
-        "Name": "ammo_127x33_fmj",
+        "Name": "ammo_50ae_fmj",
         "TemplateType": "ammo",
         "LoyaltyLevel": 2,
         "Damage":120,

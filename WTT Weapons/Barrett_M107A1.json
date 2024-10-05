@@ -1,7 +1,7 @@
 {
     "66c01f332770caf084f35480": {
         "ItemID": "66c01f332770caf084f35480",
-        "Name": "weapon_m107a1",
+        "Name": "weapon_m107a1_50bmg",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
@@ -49,7 +49,7 @@
     },
     "66c13c53999e17f0702c2e70": {
         "ItemID": "66c13c53999e17f0702c2e70",
-        "Name": "weapon_m107a1_fde",
+        "Name": "weapon_m107a1_fde_50bmg",
         "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
