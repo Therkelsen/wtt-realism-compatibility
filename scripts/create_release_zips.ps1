@@ -28,6 +28,7 @@ $filesToMove = @(
     'WTT Armory\Blicky_Glock.json',
     'WTT Armory\Cheytac_Intervention.json',
     'WTT Armory\Desert_Eagle.json',
+    'WTT Armory\Drum_Mags.json',
     'WTT Armory\Hoshizora_SCAR_17.json',
     'WTT Armory\IWI_Tavor_TAR21.json',
     'WTT Armory\IWI_Tavor_X95.json',
