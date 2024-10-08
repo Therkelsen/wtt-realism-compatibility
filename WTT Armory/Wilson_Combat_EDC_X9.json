@@ -2,6 +2,7 @@
         "663cf1da2496a8e7b0b71759": {
                 "ItemID": "663cf1da2496a8e7b0b71759",
                 "Name": "weapon_wilsoncombatedcx9",
+                "TemplateType": "gun",
                 "WeapType": "pistol",
                 "OperationType": "",
                 "WeapAccuracy": 0,
@@ -47,7 +48,8 @@
 	},
 	"663cf411c5d5feff1b25419e": {
                 "ItemID": "663cf411c5d5feff1b25419e",
-                "Name": "wilsonedcx9_barrel",
+                "Name": "barrel_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "VerticalRecoil": 0,
                 "HorizontalRecoil": 0,
@@ -71,7 +73,8 @@
 	},
 	"663cf38456e3019763642e64": {
                 "ItemID": "663cf38456e3019763642e64",
-                "Name": "wilsonedcx9_slide",
+                "Name": "slide_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "ModMalfunctionChance": 0,
                 "Accuracy": 10,
@@ -89,7 +92,8 @@
 	},
 	"663cf42c23f97fae3855361c": {
                 "ItemID": "663cf42c23f97fae3855361c",
-                "Name": "wilsonedcx9_fs",
+                "Name": "fs_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "sight",
                 "AimSpeed": 0,
                 "Accuracy": 5,
@@ -103,7 +107,8 @@
 	},
 	"663cf2baeb3d77e14be4fcb8": {
                 "ItemID": "663cf2baeb3d77e14be4fcb8",
-                "Name": "wilsonedcx9_mag",
+                "Name": "mag_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "ReloadSpeed": 0,
                 "Ergonomics": 0,
@@ -119,7 +124,8 @@
 	},
 	"663cf442509df39323384184": {
                 "ItemID": "663cf442509df39323384184",
-                "Name": "wilsonedcx9_rs",
+                "Name": "rs_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "sight",
                 "AimSpeed": 0,
                 "Accuracy": 5,
@@ -133,7 +139,8 @@
 	},
 	"663cf2edb9aad1223a8f3be6": {
                 "ItemID": "663cf2edb9aad1223a8f3be6",
-                "Name": "wilsonedcx9_catch",
+                "Name": "catch_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "slide_release",
                 "VerticalRecoil": 0,
                 "HorizontalRecoil": 0,
@@ -156,7 +163,8 @@
 	},
 	"663cf4a5156c382c1297331c": {
                 "ItemID": "663cf4a5156c382c1297331c",
-                "Name": "wilsonedcx9_hammer",
+                "Name": "hammer_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "VerticalRecoil": 0,
                 "HorizontalRecoil": 0,
@@ -178,7 +186,8 @@
 	},
 	"663cf485b3f099cff7175526": {
                 "ItemID": "663cf485b3f099cff7175526",
-                "Name": "wilsonedcx9_trigger",
+                "Name": "trigger_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "VerticalRecoil": 0,
                 "HorizontalRecoil": 0,
@@ -200,7 +209,8 @@
 	},
 	"663cf45b1004c6a00b96304b": {
                 "ItemID": "663cf45b1004c6a00b96304b",
-                "Name": "wilsonedcx9_grip",
+                "Name": "grip_wilsonedcx9",
+                "TemplateType": "mod",
                 "ModType": "",
                 "VerticalRecoil": -5,
                 "HorizontalRecoil": -4,
