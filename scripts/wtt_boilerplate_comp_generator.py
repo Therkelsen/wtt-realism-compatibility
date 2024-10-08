@@ -6,8 +6,8 @@ def extract_and_save(input_file_path, output_file_path):
     with open(input_file_path, 'r') as infile:
         data = json.load(infile)
 
-    # Initialize an empty list to store the results
-    extracted_data = []
+    # Initialize a list to store the entries (to allow duplicates)
+    extracted_entries = []
 
     # Iterate through the second-level entries
     for entry in data.values():
@@ -22,15 +22,25 @@ def extract_and_save(input_file_path, output_file_path):
                 "TemplateType": "mod",
                 "ModType": ""
             }
-            # Append the new entry to the list
-            extracted_data.append({item_tpl: item_entry})
+            # Append the entry to the list (allows duplicates)
+            extracted_entries.append(item_entry)
 
-    # Create a dictionary to wrap the list in an outer structure
-    final_output = {"Items": extracted_data}
-
-    # Write the new JSON data to the output file
+    # Write the output manually to a text file
     with open(output_file_path, 'w') as outfile:
-        json.dump(final_output, outfile, indent=4)
+        outfile.write("{\n")
+        for index, item in enumerate(extracted_entries):
+            item_id = item["ItemID"]
+            outfile.write(f'    "{item_id}": {{\n')
+            outfile.write(f'        "ItemID": "{item["ItemID"]}",\n')
+            outfile.write(f'        "Name": "{item["Name"]}",\n')
+            outfile.write(f'        "TemplateType": "{item["TemplateType"]}",\n')
+            outfile.write(f'        "ModType": "{item["ModType"]}"\n')
+            outfile.write('    }')
+            # Add a comma if it's not the last entry
+            if index < len(extracted_entries) - 1:
+                outfile.write(',')
+            outfile.write('\n')
+        outfile.write("}\n")
 
 if __name__ == "__main__":
     # Get input and output file paths from command-line arguments
