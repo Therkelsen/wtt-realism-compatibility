@@ -6,8 +6,8 @@ def extract_and_save(input_file_path, output_file_path):
     with open(input_file_path, 'r') as infile:
         data = json.load(infile)
 
-    # Initialize an empty dictionary to store the results
-    extracted_data = {}
+    # Initialize an empty list to store the results
+    extracted_data = []
 
     # Iterate through the second-level entries
     for entry in data.values():
@@ -15,17 +15,22 @@ def extract_and_save(input_file_path, output_file_path):
         if 'itemTplToClone' in entry:
             # Extract the value of "itemTplToClone"
             item_tpl = entry['itemTplToClone']
-            # Create an entry in the result dictionary with the required sub-tags
-            extracted_data[item_tpl] = {
+            # Create a new dictionary entry with the required sub-tags
+            item_entry = {
                 "ItemID": item_tpl,
                 "Name": "",
                 "TemplateType": "mod",
                 "ModType": ""
             }
+            # Append the new entry to the list
+            extracted_data.append({item_tpl: item_entry})
+
+    # Create a dictionary to wrap the list in an outer structure
+    final_output = {"Items": extracted_data}
 
     # Write the new JSON data to the output file
     with open(output_file_path, 'w') as outfile:
-        json.dump(extracted_data, outfile, indent=4)
+        json.dump(final_output, outfile, indent=4)
 
 if __name__ == "__main__":
     # Get input and output file paths from command-line arguments
