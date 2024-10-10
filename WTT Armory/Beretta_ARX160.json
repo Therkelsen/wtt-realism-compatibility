@@ -483,6 +483,7 @@
     "6696a9eb3eb5c637b0c14e33": {
         "ItemID": "6696a9eb3eb5c637b0c14e33",
         "Name": "mag_L5_AWM_556x45_30",
+        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,

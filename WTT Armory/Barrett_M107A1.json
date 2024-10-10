@@ -348,6 +348,7 @@
     "66c01f6c9033e1ccc3fa5780": {
         "ItemID": "66c01f6c9033e1ccc3fa5780",
         "Name": "supp_m107a1",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -5,
@@ -375,6 +376,7 @@
     "66c13cc2a6f3a73ca20c1c09": {
         "ItemID": "66c13cc2a6f3a73ca20c1c09",
         "Name": "supp_m107a1_fde",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -5,
@@ -402,6 +404,7 @@
     "66c01f6f96ff7a1b700373c8": {
         "ItemID": "66c01f6f96ff7a1b700373c8",
         "Name": "pg_m107a1",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -435,6 +438,7 @@
     "66c01f64a8c99ba1c1753ed4": {
         "ItemID": "66c01f64a8c99ba1c1753ed4",
         "Name": "bipod_m107a1",
+        "TemplateType": "mod",
         "ModType": "bipod",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,

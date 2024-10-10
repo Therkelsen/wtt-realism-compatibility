@@ -251,6 +251,7 @@
     "66a47edd83cc2e80e6d36bc5": {
         "ItemID": "66a47edd83cc2e80e6d36bc5",
         "Name": "muzzle_iwi_tavor_x95_flash_hider",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -279,6 +280,7 @@
     "66a47eecd5592cc7768ac044": {
         "ItemID": "66a47eecd5592cc7768ac044",
         "Name": "stock_iwi_tavor_x95_comb",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -301,6 +303,7 @@
     "66a5451c697bb9eecd9f12ea": {
         "ItemID": "66a5451c697bb9eecd9f12ea",
         "Name": "stock_iwi_tavor_x95_fde_comb",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -323,6 +326,7 @@
     "66a545b7b9fc33db7e4af704": {
         "ItemID": "66a545b7b9fc33db7e4af704",
         "Name": "stock_iwi_tavor_x95_od_comb",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -345,6 +349,7 @@
     "66a47ef16376a8b51f090f38": {
         "ItemID": "66a47ef16376a8b51f090f38",
         "Name": "stock_iwi_tavor_x95_pad",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -367,6 +372,7 @@
     "66a54520a0de502df2314799": {
         "ItemID": "66a54520a0de502df2314799",
         "Name": "stock_iwi_tavor_x95_pad_fde",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -389,6 +395,7 @@
     "66a545ba19107ab41a2cfd44": {
         "ItemID": "66a545ba19107ab41a2cfd44",
         "Name": "stock_iwi_tavor_x95_pad_od",
+        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -411,6 +418,7 @@
     "66a5465a96a99e2e3fc3cb15": {
         "ItemID": "66a5465a96a99e2e3fc3cb15",
         "Name": "fg_iwi_tavor_x95",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,

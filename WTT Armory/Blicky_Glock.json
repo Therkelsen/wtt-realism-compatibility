@@ -109,6 +109,7 @@
     "6681815c6dd391fa61af0ef9": {
         "ItemID": "6681815c6dd391fa61af0ef9",
         "Name": "rs_rexana_blicky_glock",
+        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -140,6 +141,7 @@
     "66818157842a50032280825d": {
         "ItemID": "66818157842a50032280825d",
         "Name": "muzzle_rexana_blicky_glock",
+        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -30,
@@ -168,6 +170,7 @@
         "ItemID": "668181672f6ecb17fc5b3909",
         "Name": "scope_rexana_blicky_glock",
         "ModType": "sight",
+        "TemplateType": "mod",
         "AimSpeed": -7,
         "Accuracy": -6,
         "ConflictingItems": [],
