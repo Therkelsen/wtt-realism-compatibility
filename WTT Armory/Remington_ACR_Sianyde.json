@@ -1,21 +1,22 @@
 {
-    "acr": {
-        "ItemID": "acr",
+    "67a01e4ea2b82626b73d10a3": {
+        "$type": "RealismMod.Gun, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a3",
         "Name": "acr",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
         "BaseTorque": 1,
         "HasShoulderContact": false,
-        "Ergonomics": 75,
+        "Ergonomics": 80,
         "VerticalRecoil": 81,
         "HorizontalRecoil": 130,
         "Dispersion": 11,
-        "CameraRecoil": 0.04,
-        "VisualMulti": 1.15,
-        "Convergence": 17,
-        "RecoilAngle": 90,
-        "BaseMalfunctionChance": 0.001,
+        "CameraRecoil": 0.039,
+        "VisualMulti": 1.12,
+        "Convergence": 14,
+        "RecoilAngle": 84,
+        "BaseMalfunctionChance": 0.0016,
         "HeatFactorGun": 0.27,
         "HeatFactorByShot": 1,
         "CoolFactorGun": 0.1,
@@ -30,7 +31,7 @@
         "RecoilDamping": 0.85,
         "RecoilHandDamping": 0.6,
         "WeaponAllowADS": false,
-        "Weight": 1.4,
+        "Weight": 0.475,
         "DurabilityBurnRatio": 0.35,
         "AutoROF": 670,
         "SemiROF": 350,
@@ -43,25 +44,27 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.2,
         "OffsetRotation": 0.008,
-        "RecoilIntensity": 0.165
+        "RecoilIntensity": 0.165,
+        "MasteryCategory": "M4"
     },
-    "acrfde": {
-		"ItemID": "acrfde",
+    "67a01e4ea2b82626b73d10a4": {
+        "$type": "RealismMod.Gun, RealismMod",
+		"ItemID": "67a01e4ea2b82626b73d10a4",
         "Name": "acrfde",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
         "BaseTorque": 1,
         "HasShoulderContact": false,
-        "Ergonomics": 75,
+        "Ergonomics": 80,
         "VerticalRecoil": 81,
         "HorizontalRecoil": 130,
         "Dispersion": 11,
-        "CameraRecoil": 0.04,
-        "VisualMulti": 1.15,
-        "Convergence": 17,
-        "RecoilAngle": 90,
-        "BaseMalfunctionChance": 0.001,
+        "CameraRecoil": 0.039,
+        "VisualMulti": 1.12,
+        "Convergence": 14,
+        "RecoilAngle": 84,
+        "BaseMalfunctionChance": 0.0016,
         "HeatFactorGun": 0.27,
         "HeatFactorByShot": 1,
         "CoolFactorGun": 0.1,
@@ -76,7 +79,7 @@
         "RecoilDamping": 0.85,
         "RecoilHandDamping": 0.6,
         "WeaponAllowADS": false,
-        "Weight": 1.4,
+        "Weight": 0.475,
         "DurabilityBurnRatio": 0.35,
         "AutoROF": 670,
         "SemiROF": 350,
@@ -89,10 +92,12 @@
         "BaseChamberCheckSpeed": 1.5,
         "BaseFixSpeed": 1.2,
         "OffsetRotation": 0.008,
-        "RecoilIntensity": 0.165
+        "RecoilIntensity": 0.165,
+        "MasteryCategory": "M4"
     },
-    "scarbufferadapter": {
-        "ItemID": "scarbufferadapter",
+    "67a01e4ea2b82626b73d109f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d109f",
         "Name": "scarbufferadapter",
         "ModType": "buffer_adapter",
         "VerticalRecoil": -7,
@@ -109,12 +114,14 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.31,
+        "Weight": 0.17,
         "LoyaltyLevel": 0,
+        "Handling": 6,
         "Price": 0
     },    
-	"scarbufferadapterfde": {
-        "ItemID": "scarbufferadapterfde",
+	"67a01e4ea2b82626b73d10a0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a0",
         "Name": "scarbufferadapterfde",
         "ModType": "buffer_adapter",
         "VerticalRecoil": -7,
@@ -131,12 +138,14 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.31,
+        "Weight": 0.17,
         "LoyaltyLevel": 0,
+        "Handling": 6,
         "Price": 0
     },	
-    "mk16stockacr": {
-        "ItemID": "mk16stockacr",
+    "67a01e4ea2b82626b73d10a1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a1",
         "Name": "scarstockacr",
         "ModType": "Stock",
         "VerticalRecoil": -5,
@@ -155,10 +164,12 @@
         "ConflictingItems": [],
         "Weight": 0.3,
         "LoyaltyLevel": 0,
+        "AimStability": 7.5,
         "Price": 0
     },
-	"mk16stockacrfde": {
-        "ItemID": "mk16stockacrfde",
+	"67a01e4ea2b82626b73d10a2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a2",
         "Name": "scarstockacrfde",
         "ModType": "Stock",
         "VerticalRecoil": -5,
@@ -177,10 +188,12 @@
         "ConflictingItems": [],
         "Weight": 0.3,
         "LoyaltyLevel": 0,
+        "AimStability": 7.5,
         "Price": 0
     },
-	"acrpmag": {
-        "ItemID": "acrpmag",
+	"67a01e4ea2b82626b73d10a5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a5",
         "Name": "acrpmag",
         "ModType": "",
         "ReloadSpeed": 5,
@@ -195,8 +208,9 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrellong762": {
-        "ItemID": "acrbarrellong762",
+	"67a01e4ea2b82626b73d10a6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a6",
         "Name": "acrbarrellong_762",
         "ModType": "",
 		"VerticalRecoil": 10,
@@ -214,14 +228,15 @@
         "Velocity": 0,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 1.6,
+        "Weight": 0.945,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrelmedium762": {
-        "ItemID": "acrbarrelmedium762",
+	"67a01e4ea2b82626b73d10a7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a7",
         "Name": "acrbarrelmedium_762",
         "ModType": "",
         "VerticalRecoil": 20,
@@ -238,14 +253,15 @@
         "Velocity": -6.5,
         "ConflictingItems": [],
         "Ergonomics": -3,
-        "Weight": 1.3,
+        "Weight": 0.84,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrelshort762": {
-        "ItemID": "acrbarrelshort762",
+	"67a01e4ea2b82626b73d10a8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a8",
         "Name": "acrbarrelshort_762",
         "ModType": "short_barrel",
         "VerticalRecoil": 30,
@@ -263,14 +279,15 @@
         "Velocity": -20,
         "ConflictingItems": [],
         "Ergonomics": 3,
-        "Weight": 0.8,
+        "Weight": 0.765,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrellong": {
-        "ItemID": "acrbarrellong",
+	"67a01e4ea2b82626b73d10a9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10a9",
         "Name": "acrbarrellong",
         "ModType": "",
         "VerticalRecoil": -5,
@@ -286,24 +303,17 @@
         "CoolFactor": 0.94,
         "DurabilityBurnModificator": 0.8,
         "Velocity": 3.9,
-        "ConflictingItems": [
-            "5c0e2f5cd174af02a012cfc9",
-            "5ae30db85acfc408fb139a05",
-            "55d459824bdc2d892f8b4573",
-            "5c78f2792e221600106f4683",
-            "5c78f26f2e221601da3581d1",
-            "5d00e0cbd7ad1a6c6566a42d",
-            "5d00f63bd7ad1a59283b1c1e"
-        ],
+        "ConflictingItems": [],
         "Ergonomics": -5,
-        "Weight": 1.4,
+        "Weight": 0.788,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrelmedium": {
-        "ItemID": "acrbarrelmedium",
+	"67a01e4ea2b82626b73d10aa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10aa",
         "Name": "acrbarrelmedium",
         "ModType": "",
         "VerticalRecoil": 0,
@@ -320,14 +330,15 @@
         "Velocity": -6.5,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 1,
+        "Weight": 0.75,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrbarrelshort": {
-        "ItemID": "acrbarrelshort",
+	"67a01e4ea2b82626b73d10ab": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10ab",
         "Name": "barrel_ar15_260mm",
         "ModType": "short_barrel",
         "VerticalRecoil": 0,
@@ -345,30 +356,33 @@
         "Velocity": -20,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 0.6305,
+        "Weight": 0.675,
         "ShotgunDispersion": 1,
         "Loudness": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrhandguardcqb": {
-        "ItemID": "acrhandguardcqb",
+	"67a01e4ea2b82626b73d10ad": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10ad",
         "Name": "acrhandguardcqb",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
         "Dispersion": -1,
-        "AimSpeed": 0,
+        "AimSpeed": 14,
         "Ergonomics": 13,
         "Accuracy": 12,
         "HeatFactor": 0.97,
         "CoolFactor": 1.03,
         "ConflictingItems": [],
-        "Weight": 0.2,
+        "Weight": 0.226,
+        "AimStability": 5,
         "LoyaltyLevel": 0
     },
-	"acrhandguardcarbine": {
-        "ItemID": "acrhandguardcarbine",
+	"67a01e4ea2b82626b73d10ac": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10ac",
         "Name": "acrhandguardcarbine",
         "ModType": "",
         "VerticalRecoil": -1,
@@ -380,11 +394,13 @@
         "HeatFactor": 0.95,
         "CoolFactor": 1.05,
         "ConflictingItems": [],
-        "Weight": 0.25,
+        "Weight": 0.126,
+        "AimStability": 5.5,
         "LoyaltyLevel": 0
     },
-	"acrhandguarddmr": {
-        "ItemID": "acrhandguarddmr",
+	"67a01e4ea2b82626b73d10ae": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10ae",
         "Name": "acrhandguarddmr",
         "ModType": "",
         "VerticalRecoil": -1,
@@ -396,12 +412,14 @@
         "HeatFactor": 0.943,
         "CoolFactor": 1.04,
         "ConflictingItems": [],
-        "Weight": 0.26,
+        "Weight": 0.232,
         "LoyaltyLevel": 0,
+        "AimStability": 7.5,
         "Price": 0
     },
-	"acrhandguardmagpul": {
-        "ItemID": "acrhandguardmagpul",
+	"67a01e4ea2b82626b73d10af": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10af",
         "Name": "acrhandguardmagpul",
         "ModType": "",
         "VerticalRecoil": -1,
@@ -412,15 +430,15 @@
         "Accuracy": -5,
         "HeatFactor": 1.058,
         "CoolFactor": 1.0042,
-        "ConflictingItems": [
-            "5c0e2f94d174af029f650d56"
-        ],
-        "Weight": 0.19,
+        "ConflictingItems": [],
+        "Weight": 0.143,
+        "AimStability": 3,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrhandguardmagpulfde": {
-        "ItemID": "acrhandguardmagpulfde",
+	"67a01e4ea2b82626b73d10b0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b0",
         "Name": "acrhandguardmagpulfde",
         "ModType": "",
         "VerticalRecoil": -1,
@@ -431,15 +449,15 @@
         "Accuracy": -5,
         "HeatFactor": 1.058,
         "CoolFactor": 1.0042,
-        "ConflictingItems": [
-            "5c0e2f94d174af029f650d56"
-        ],
-        "Weight": 0.19,
+        "ConflictingItems": [],
+        "Weight": 0.143,
         "LoyaltyLevel": 0,
+        "AimStability": 3,
         "Price": 0
     },
-	"acrhandguardmlok": {
-        "ItemID": "acrhandguardmlok",
+	"67a01e4ea2b82626b73d10b1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b1",
         "Name": "acrhandguardmlok",
         "ModType": "",
         "VerticalRecoil": -3,
@@ -451,12 +469,14 @@
         "HeatFactor": 1.02,
         "CoolFactor": 1.032,
         "ConflictingItems": [],
-        "Weight": 0.211,
+        "Weight": 0.377,
         "LoyaltyLevel": 0,
+        "AimStability": 8,
         "Price": 0
     },
-	"acrhandguardshort": {
-        "ItemID": "acrhandguardshort",
+	"67a01e4ea2b82626b73d10b2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b2",
         "Name": "acrhandguardshort",
         "ModType": "",
         "VerticalRecoil": -2,
@@ -467,21 +487,16 @@
         "Accuracy": 9,
         "HeatFactor": 0.965,
         "CoolFactor": 1.044,
-        "ConflictingItems": [
-            "5a34fbadc4a28200741e230a",
-            "5ae30e795acfc408fb139a0b",
-            "56ea8d2fd2720b7c698b4570",
-            "55d3632e4bdc2d972f8b4569",
-            "5d440b93a4b9364276578d4b",
-            "5d440b9fa4b93601354d480c",
-            "5c0e2f94d174af029f650d56"
-        ],
-        "Weight": 0.305,
+        "ConflictingItems": [],
+        "Weight": 0.187,
         "LoyaltyLevel": 0,
+        "Handling": 2,
+        "AimStability": 2.5,
         "Price": 0
     },
-	"acrhandguardshortfde": {
-        "ItemID": "acrhandguardshortfde",
+	"67a01e4ea2b82626b73d10b3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b3",
         "Name": "acrhandguardshortfde",
         "ModType": "",
         "VerticalRecoil": -2,
@@ -492,21 +507,16 @@
         "Accuracy": 9,
         "HeatFactor": 0.965,
         "CoolFactor": 1.044,
-        "ConflictingItems": [
-            "5a34fbadc4a28200741e230a",
-            "5ae30e795acfc408fb139a0b",
-            "56ea8d2fd2720b7c698b4570",
-            "55d3632e4bdc2d972f8b4569",
-            "5d440b93a4b9364276578d4b",
-            "5d440b9fa4b93601354d480c",
-            "5c0e2f94d174af029f650d56"
-        ],
-        "Weight": 0.305,
+        "ConflictingItems": [],
+        "Weight": 0.187,
         "LoyaltyLevel": 0,
+        "Handling": 2,
+        "AimStability": 2.5,
         "Price": 0
     },
-	"acrstockbuffer": {
-        "ItemID": "acrstockbuffer",
+	"67a01e4ea2b82626b73d10b4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b4",
         "Name": "acrstockbuffer",
         "ModType": "buffer_adapter",
         "VerticalRecoil": -7,
@@ -523,34 +533,61 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.31,
+        "Weight": 0.17,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "acrstockcqb": {
-        "ItemID": "acrstockcqb",
-        "Name": "acrstockcqb",
-        "ModType": "Stock",
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
+    "67a01e4ea2b82626b73d10b5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b5",
+        "Name": "acrstockbufferfde",
+        "ModType": "buffer_adapter",
+        "VerticalRecoil": -7,
+        "HorizontalRecoil": -5,
         "Dispersion": 0,
         "CameraRecoil": 5,
-        "AimSpeed": 12,
+        "AimSpeed": 0,
         "Ergonomics": 0,
-        "Accuracy": -2,
-        "HasShoulderContact": true,
-        "BlocksFolding": false,
+        "Accuracy": 0,
+        "HasShoulderContact": false,
+        "BlocksFolding": true,
         "AutoROF": 0,
         "SemiROF": 0,
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.501,
+        "Weight": 0.17,
         "LoyaltyLevel": 0,
         "Price": 0
+    },
+    "67a01e4ea2b82626b73d10b6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b6",
+        "Name": "acrstockcqb",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -14,
+        "Dispersion": -5,
+        "CameraRecoil": -9,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "AimSpeed": 0,
+        "Ergonomics": 10,
+        "Accuracy": 2,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "StockAllowADS": false,
+        "ConflictingItems": [],
+        "Weight": 0.3,
+        "AimStability": 6,
+        "Handling": 4,
+        "LoyaltyLevel": 3,
+        "Price": 0
     },	
-	"acrstockdmr": {
-        "ItemID": "acrstockdmr",
+	"67a01e4ea2b82626b73d10b7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b7",
         "Name": "acrstockdmr",
         "ModType": "Stock",
         "VerticalRecoil": 0,
@@ -567,12 +604,14 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.788,
+        "Weight": 0.5,
         "LoyaltyLevel": 0,
+        "AimStability": 20,
         "Price": 0
     },
-	"acrstockmagpul": {
-        "ItemID": "acrstockmagpul",
+	"67a01e4ea2b82626b73d10b8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b8",
         "Name": "acrstockmagpul",
         "ModType": "Stock",
         "VerticalRecoil": 0,
@@ -589,12 +628,13 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.226,
+        "Weight": 0.3,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrstockmagpulfde": {
-        "ItemID": "acrstockmagpulfde",
+	"67a01e4ea2b82626b73d10b9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10b9",
         "Name": "acrstockmagpulfde",
         "ModType": "Stock",
         "VerticalRecoil": 0,
@@ -611,12 +651,15 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.226,
+        "Weight": 0.3,
+        "AimStability": 3,
+        "Handling": 1,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "acrstockacr": {
-        "ItemID": "acrstockacr",
+    "67a01e4ea2b82626b73d10ba": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10ba",
         "Name": "acrstockacr",
         "ModType": "Stock",
         "VerticalRecoil": 0,
@@ -633,12 +676,15 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.226,
+        "Weight": 0.3,
+        "AimStability": 2,
+        "Handling": 4,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrstockacrfde": {
-        "ItemID": "acrstockacrfde",
+	"67a01e4ea2b82626b73d10bb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10bb",
         "Name": "acrstockacrfde",
         "ModType": "Stock",
         "VerticalRecoil": 0,
@@ -655,12 +701,15 @@
         "ModMalfunctionChance": 0,
         "StockAllowADS": false,
         "ConflictingItems": [],
-        "Weight": 0.226,
+        "Weight": 0.3,
+        "AimStability": 2,
+        "Handling": 4,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrupperreceiver": {
-        "ItemID": "acrupperreceiver",
+	"67a01e4ea2b82626b73d10bc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10bc",
         "Name": "acrupperreceiver",
         "ModType": "",
         "ModMalfunctionChance": 0,
@@ -670,15 +719,16 @@
         "DurabilityBurnModificator": 1,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 0.48,
+        "Weight": 0.2,
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
         "ChamberSpeed": 0,
         "LoyaltyLevel": 0,
         "Price": 0
     },
-	"acrupperreceiverfde": {
-        "ItemID": "acrupperreceiverfde",
+	"67a01e4ea2b82626b73d10bd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a01e4ea2b82626b73d10bd",
         "Name": "acrupperreceiverfde",
         "ModType": "",
         "ModMalfunctionChance": 0,
@@ -688,7 +738,7 @@
         "DurabilityBurnModificator": 1,
         "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 0.48,
+        "Weight": 0.2,
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
         "ChamberSpeed": 0,
