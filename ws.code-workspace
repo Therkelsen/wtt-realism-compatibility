@@ -1,16 +1,20 @@
 {
 	"folders": [
 		{
+			"name": "wtt-realism-compatibility",
 			"path": "."
 		},
 		{
+			"name": "templates",
 			"path": "E:/SPT/user/mods/SPT-Realism/db/templates"
 		},
 		{
+			"name": "Realism Compat' patch 3.4.0",
 			"path": "../../../Downloads/Modding/SPT/3.10/Realism Compat' patch 3.4.0"
 		},
 		{
-			"path": "../../../Downloads/Modding/SPT/3.10/WTT-Armory-HK417-1.1.7"
+			"name": "WTT-Armory-IWICarmel-1.0.1",
+			"path": "../../../Downloads/Modding/SPT/3.10/WTT-Armory-IWICarmel-1.0.1"
 		}
 	],
 	"settings": {}

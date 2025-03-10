@@ -1,5 +1,6 @@
 {
     "66ba249b102a9dd6040a6e7e": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66ba249b102a9dd6040a6e7e",
         "Name": "weapon_iwi_carmel_556x45",
         "TemplateType": "mod",
@@ -48,6 +49,7 @@
         "MasteryCategory": "M4"
     },
     "66ba26a6925f9921573224c9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba26a6925f9921573224c9",
         "Name": "weapon_iwi_carmel_556x45_fde",
         "TemplateType": "mod",
@@ -96,6 +98,7 @@
         "MasteryCategory": "M4"
     },
     "66ba268d7f9d8cfb6d0fbf77": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba268d7f9d8cfb6d0fbf77",
         "Name": "stock_iwi_carmel_folding",
         "TemplateType": "mod",
@@ -119,6 +122,7 @@
         "Price": 0
     },
     "66ba267c60c3c6c47de99a0d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba267c60c3c6c47de99a0d",
         "Name": "stock_iwi_carmel_folding_fde",
         "TemplateType": "mod",
@@ -142,6 +146,7 @@
         "Price": 0
     },
     "66ba266aac4c9f4525d562fa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba266aac4c9f4525d562fa",
         "Name": "stock_iwi_carmel_ergo",
         "TemplateType": "mod",
@@ -165,6 +170,7 @@
         "Price": 0
     },
     "66ba2659b5b76e8fa30000c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba2659b5b76e8fa30000c0",
         "Name": "muzzle_iwi_carmel_flash_hider",
         "TemplateType": "mod",
@@ -175,7 +181,7 @@
         "CameraRecoil": -10,
         "AutoROF": 1.5,
         "SemiROF": 1.5,
-        "ModMalfunctionChance": 0.001,
+        "ModMalfunctionChance": 0,
         "CanCycleSubs": false,
         "Accuracy": 1,
         "HeatFactor": 1,
@@ -195,6 +201,7 @@
         "Flash": -75
     },
     "66ba264700cd37059ee31f36": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba264700cd37059ee31f36",
         "Name": "barrel_iwi_carmel_short",
         "TemplateType": "mod",
@@ -204,7 +211,7 @@
         "AutoROF": 12,
         "SemiROF": 5,
         "CameraRecoil": 15,
-        "ModMalfunctionChance": 0.001,
+        "ModMalfunctionChance": 0,
         "Convergence": 0,
         "Accuracy": 0,
         "CenterOfImpact": 0.028,
@@ -221,6 +228,7 @@
         "Price": 0
     },
     "66ba263161fd22d37d90b085": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba263161fd22d37d90b085",
         "Name": "barrel_iwi_carmel_extended",
         "TemplateType": "mod",
@@ -247,6 +255,7 @@
         "Price": 0
     },
     "66ba262124e3cd6bbf4715a8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba262124e3cd6bbf4715a8",
         "Name": "rail_iwi_carmel_bottom",
         "TemplateType": "mod",
@@ -271,6 +280,7 @@
         "Price": 0
     },
     "66ba2607dea198b6d7a42ef1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba2607dea198b6d7a42ef1",
         "Name": "rail_iwi_carmel_bottom_fde",
         "TemplateType": "mod",
@@ -295,6 +305,7 @@
         "Price": 0
     },
     "66ba25ed9195d94a8f131b2d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba25ed9195d94a8f131b2d",
         "Name": "rail_iwi_carmel_left_cover",
         "TemplateType": "mod",
@@ -319,6 +330,7 @@
         "Price": 0
     },
     "66ba25bec683a649a094b04e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba25bec683a649a094b04e",
         "Name": "rail_iwi_carmel_left_cover_fde",
         "TemplateType": "mod",
@@ -343,6 +355,7 @@
         "Price": 0
     },
     "66ba25d71a26d54d7504d785": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba25d71a26d54d7504d785",
         "Name": "rail_iwi_carmel_right_cover",
         "TemplateType": "mod",
@@ -367,6 +380,7 @@
         "Price": 0
     },
     "66ba25a68e5fcb139f5085e8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba25a68e5fcb139f5085e8",
         "Name": "rail_iwi_carmel_right_cover_fde",
         "TemplateType": "mod",
@@ -391,6 +405,7 @@
         "Price": 0
     },
     "66ba253030ea88abba95c7ed": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba253030ea88abba95c7ed",
         "Name": "pg_iwi_carmel_polymer",
         "TemplateType": "mod",
@@ -415,6 +430,7 @@
         "Price": 0
     },
     "66ba25755bd539b9238365b0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba25755bd539b9238365b0",
         "Name": "pg_iwi_carmel_polymer_fde",
         "TemplateType": "mod",
@@ -439,6 +455,7 @@
         "Price": 0
     },
     "66ba297b859e57cf91e38a5d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba297b859e57cf91e38a5d",
         "Name": "rs_mbus3",
         "TemplateType": "mod",
@@ -454,6 +471,7 @@
         "Price": 0
     },
     "66ba29d44744d98a4df0073b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba29d44744d98a4df0073b",
         "Name": "rs_mbus3_fde",
         "TemplateType": "mod",
@@ -469,6 +487,7 @@
         "Price": 0
     },
     "66ba2a7583204e25695233c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba2a7583204e25695233c0",
         "Name": "fs_mbus3",
         "TemplateType": "mod",
@@ -484,6 +503,7 @@
         "Price": 0
     },
     "66ba2a6be18ed84221edd72d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba2a6be18ed84221edd72d",
         "Name": "fs_mbus3_fde",
         "TemplateType": "mod",
