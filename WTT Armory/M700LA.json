@@ -1,5 +1,6 @@
 {
     "deee28079e76d537f532021c": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "deee28079e76d537f532021c",
         "Name": "weapon_m700la_338_lm",
         "TemplateType": "gun",
@@ -17,8 +18,8 @@
         "Convergence": 5,
         "RecoilAngle": 90,
         "BaseMalfunctionChance": 0.0019,
-        "HeatFactorGun": 1,
-        "HeatFactorByShot": 6.72,
+        "HeatFactorGun": 1.6,
+        "HeatFactorByShot": 1,
         "CoolFactorGun": 0.1,
         "CoolFactorGunMods": 1,
         "AllowOverheat": true,
@@ -53,6 +54,7 @@
         "MasteryCategory": "SV98"
     },
     "1bf618e47cce6d69bec01e9f": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "1bf618e47cce6d69bec01e9f",
         "Name": "weapon_m700la_338_nm",
         "TemplateType": "gun",
@@ -70,8 +72,8 @@
         "Convergence": 5,
         "RecoilAngle": 90,
         "BaseMalfunctionChance": 0.0019,
-        "HeatFactorGun": 1,
-        "HeatFactorByShot": 6.72,
+        "HeatFactorGun": 1.6,
+        "HeatFactorByShot": 1,
         "CoolFactorGun": 0.1,
         "CoolFactorGunMods": 1,
         "AllowOverheat": true,
@@ -106,6 +108,7 @@
         "MasteryCategory": "SV98"
     },
     "277727478d7eb1da0e5b3354": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "277727478d7eb1da0e5b3354",
         "Name": "barrel_m700la_338_lm_twolf_26inch",
         "TemplateType": "mod",
@@ -139,6 +142,7 @@
         "Price": 0
     },
     "203c45db79fbca33622069f7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "203c45db79fbca33622069f7",
         "Name": "barrel_m700la_338_nm_twolf_26inch",
         "TemplateType": "mod",
@@ -172,6 +176,7 @@
         "Price": 0
     },
     "c68564cf5a0d02bc54ea5725": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c68564cf5a0d02bc54ea5725",
         "Name": "barrel_m700la_338_nm_xcaliber_14inch",
         "TemplateType": "mod",
@@ -205,6 +210,7 @@
         "Price": 0
     },
     "924d08fd140d56bc7e395091": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "924d08fd140d56bc7e395091",
         "Name": "barrel_m700la_338_nm_xcaliber_16inch",
         "TemplateType": "mod",
@@ -238,6 +244,7 @@
         "Price": 0
     },
     "2094b55ae444de6c8a241d48": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2094b55ae444de6c8a241d48",
         "Name": "barrel_m700la_338_nm_xcaliber_18inch",
         "TemplateType": "mod",
@@ -271,6 +278,7 @@
         "Price": 0
     },
     "0e60e51a2dce673d5ed173bf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0e60e51a2dce673d5ed173bf",
         "Name": "barrel_m700la_338_nm_xcaliber_20inch",
         "TemplateType": "mod",
@@ -304,6 +312,7 @@
         "Price": 0
     },
     "b5764983c9a6fb507af2aeb3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b5764983c9a6fb507af2aeb3",
         "Name": "barrel_m700la_338_nm_xcaliber_22inch",
         "TemplateType": "mod",
@@ -337,6 +346,7 @@
         "Price": 0
     },
     "51c4d8a19eeb65f225154688": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "51c4d8a19eeb65f225154688",
         "Name": "barrel_m700la_338_nm_xcaliber_24inch",
         "TemplateType": "mod",
@@ -370,6 +380,7 @@
         "Price": 0
     },
     "5ad7771228e921777b30536f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5ad7771228e921777b30536f",
         "Name": "barrel_m700la_338_nm_xcaliber_26inch",
         "TemplateType": "mod",
@@ -403,6 +414,7 @@
         "Price": 0
     },
     "07514b8fc5d75c3adb78c64c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "07514b8fc5d75c3adb78c64c",
         "Name": "barrel_m700la_338_nm_xcaliber_28inch",
         "TemplateType": "mod",
@@ -436,6 +448,7 @@
         "Price": 0
     },
     "4efd57bf8ef993ea989884cd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4efd57bf8ef993ea989884cd",
         "Name": "hg_m700la_lm_mdt_ess_12inch",
         "TemplateType": "mod",
@@ -456,6 +469,7 @@
         "Price": 0
     },
     "8bf881390b6747006aae77a3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8bf881390b6747006aae77a3",
         "Name": "hg_m700la_lm_mdt_ess_15inch",
         "TemplateType": "mod",
@@ -476,6 +490,7 @@
         "Price": 0
     },
     "ff31402cb7b0b1d43491337c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ff31402cb7b0b1d43491337c",
         "Name": "hg_m700la_lm_mdt_ess_18inch",
         "TemplateType": "mod",
@@ -496,6 +511,7 @@
         "Price": 0
     },
     "f1b1a0db4986e718711a8e80": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f1b1a0db4986e718711a8e80",
         "Name": "mag_m700la_lm_5rd",
         "TemplateType": "mod",
@@ -513,6 +529,7 @@
         "Price": 0
     },
     "05d4400c84ab3eb0e7722625": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "05d4400c84ab3eb0e7722625",
         "Name": "mag_m700la_lm_10rd",
         "TemplateType": "mod",
@@ -530,6 +547,7 @@
         "Price": 0
     },
     "c572ff3cb1b04b5dd73e615b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c572ff3cb1b04b5dd73e615b",
         "Name": "mount_m700la_lm_imuns",
         "TemplateType": "mod",
@@ -549,6 +567,7 @@
         "Price": 0
     },
     "70493dc2459f53ff14b14175": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "70493dc2459f53ff14b14175",
         "Name": "rail_m700la_lm_imuns_side",
         "TemplateType": "mod",
@@ -568,6 +587,7 @@
         "Price": 0
     },
     "ec7a054379216e7ccf2d35f7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ec7a054379216e7ccf2d35f7",
         "Name": "stock_m700la_lm_buffer_adapter",
         "TemplateType": "mod",
@@ -593,6 +613,7 @@
         "Price": 0
     },
     "c8548cdf0e490383177f37c1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c8548cdf0e490383177f37c1",
         "Name": "muzzle_m700la_lm_silencer_twolf",
         "TemplateType": "mod",
@@ -603,7 +624,7 @@
         "CameraRecoil": -15,
         "AutoROF": 2,
         "SemiROF": 2.8,
-        "ModMalfunctionChance": 0.002,
+        "ModMalfunctionChance": 0,
         "CanCycleSubs": false,
         "Accuracy": 3,
         "HeatFactor": 1.16,
@@ -622,6 +643,7 @@
         "Flash": -25
     },
     "8c0343f717834fd6d4825a58": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8c0343f717834fd6d4825a58",
         "Name": "muzzle_m700la_lm_muzzle_brake_twolf",
         "TemplateType": "mod",
@@ -650,6 +672,7 @@
         "Flash": 15
     },
     "356e3ea40ac16f18c938ac53": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "356e3ea40ac16f18c938ac53",
         "Name": "stock_m700la_lm_mcmillan_black",
         "TemplateType": "mod",
@@ -683,6 +706,7 @@
         "Price": 0
     },
     "2fc4f74291323723f4e2b05d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2fc4f74291323723f4e2b05d",
         "Name": "stock_m700la_lm_mcmillan_fde",
         "TemplateType": "mod",
@@ -716,6 +740,7 @@
         "Price": 0
     },
     "ef91b747041c9337fd9a711b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ef91b747041c9337fd9a711b",
         "Name": "stock_m700la_lm_mcmillan_od",
         "TemplateType": "mod",
@@ -749,6 +774,7 @@
         "Price": 0
     },
     "c0a00711f992a1aecdc53ae0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c0a00711f992a1aecdc53ae0",
         "Name": "stock_m700la_lm_aics",
         "TemplateType": "mod",
@@ -779,6 +805,7 @@
         "Price": 0
     },
     "275dd0d822b1fcaeb831ff87": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "275dd0d822b1fcaeb831ff87",
         "Name": "stock_m700la_lm_mdt_ess",
         "TemplateType": "mod",
@@ -809,6 +836,7 @@
         "Price": 0
     },
     "29ac2a6601d5e966724ccb69": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "29ac2a6601d5e966724ccb69",
         "Name": "stock_m700la_lm_buffer_tube",
         "TemplateType": "mod",
@@ -833,6 +861,7 @@
         "Price": 0
     },
     "48c722b422ad38933164b39c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "48c722b422ad38933164b39c",
         "Name": "stock_m700la_mdt_srs",
         "TemplateType": "mod",
@@ -856,6 +885,7 @@
         "Price": 0
     },
     "ea4cdb6fc3dd4f799eeef33e": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "ea4cdb6fc3dd4f799eeef33e",
         "Name": "ammo_338_norma_fmj_250gr",
         "LoyaltyLevel": 4,
@@ -865,6 +895,7 @@
         "BasePriceModifier": 1
     },
     "c556f40e464c7f09d4c757fc": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "c556f40e464c7f09d4c757fc",
         "Name": "ammo_338_norma_fmj_300gr",
         "LoyaltyLevel": 4,

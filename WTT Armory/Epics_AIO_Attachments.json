@@ -1,5 +1,6 @@
 {
     "9a4179548257f7a1f63f30b1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9a4179548257f7a1f63f30b1",
         "Name": "eliminator_556",
 		"TemplateType": "mod",
@@ -27,6 +28,7 @@
         "Price": 0
     },
     "e94de16b0e19077ac1a4c90a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e94de16b0e19077ac1a4c90a",
         "Name": "eliminator_762",
 		"TemplateType": "mod",
@@ -54,6 +56,7 @@
         "Price": 0
     },
     "b2e11e2c2b506ea42e29566f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b2e11e2c2b506ea42e29566f",
         "Name": "strike_cookie_cutter",
 		"TemplateType": "mod",
@@ -81,6 +84,7 @@
         "Price": 0
     },       
     "e519d0baabca193610169427": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e519d0baabca193610169427",
         "Name": "strike_cookie_cutter762",
 		"TemplateType": "mod",
@@ -108,6 +112,7 @@
         "Price": 0
     },
     "c9257470d63d1452d7617308": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c9257470d63d1452d7617308",
         "Name": "strike_cookie_cutter9_19",
 		"TemplateType": "mod",
@@ -135,6 +140,7 @@
         "Price": 0
     },
     "173203ac7780e64538343f21": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "173203ac7780e64538343f21",
         "Name": "cadex_mx1_308",
 		"TemplateType": "mod",
@@ -162,6 +168,7 @@
         "Price": 0
     },
     "690458c8c8f726648b11ac19": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "690458c8c8f726648b11ac19",
         "Name": "harris_bp_railmount",
 		"TemplateType": "mod",
@@ -182,6 +189,7 @@
         "Price": 0
     },
     "8af8534244b4e4189d53bec2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8af8534244b4e4189d53bec2",
         "Name": "MOD_BIPOD",
 		"TemplateType": "mod",
@@ -202,6 +210,7 @@
         "Price": 0
     },
     "f5c4bf2acf4b0f66d514c0de": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f5c4bf2acf4b0f66d514c0de",
         "Name": "atlas_bp",
 		"TemplateType": "mod",
@@ -222,6 +231,7 @@
         "Price": 0
     },
     "0f8b8c2fc55b90cea6b5b63b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0f8b8c2fc55b90cea6b5b63b",
         "Name": "bipod_stud_mlok",
 		"TemplateType": "mod",
@@ -242,6 +252,7 @@
         "Price": 0
     }, 
     "923987338260a1bb89e6a11b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "923987338260a1bb89e6a11b",
         "Name": "mount_m_lok_magpul_2,5_inch_picatinny_rail_section_bipods",
 		"TemplateType": "mod",
@@ -254,6 +265,7 @@
         "Price": 0
     },
     "e4f2fd43b5613348b6e25bb5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e4f2fd43b5613348b6e25bb5",
         "Name": "g$_sp34mm_ddc",
 		"TemplateType": "mod",
@@ -266,6 +278,7 @@
         "Price": 0
     },
     "2437ee507945dfe829ddf298": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2437ee507945dfe829ddf298",
         "Name": "g$_34mm_cap_ddc",
 		"TemplateType": "mod",
@@ -278,6 +291,7 @@
         "Price": 0
     },
     "b2d57758abe9bb9345c58e4a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b2d57758abe9bb9345c58e4a",
         "Name": "g$_sp34mm_blk",
 		"TemplateType": "mod",
@@ -292,6 +306,7 @@
         "Price": 0
     }, 
     "67ea8b32e0d7701fc6bfc5bf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "67ea8b32e0d7701fc6bfc5bf",
         "Name": "g$_sp34mm_ddc",
 		"TemplateType": "mod",
@@ -306,6 +321,7 @@
         "Price": 0
     }, 
     "ee8d5029626f7ba2e1510676": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ee8d5029626f7ba2e1510676",
         "Name": "34mm_rof_90_blk",
 		"TemplateType": "mod",
@@ -318,6 +334,7 @@
         "Price": 0
     },
     "959b54e7798be68a1a54ff81": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "959b54e7798be68a1a54ff81",
         "Name": "34mm_rof_90_ddc",
 		"TemplateType": "mod",
@@ -330,6 +347,7 @@
         "Price": 0
     },
     "d4424e8a8d6e6789adbfcde2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d4424e8a8d6e6789adbfcde2",
         "Name": "34mm_rof_45_blk",
 		"TemplateType": "mod",
@@ -342,6 +360,7 @@
         "Price": 0
     },
     "42aac757e1ac8161f6ec6766": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "42aac757e1ac8161f6ec6766",
         "Name": "34mm_rof_45_ddc",
 		"TemplateType": "mod",
@@ -354,6 +373,7 @@
         "Price": 0
     },
     "81ee14e532991b2b9993ae0e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "81ee14e532991b2b9993ae0e",
         "Name": "rof2_5mm_spacer_blk",
 		"TemplateType": "mod",
@@ -365,7 +385,8 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-        "ac738256c846acc25b183a80": {
+    "ac738256c846acc25b183a80": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ac738256c846acc25b183a80",
         "Name": "rof2_5mm_spacer_ddc",
 		"TemplateType": "mod",
@@ -378,6 +399,7 @@
         "Price": 0
     },
     "26f02172906cbaa1ae78e57d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "26f02172906cbaa1ae78e57d",
         "Name": "rof_10mm_spacer_blk",
 		"TemplateType": "mod",
@@ -390,6 +412,7 @@
         "Price": 0
     },
     "87690b1fadc788a959d42e46": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "87690b1fadc788a959d42e46",
         "Name": "rof_10mm_spacer_ddc",
 		"TemplateType": "mod",
@@ -402,6 +425,7 @@
         "Price": 0
     },
     "85ce98958d5359f66eef9b0d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "85ce98958d5359f66eef9b0d",
         "Name": "cadex_mx1_338",
 		"TemplateType": "mod",
@@ -429,6 +453,7 @@
         "Price": 0
     },
     "d55014a6621462a7463f15aa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d55014a6621462a7463f15aa",
         "Name": "procomp_223",
 		"TemplateType": "mod",
@@ -456,6 +481,7 @@
         "Price": 0
     },
     "9c06aeb6f02f89a27cae4529": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9c06aeb6f02f89a27cae4529",
         "Name": "reciever_mcx_sig_rattler",
 		"TemplateType": "mod",
@@ -475,6 +501,7 @@
         "Price": 0
     },
     "dc11a1427ce1fc75d04a1e38": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "dc11a1427ce1fc75d04a1e38",
         "Name": "reciever_mcx_sig_rattler_fde",
 		"TemplateType": "mod",
@@ -494,6 +521,7 @@
         "Price": 0
     },
     "ad81fd2ff8a755342ea626c4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ad81fd2ff8a755342ea626c4",
         "Name": "mcx_droop_stock",
 		"TemplateType": "mod",
@@ -517,6 +545,7 @@
         "Price": 0
     },
     "e867f7af4227e85c5f089ce4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e867f7af4227e85c5f089ce4",
         "Name": "gas_block_mcx_sig_mcx_std",
 		"TemplateType": "mod",
@@ -539,6 +568,7 @@
         "Price": 0
     },
     "9930f05d4e38813e5ef5ff90": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9930f05d4e38813e5ef5ff90",
         "Name": "rattler_300_3pr",
 		"TemplateType": "mod",
@@ -566,6 +596,7 @@
         "Price": 0
     },
     "7f35c72194fb98852c83a2da": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7f35c72194fb98852c83a2da",
         "Name": "rattler_556_3pr",
 		"TemplateType": "mod",
@@ -593,6 +624,7 @@
         "Price": 0
     },
     "3b690b1d6ab6940d0e231895": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3b690b1d6ab6940d0e231895",
         "Name": "rattler_pg",
 		"TemplateType": "mod",
@@ -608,7 +640,26 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "e81ca38571e29b3f1f98ebb9": {
+            "$type": "RealismMod.WeaponMod, RealismMod",
+            "ItemID": "e81ca38571e29b3f1f98ebb9",
+            "Name": "rattler_pg_blk",
+            "ModType": "",
+            "VerticalRecoil": 0,
+            "HorizontalRecoil": 0,
+            "Dispersion": 0,
+            "AimSpeed": 0,
+            "Ergonomics": 5,
+            "Accuracy": 0,
+            "ConflictingItems": [],
+            "Weight": 0.08,
+            "LoyaltyLevel": 1,
+            "Price": 0,
+            "AimStability": 2,
+            "Handling": 2
+    },
     "5eb573512daee7c86171a26f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5eb573512daee7c86171a26f",
         "Name": "rattler_base_hg",
 		"TemplateType": "mod",
@@ -626,7 +677,28 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "4e826b607efd7bd4630609c9": {
+            "$type": "RealismMod.WeaponMod, RealismMod",
+            "ItemID": "4e826b607efd7bd4630609c9",
+            "Name": "rattler_base_hg_fde",
+            "ModType": "",
+            "VerticalRecoil": -3,
+            "HorizontalRecoil": -2,
+            "Dispersion": -1,
+            "AimSpeed": 0,
+            "Ergonomics": 8,
+            "Accuracy": 8,
+            "HeatFactor": 0.973,
+            "CoolFactor": 1.022,
+            "ConflictingItems": [],
+            "Weight": 0.39,
+            "LoyaltyLevel": 2,
+            "Price": 0,
+            "Handling": 3,
+            "AimStability": 2
+    },
     "ae31c03a6323ef563cf37d5b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ae31c03a6323ef563cf37d5b",
         "Name": "rattler_canebrake",
 		"TemplateType": "mod",
@@ -645,6 +717,7 @@
         "Price": 0
     },
     "65f119212ffe657478130322": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "65f119212ffe657478130322",
         "Name": "muzzle_ak_cnc_warrior_ar15_thread_adapter",
 		"TemplateType": "mod",
@@ -672,6 +745,7 @@
         "Price": 0
     },
     "d58286c3428cd91b964031e4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d58286c3428cd91b964031e4",
         "Name": "Pic_Adapter_for_AK",
 		"TemplateType": "mod",
@@ -695,6 +769,7 @@
         "Price": 0
     },
     "185bbb4e20e87b9aec36b1d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "185bbb4e20e87b9aec36b1d5",
         "Name": "Pic_Adapter_for_AK",
 		"TemplateType": "mod",
@@ -718,6 +793,7 @@
         "Price": 0
     },
     "df1d3bfbd9835563f1574809": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "df1d3bfbd9835563f1574809",
         "Name": "ak12_stock",
 		"TemplateType": "mod",
@@ -741,6 +817,7 @@
         "Price": 0
     },
     "aad64351987e90dfe662da95": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "aad64351987e90dfe662da95",
         "Name": "dtk2_mb_9mm",
 		"TemplateType": "mod",
@@ -768,6 +845,7 @@
         "Price": 0
     },
     "46cd26d8aff75c3562a031e5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "46cd26d8aff75c3562a031e5",
         "Name": "dtk2_mb_762_545",
 		"TemplateType": "mod",
@@ -794,7 +872,30 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "9d387502b50d1f4b0fb8b0ce": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "9d387502b50d1f4b0fb8b0ce",
+        "Name": "sag_buttstock_adapter_folding",
+        "ModType": "buffer_adapter",
+        "VerticalRecoil": -15,
+        "HorizontalRecoil": 7.5,
+        "Dispersion": 0,
+        "CameraRecoil": 7.5,
+        "AimSpeed": 0,
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "HasShoulderContact": false,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [],
+        "Weight": 0.23,
+        "LoyaltyLevel": 5
+    },
     "bd88c49e7facfbf335cbc734": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bd88c49e7facfbf335cbc734",
         "Name": "twi_supp",
 		"TemplateType": "mod",
@@ -822,6 +923,7 @@
         "Price": 0
     },
     "46985a823edd7a01b03450ed": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "46985a823edd7a01b03450ed",
         "Name": "twi_supp_thin",
 		"TemplateType": "mod",
@@ -849,6 +951,7 @@
         "Price": 0
     },
     "52b4ebb9ffb12bb3826e6cb3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "52b4ebb9ffb12bb3826e6cb3",
         "Name": "b9_rail",
 		"TemplateType": "mod",
@@ -861,6 +964,7 @@
         "Price": 0
     },
     "dd6b29946db0932ea75e09c4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "dd6b29946db0932ea75e09c4",
         "Name": "silencer_ak12_izhmash_ak15_supressor_std_762x39",
 		"TemplateType": "mod",
@@ -888,6 +992,7 @@
         "Price": 0
     },
     "43b167b7a5c61d36f59f0783": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "43b167b7a5c61d36f59f0783",
         "Name": "muzzle_ak12_izhmash_ak15_muzzle_brake_std_762x39",
 		"TemplateType": "mod",
@@ -916,6 +1021,7 @@
         "Price": 0
     },
     "21592d3fa4a2a0fa07fc5c2e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "21592d3fa4a2a0fa07fc5c2e",
         "Name": "silencer_qdc_kac_qdc_suppressor_556x45",
 		"TemplateType": "mod",
@@ -943,6 +1049,7 @@
         "Price": 0
     },
     "6878917c7adb7e17eb1273ce": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6878917c7adb7e17eb1273ce",
         "Name": "muzzle_ar15_surefire_warcomp_556_556x45",
 		"TemplateType": "mod",
@@ -970,6 +1077,7 @@
         "Price": 0
     },
     "f8e4f114d51be3084526ebdd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f8e4f114d51be3084526ebdd",
         "Name": "huxwrks_flow_556k_blk",
 		"TemplateType": "mod",
@@ -997,6 +1105,7 @@
         "Price": 0
     },
     "71da7f0c9145e92bd1022c53": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "71da7f0c9145e92bd1022c53",
         "Name": "huxwrks_flow_556k_tan",
 		"TemplateType": "mod",
@@ -1024,6 +1133,7 @@
         "Price": 0
     },
     "bf822c61ce39580e026b6801": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bf822c61ce39580e026b6801",
         "Name": "huxwrks_556k_fh",
 		"TemplateType": "mod",
@@ -1051,6 +1161,7 @@
         "Price": 0
     },       
     "ad483d8373c8ff078103aaa1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ad483d8373c8ff078103aaa1",
         "Name": "sfct_556",
 		"TemplateType": "mod",
@@ -1078,6 +1189,7 @@
         "Price": 0
     },
     "80cbe6559756b8811d5542e5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "80cbe6559756b8811d5542e5",
         "Name": "sfmb_556",
 		"TemplateType": "mod",
@@ -1105,6 +1217,7 @@
         "Price": 0
     },
     "ef976a5a821bbb0200991f9a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ef976a5a821bbb0200991f9a",
         "Name": "sfmb_762",
 		"TemplateType": "mod",
@@ -1132,6 +1245,7 @@
         "Price": 0
     },
     "7fe5839a2d1e2eb9c6045f11": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7fe5839a2d1e2eb9c6045f11",
         "Name": "warct_556",
 		"TemplateType": "mod",
@@ -1159,6 +1273,7 @@
         "Price": 0
     },
     "10c1dae2a05599e8a2b59cda": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "10c1dae2a05599e8a2b59cda",
         "Name": "muzzle_ar15_surefire_sf3p_flash_hider_556x45",
 		"TemplateType": "mod",
@@ -1186,6 +1301,7 @@
         "Price": 0
     },
     "21cc9c10a1749109db74b288": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "21cc9c10a1749109db74b288",
         "Name": "silencer_socom_surefire_socom762_rc2_76251",
 		"TemplateType": "mod",
@@ -1213,6 +1329,7 @@
         "Price": 0
     },
     "e14eccdfdd902727fe268ed1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e14eccdfdd902727fe268ed1",
         "Name": "sfmb338",
 		"TemplateType": "mod",
@@ -1240,6 +1357,7 @@
         "Price": 0
     },
     "ea0407e322d619bdb163795c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ea0407e322d619bdb163795c",
         "Name": "surefire_rc3_blk_556x45",
 		"TemplateType": "mod",
@@ -1267,6 +1385,7 @@
         "Price": 0
     },
     "9f56d67e30b6ee14fbd99821": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9f56d67e30b6ee14fbd99821",
         "Name": "surefire_rc3_blk_556x45",
 		"TemplateType": "mod",
@@ -1294,6 +1413,7 @@
         "Price": 0
     },
     "ba84e1c4ee4d504cb0bdbb0d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ba84e1c4ee4d504cb0bdbb0d",
         "Name": "socom338ti",
 		"TemplateType": "mod",
@@ -1322,6 +1442,7 @@
         "Price": 0
     },
     "40c62378fa93a829532ecc5e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "40c62378fa93a829532ecc5e",
         "Name": "aac-m4-2000blk",
 		"TemplateType": "mod",
@@ -1349,6 +1470,7 @@
         "Price": 0
     },
     "6d9f22a75064ebb92b3ece1c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6d9f22a75064ebb92b3ece1c",
         "Name": "aac-m4-2000tan",
 		"TemplateType": "mod",
@@ -1376,6 +1498,7 @@
         "Price": 0
     },
     "10a09a7adb949d7516c96c2f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "10a09a7adb949d7516c96c2f",
         "Name": "b&t_rbs_c_762_sf",
 		"TemplateType": "mod",
@@ -1403,6 +1526,7 @@
         "Price": 0
     },
     "4eec6c5df7521b4c5512d257": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4eec6c5df7521b4c5512d257",
         "Name": "urx4_13_tan",
 		"TemplateType": "mod",
@@ -1428,6 +1552,7 @@
         "Price": 0
     },
     "2954b640d102782dbd31f967": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2954b640d102782dbd31f967",
         "Name": "urx4_13_blk",
 		"TemplateType": "mod",
@@ -1453,6 +1578,7 @@
         "Price": 0
     },
     "cdd912ad2c46dc2c85ddabe9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cdd912ad2c46dc2c85ddabe9",
         "Name": "urx4_145_tan",
 		"TemplateType": "mod",
@@ -1478,6 +1604,7 @@
         "Price": 0
     },
     "575c716cbedac41ab557af94": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "575c716cbedac41ab557af94",
         "Name": "urx4_145_blk",
 		"TemplateType": "mod",
@@ -1503,6 +1630,7 @@
         "Price": 0
     },
     "5ce8cbc95925855be248fb33": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5ce8cbc95925855be248fb33",
         "Name": "urx4_1075_blk",
 		"TemplateType": "mod",
@@ -1525,6 +1653,7 @@
         "Price": 0
     },
     "d358ade47bd93cce3bb7afa6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d358ade47bd93cce3bb7afa6",
         "Name": "urx4_1075_tan",
 		"TemplateType": "mod",
@@ -1547,6 +1676,7 @@
         "Price": 0
     },
     "eb351db5c0033682427e5ddf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "eb351db5c0033682427e5ddf",
         "Name": "urx4_85_blk",
 		"TemplateType": "mod",
@@ -1569,6 +1699,7 @@
         "Price": 0
     },
     "18b71fb6878ffa6640e75aa1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "18b71fb6878ffa6640e75aa1",
         "Name": "urx4_85_tan",
 		"TemplateType": "mod",
@@ -1591,6 +1722,7 @@
         "Price": 0
     },
     "877f002b7dadc7ae31d1fda1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "877f002b7dadc7ae31d1fda1",
         "Name": "unity-micro-226",
 		"TemplateType": "mod",
@@ -1603,6 +1735,7 @@
         "Price": 0
     },
     "de53b0fd978f0eaad71c5528": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "de53b0fd978f0eaad71c5528",
         "Name": "hydra-mid-blk",
 		"TemplateType": "mod",
@@ -1615,6 +1748,7 @@
         "Price": 0
     },
     "d3e07e32dc01693c226878dc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d3e07e32dc01693c226878dc",
         "Name": "hydra-mid-fde",
 		"TemplateType": "mod",
@@ -1627,6 +1761,7 @@
         "Price": 0
     },
     "befd7a2bbc07793f73133f2c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "befd7a2bbc07793f73133f2c",
         "Name": "unity_scope_high",
 		"TemplateType": "mod",
@@ -1640,7 +1775,33 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "93efffa7844876067d81dca5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "93efffa7844876067d81dca5",
+        "Name": "acro_pic_mount_short",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.07,
+        "LoyaltyLevel": 1,
+        "Price": 0,
+        "TemplateType": "weaponmod"
+    },
+    "85a2077a2a40a73a0f95f74a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "85a2077a2a40a73a0f95f74a",
+        "Name": "micro_offset",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": -15,
+        "ConflictingItems": [],
+        "Weight": 0.04,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
     "0bba67a701522f99575b181f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0bba67a701522f99575b181f",
         "Name": "ris_iii_13l_fde",
 		"TemplateType": "mod",
@@ -1664,6 +1825,7 @@
         "Price": 0
     },
     "06f91b13baa74bd3f49b387c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "06f91b13baa74bd3f49b387c",
         "Name": "ris_iii_13l_dfde",
 		"TemplateType": "mod",
@@ -1687,6 +1849,7 @@
         "Price": 0
     },
     "474fc2c71c535aaa54973e7f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "474fc2c71c535aaa54973e7f",
         "Name": "ris_iii_13l_blk",
 		"TemplateType": "mod",
@@ -1710,6 +1873,7 @@
         "Price": 0
     },
     "5658c6dbe290e948a715c896": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5658c6dbe290e948a715c896",
         "Name": "ris_iii_12_5l_fde",
 		"TemplateType": "mod",
@@ -1733,6 +1897,7 @@
         "Price": 0
     },
     "e214a01a6e82932b9ba17c2a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e214a01a6e82932b9ba17c2a",
         "Name": "ris_iii_12_5l_dfde",
 		"TemplateType": "mod",
@@ -1756,6 +1921,7 @@
         "Price": 0
     },
     "43f5accd8a978396dfb0754c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "43f5accd8a978396dfb0754c",
         "Name": "ris_iii_12_5l_blk",
 		"TemplateType": "mod",
@@ -1779,6 +1945,7 @@
         "Price": 0
     },
     "eb314fb4d8025c0d696a3ffc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "eb314fb4d8025c0d696a3ffc",
         "Name": "ris_iii_10_5l_fde",
 		"TemplateType": "mod",
@@ -1802,6 +1969,7 @@
         "Price": 0
     },
     "887069265f946005918c6279": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "887069265f946005918c6279",
         "Name": "ris_iii_10_5l_dfde",
 		"TemplateType": "mod",
@@ -1825,6 +1993,7 @@
         "Price": 0
     },
     "d08180b5c44b8b094246f8c3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "474fc2c71c535aaa54973e7f",
         "Name": "ris_iii_10_5l_blk",
 		"TemplateType": "mod",
@@ -1848,6 +2017,7 @@
         "Price": 0
     },
     "033ccd2711dabbb7eecea522": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "033ccd2711dabbb7eecea522",
         "Name": "ris_iii_9_5l_fde",
 		"TemplateType": "mod",
@@ -1871,6 +2041,7 @@
         "Price": 0
     },
     "5a6d510008f101731e1ccad1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5a6d510008f101731e1ccad1",
         "Name": "ris_iii_9_5l_dfde",
 		"TemplateType": "mod",
@@ -1894,6 +2065,7 @@
         "Price": 0
     },
     "c05b151aa1c288e00f6204a8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "474fc2c71c535aaa54973e7f",
         "Name": "ris_iii_9_5l_blk",
 		"TemplateType": "mod",
@@ -1917,6 +2089,7 @@
         "Price": 0
     },
     "2dd0bae941a035f84debc5d1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2dd0bae941a035f84debc5d1",
         "Name": "ris_iii_13u_fde",
 		"TemplateType": "mod",
@@ -1940,6 +2113,7 @@
         "Price": 0
     },
     "86171495d4b6145eb4f0f1d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "86171495d4b6145eb4f0f1d5",
         "Name": "ris_iii_13u_dfde",
 		"TemplateType": "mod",
@@ -1963,6 +2137,7 @@
         "Price": 0
     },
     "909d5c3241210a0bc5a22fa0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "909d5c3241210a0bc5a22fa0",
         "Name": "ris_iii_13u_blk",
 		"TemplateType": "mod",
@@ -1986,6 +2161,7 @@
         "Price": 0
     },
     "6581a57dfb78e9f0f816c845": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6581a57dfb78e9f0f816c845",
         "Name": "ris_iii_12_5u_fde",
 		"TemplateType": "mod",
@@ -2009,6 +2185,7 @@
         "Price": 0
     },
     "b9acede708b1c97d3c895862": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b9acede708b1c97d3c895862",
         "Name": "ris_iii_12_5u_dfde",
 		"TemplateType": "mod",
@@ -2032,6 +2209,7 @@
         "Price": 0
     },
     "59126f13e8bf4e9db57a14d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "59126f13e8bf4e9db57a14d5",
         "Name": "ris_iii_12_5u_blk",
 		"TemplateType": "mod",
@@ -2055,6 +2233,7 @@
         "Price": 0
     },
     "1a72eed8a4467f67e02eb6a5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "1a72eed8a4467f67e02eb6a5",
         "Name": "ris_iii_10_5u_fde",
 		"TemplateType": "mod",
@@ -2078,6 +2257,7 @@
         "Price": 0
     },
     "e9e54ee074512c35ceff755f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e9e54ee074512c35ceff755f",
         "Name": "ris_iii_10_5u_dfde",
 		"TemplateType": "mod",
@@ -2101,6 +2281,7 @@
         "Price": 0
     },
     "749b6ea2a09780d2ebb9db9f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "749b6ea2a09780d2ebb9db9f",
         "Name": "ris_iii_10_5u_blk",
 		"TemplateType": "mod",
@@ -2124,6 +2305,7 @@
         "Price": 0
     },
     "01f50d1bf4a8e1ee51c0b0fe": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "01f50d1bf4a8e1ee51c0b0fe",
         "Name": "ris_iii_9_5u_fde",
 		"TemplateType": "mod",
@@ -2147,6 +2329,7 @@
         "Price": 0
     },
     "17349a0b7403daafd5f7feb9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "17349a0b7403daafd5f7feb9",
         "Name": "ris_iii_9_5u_dfde",
 		"TemplateType": "mod",
@@ -2170,6 +2353,7 @@
         "Price": 0
     },
     "682003705c43a397b9f3d84e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "682003705c43a397b9f3d84e",
         "Name": "ris_iii_9_5u_blk",
 		"TemplateType": "mod",
@@ -2193,6 +2377,7 @@
         "Price": 0
     },
     "3610533f86d9fd15fc6394c6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3610533f86d9fd15fc6394c6",
         "Name": "mcmr7_blk",
 		"TemplateType": "mod",
@@ -2215,6 +2400,7 @@
         "Price": 0
     },
     "c2b24307fb89f8984723bcdd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c2b24307fb89f8984723bcdd",
         "Name": "mcmr7_fde",
 		"TemplateType": "mod",
@@ -2237,6 +2423,7 @@
         "Price": 0
     },
     "cba44796106f69385fa58045": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cba44796106f69385fa58045",
         "Name": "mcmr8_blk",
 		"TemplateType": "mod",
@@ -2259,6 +2446,7 @@
         "Price": 0
     },
     "99b4f9090dabbe90dd48a5ee": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "99b4f9090dabbe90dd48a5ee",
         "Name": "mcmr8_fde",
 		"TemplateType": "mod",
@@ -2281,6 +2469,7 @@
         "Price": 0
     },
     "627c428dedfd6e61fdb522f7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "627c428dedfd6e61fdb522f7",
         "Name": "mcmr9_blk",
 		"TemplateType": "mod",
@@ -2303,6 +2492,7 @@
         "Price": 0
     },
     "6c06aaf97171cda862583e24": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6c06aaf97171cda862583e24",
         "Name": "mcmr9_fde",
 		"TemplateType": "mod",
@@ -2325,6 +2515,7 @@
         "Price": 0
     },
     "daf0f7382ef0252f74709d9f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "daf0f7382ef0252f74709d9f",
         "Name": "mcmr10_blk",
 		"TemplateType": "mod",
@@ -2347,6 +2538,7 @@
         "Price": 0
     },
     "49d2d35e1289ec81e2dae68d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "49d2d35e1289ec81e2dae68d",
         "Name": "mcmr10_fde",
 		"TemplateType": "mod",
@@ -2369,6 +2561,7 @@
         "Price": 0
     },
     "7ccd70caf1ff5c7501f806f6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7ccd70caf1ff5c7501f806f6",
         "Name": "mcmr13_blk",
 		"TemplateType": "mod",
@@ -2391,6 +2584,7 @@
         "Price": 0
     },
     "1541c03f68a57b9f4d937a38": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "1541c03f68a57b9f4d937a38",
         "Name": "mcmr13_fde",
 		"TemplateType": "mod",
@@ -2413,6 +2607,7 @@
         "Price": 0
     },
     "b3388010e3e50af19b770e77": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b3388010e3e50af19b770e77",
         "Name": "mcmr15_blk",
 		"TemplateType": "mod",
@@ -2435,6 +2630,7 @@
         "Price": 0
     },
     "539b18d0242b3bc3d4ed0e7a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "539b18d0242b3bc3d4ed0e7a",
         "Name": "mcmr15_fde",
 		"TemplateType": "mod",
@@ -2457,6 +2653,7 @@
         "Price": 0
     },
     "40375a163ee52a39ae7b76b5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "40375a163ee52a39ae7b76b5",
         "Name": "ks1_gb",
 		"TemplateType": "mod",
@@ -2478,7 +2675,32 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "455281ce7130a7871710f2f0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "455281ce7130a7871710f2f0",
+        "Name": "kac_mod2_gb",
+        "TemplateID": null,
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "Dispersion": 0,
+        "AutoROF": 1,
+        "SemiROF": 2,
+        "ModMalfunctionChance": -7,
+        "CanCycleSubs": false,
+        "Accuracy": 0,
+        "HeatFactor": 0.994,
+        "CoolFactor": 1.008,
+        "DurabilityBurnModificator": 1.07,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.053,
+        "LoyaltyLevel": 0,
+        "Price": 0,
+        "Flash": 10
+    },
     "70b3405196c9249af41c613b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "70b3405196c9249af41c613b",
         "Name": "ks1_hg_blk",
 		"TemplateType": "mod",
@@ -2502,6 +2724,7 @@
         "Price": 0
     },
     "51be09eec1005e41348693cf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "51be09eec1005e41348693cf",
         "Name": "ks1_hg_fde",
 		"TemplateType": "mod",
@@ -2525,6 +2748,7 @@
         "Price": 0
     },
     "9c3191888714b6a6a15eea1a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9c3191888714b6a6a15eea1a",
         "Name": "reciever_ks1_std",
 		"TemplateType": "mod",
@@ -2544,6 +2768,7 @@
         "Price": 0
     },
     "2336c17a2248a7d516220592": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2336c17a2248a7d516220592",
         "Name": "mk4_95_odg",
 		"TemplateType": "mod",
@@ -2567,6 +2792,7 @@
         "Price": 0
     },
     "3a3eee114512382f2537f2a5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3a3eee114512382f2537f2a5",
         "Name": "mk4_95_ddc",
 		"TemplateType": "mod",
@@ -2590,6 +2816,7 @@
         "Price": 0
     },
     "2ba40957e3371a0e50fd2b33": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2ba40957e3371a0e50fd2b33",
         "Name": "mk4_95_blk",
 		"TemplateType": "mod",
@@ -2613,6 +2840,7 @@
         "Price": 0
     },
     "67a54f392f91e5360ecfa677": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "67a54f392f91e5360ecfa677",
         "Name": "mk4_47_odg",
 		"TemplateType": "mod",
@@ -2636,6 +2864,7 @@
         "Price": 0
     },
     "b5bf48db97ac14368929441e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b5bf48db97ac14368929441e",
         "Name": "mk4_47_ddc",
 		"TemplateType": "mod",
@@ -2659,6 +2888,7 @@
         "Price": 0
     },
     "f40afd7939da60b8e3cc1132": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f40afd7939da60b8e3cc1132",
         "Name": "mk4_47_blk",
 		"TemplateType": "mod",
@@ -2682,6 +2912,7 @@
         "Price": 0
     },
     "be1851da8c6438810d9aae86": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "be1851da8c6438810d9aae86",
         "Name": "mk4_15_odg",
 		"TemplateType": "mod",
@@ -2705,6 +2936,7 @@
         "Price": 0
     },
     "5ce8cf47be4bcafcae8c7bd9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5ce8cf47be4bcafcae8c7bd9",
         "Name": "mk4_15_ddc",
 		"TemplateType": "mod",
@@ -2728,6 +2960,7 @@
         "Price": 0
     },
     "9ebdaeae9c89c472c3fdcad7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9ebdaeae9c89c472c3fdcad7",
         "Name": "mk4_15_blk",
 		"TemplateType": "mod",
@@ -2751,6 +2984,7 @@
         "Price": 0
     },
     "d725dee093285dd61f1a434d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d725dee093285dd61f1a434d",
         "Name": "mk4_13_odg",
 		"TemplateType": "mod",
@@ -2774,6 +3008,7 @@
         "Price": 0
     },
     "530833cf60b51e399df58ecf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "530833cf60b51e399df58ecf",
         "Name": "mk4_13_ddc",
 		"TemplateType": "mod",
@@ -2797,6 +3032,7 @@
         "Price": 0
     },
     "8f9b874225eacf6c0cf01420": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8f9b874225eacf6c0cf01420",
         "Name": "mk4_13_blk",
 		"TemplateType": "mod",
@@ -2820,6 +3056,7 @@
         "Price": 0
     },
     "d6932b49fd225ddc7fe2b2b6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d6932b49fd225ddc7fe2b2b6",
         "Name": "mk4_10f_odg",
 		"TemplateType": "mod",
@@ -2843,6 +3080,7 @@
         "Price": 0
     },
     "6f33aaf0c3f65f299ec74b1a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6f33aaf0c3f65f299ec74b1a",
         "Name": "mk4_10f_ddc",
 		"TemplateType": "mod",
@@ -2866,6 +3104,7 @@
         "Price": 0
     },
     "735fe383f69bb1b94705aaf6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "735fe383f69bb1b94705aaf6",
         "Name": "mk4_10f_blk",
 		"TemplateType": "mod",
@@ -2889,6 +3128,7 @@
         "Price": 0
     },
     "cbba369e0fbb09a1eda36c83": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cbba369e0fbb09a1eda36c83",
         "Name": "ak74_upper_hg",
 		"TemplateType": "mod",
@@ -2907,6 +3147,7 @@
         "Price": 0
     },
     "6cec33dd595d9c2d4e531eb7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6cec33dd595d9c2d4e531eb7",
         "Name": "ak100_hg_top",
 		"TemplateType": "mod",
@@ -2925,6 +3166,7 @@
         "Price": 0
     },
     "df523ec57199fcc4f92fa25c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "df523ec57199fcc4f92fa25c",
         "Name": "b10_lower",
 		"TemplateType": "mod",
@@ -2943,6 +3185,7 @@
         "Price": 0
     },
     "bbbdc1a53659b64553a51b4c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bbbdc1a53659b64553a51b4c",
         "Name": "sports_p1",
 		"TemplateType": "mod",
@@ -2961,6 +3204,7 @@
         "Price": 0
     },
     "62de2e788a4caec6297ca400": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "62de2e788a4caec6297ca400",
         "Name": "sports_rail_section_long",
 		"TemplateType": "mod",
@@ -2973,6 +3217,7 @@
         "Price": 0
     },
     "b098f4d751ddc6246acdf160": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b098f4d751ddc6246acdf160",
         "Name": "b22_mount",
 		"TemplateType": "mod",
@@ -2985,6 +3230,7 @@
         "Price": 0
     },
     "3bb492961679d189031bdf40": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3bb492961679d189031bdf40",
         "Name": "sports_rail_section_long",
 		"TemplateType": "mod",
@@ -2997,6 +3243,7 @@
         "Price": 0
     },
     "5c262445ceaffa8a1cd9e758": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5c262445ceaffa8a1cd9e758",
         "Name": "hand_stopak",
 		"TemplateType": "mod",
@@ -3013,6 +3260,7 @@
         "Price": 0
     },
     "fe901517ef9bffafcf0ac2f6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "fe901517ef9bffafcf0ac2f6",
         "Name": "tube_hg_vs29",
 		"TemplateType": "mod",
@@ -3037,6 +3285,7 @@
         "Weight": 0.27
     },
     "748cfa27eb4b3fe30f51fd9d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "748cfa27eb4b3fe30f51fd9d",
         "Name": "tube_hg_vs29_2",
 		"TemplateType": "mod",
@@ -3061,6 +3310,7 @@
         "Weight": 0.27
     },
     "7422ca92107da0fc0e26f7d9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7422ca92107da0fc0e26f7d9",
         "Name": "sports_p3",
 		"TemplateType": "mod",
@@ -3085,6 +3335,7 @@
         "Weight": 0.27
     },
     "44e693ffe3d7c425b5663928": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "44e693ffe3d7c425b5663928",
         "Name": "sports_p2",
 		"TemplateType": "mod",
@@ -3102,19 +3353,8 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "ebbef27d5e931cf6e4c21595": {
-        "ItemID": "ebbef27d5e931cf6e4c21595",
-        "Name": "unity_micro_226_fde",
-		"TemplateType": "mod",
-        "ModType": "mount",
-        "Ergonomics": 0,
-        "Accuracy": 0,
-        "ConflictingItems": [],
-        "Weight": 0.015,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
     "6655df2d0169bf45a18535c8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6655df2d0169bf45a18535c8",
         "Name": "mro_short",
 		"TemplateType": "mod",
@@ -3127,6 +3367,7 @@
         "Price": 0
     },
     "794a8aea9ca78d01fc24a4f8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "794a8aea9ca78d01fc24a4f8",
         "Name": "mro_tall",
 		"TemplateType": "mod",
@@ -3138,7 +3379,73 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "4330375080cfa3b0acf681c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "4330375080cfa3b0acf681c0",
+        "Name": "geissele_super_precision_t1_lower_1/3_co-witness_mount_black",
+        "TemplateID": null,
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 5,
+        "ConflictingItems": [],
+        "Weight": 0.015,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "dc443bf6ab32570c69096e37": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "dc443bf6ab32570c69096e37",
+        "Name": "geissele_super_precision_t1_lower_1/3_co-witness_mount_fde",
+        "TemplateID": null,
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 5,
+        "ConflictingItems": [],
+        "Weight": 0.015,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "66079d40016c0de3509a31e7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "66079d40016c0de3509a31e7",
+        "Name": "geissele_super_precision_t1_absolute_co-witness_mount_black",
+        "TemplateID": null,
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.015,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "ca9b71e00031160119ab1e58": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "ca9b71e00031160119ab1e58",
+        "Name": "geissele_super_precision_t1_absolute_co-witness_mount_fde",
+        "TemplateID": null,
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.015,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "58c3819c7e3f0593dbb9851a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "58c3819c7e3f0593dbb9851a",
+        "Name": "trijicon_ta44_sight_mount",
+        "TemplateID": null,
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.06,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
     "70eb49132ee4b5a739b8fa7f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "70eb49132ee4b5a739b8fa7f",
         "Name": "b5_bravo_blk",
 		"TemplateType": "mod",
@@ -3162,6 +3469,7 @@
         "Price": 0
     },
     "857f6f505667d85233704faa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "857f6f505667d85233704faa",
         "Name": "b5_bravo_cb",
 		"TemplateType": "mod",
@@ -3185,6 +3493,7 @@
         "Price": 0
     },
     "3f9e58d5bea75f1a0ca43399": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3f9e58d5bea75f1a0ca43399",
         "Name": "b5_bravo_fde",
 		"TemplateType": "mod",
@@ -3208,6 +3517,7 @@
         "Price": 0
     },
     "b6ec2a1724ebddcb6ff9f16c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b6ec2a1724ebddcb6ff9f16c",
         "Name": "b5_bravo_grey",
 		"TemplateType": "mod",
@@ -3231,6 +3541,7 @@
         "Price": 0
     },
     "cbd2e6731fb69eb72df5cd78": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cbd2e6731fb69eb72df5cd78",
         "Name": "b5_bravo_odg",
 		"TemplateType": "mod",
@@ -3254,6 +3565,7 @@
         "Price": 0
     },
     "2a6882a9265b63e56b00f0e8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2a6882a9265b63e56b00f0e8",
         "Name": "prs_lite_blk",
 		"TemplateType": "mod",
@@ -3277,6 +3589,7 @@
         "Price": 0
     },
     "e7033144137177533f1fe6cf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e7033144137177533f1fe6cf",
         "Name": "prs_lite_fde",
 		"TemplateType": "mod",
@@ -3299,7 +3612,202 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "26aab2ba6d945ea7877cfded": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "26aab2ba6d945ea7877cfded",
+        "Name": "stock_m16a1",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -10,
+        "Dispersion": -10,
+        "CameraRecoil": -11,
+        "AimSpeed": -5,
+        "Ergonomics": 5,
+        "Accuracy": 7.5,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.204,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 30
+    },
+    "bfe86caecde6728199b9eed5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "bfe86caecde6728199b9eed5",
+        "Name": "stock_m16a2",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -12,
+        "Dispersion": -12,
+        "CameraRecoil": -12,
+        "AimSpeed": -5,
+        "Ergonomics": 5,
+        "Accuracy": 7.5,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.272,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 30
+    },
+    "bb51865a7e56f49a5af59829": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "bb51865a7e56f49a5af59829",
+        "Name": "stock_car15",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "Dispersion": 0,
+        "CameraRecoil": 0,
+        "AimSpeed": 0,
+        "Ergonomics": 7,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.121,
+        "LoyaltyLevel": 1
+    },
+    "d69ecdc7b49d7b7aa6f8d4b8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "d69ecdc7b49d7b7aa6f8d4b8",
+        "Name": "stock_midwestindustriesfixed",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -8,
+        "Dispersion": 0,
+        "CameraRecoil": -4,
+        "AimSpeed": 5,
+        "Ergonomics": 5,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [],
+        "Weight": 0.439,
+        "LoyaltyLevel": 2,
+        "Price": 0,
+        "Handling": 5
+    },
+    "d1d91c5935812a383f894338": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "d1d91c5935812a383f894338",
+        "Name": "magpul_dt_pr_blk",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -10,
+        "Dispersion": -7,
+        "CameraRecoil": -8,
+        "AimSpeed": 0,
+        "Ergonomics": 14,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.303,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 2,
+        "Handling": 4
+    },
+    "394ddec62819583ac6b760d7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "394ddec62819583ac6b760d7",
+        "Name": "magpul_dt_pr_fde",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -10,
+        "Dispersion": -7,
+        "CameraRecoil": -8,
+        "AimSpeed": 0,
+        "Ergonomics": 14,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.303,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 2,
+        "Handling": 4
+    },
+    "364b69dba974eba7ec8a4f1a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "364b69dba974eba7ec8a4f1a",
+        "Name": "str_stock_blk",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -10,
+        "Dispersion": -7,
+        "CameraRecoil": -8,
+        "AimSpeed": 0,
+        "Ergonomics": 14,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.303,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 2,
+        "Handling": 4
+    },
+    "ffbf7c0c8acab5ec67bf4788": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "ffbf7c0c8acab5ec67bf4788",
+        "Name": "str_stock_fde",
+        "ModType": "Stock",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -10,
+        "Dispersion": -7,
+        "CameraRecoil": -8,
+        "AimSpeed": 0,
+        "Ergonomics": 14,
+        "Accuracy": 0,
+        "HasShoulderContact": true,
+        "BlocksFolding": false,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "StockAllowADS": false,
+        "ConflictingItems": [ ],
+        "Weight": 0.303,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "AimStability": 2,
+        "Handling": 4
+    },
     "9a1df2227c186dbe0a69acd7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9a1df2227c186dbe0a69acd7",
         "Name": "barrel_m700_shilen_stainless_660mm",
 		"TemplateType": "mod",
@@ -3325,6 +3833,7 @@
         "Price": 0
     },
     "3f18b9a4a43e2c071b08179a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3f18b9a4a43e2c071b08179a",
         "Name": "triji_mro",
 		"TemplateType": "mod",
@@ -3339,38 +3848,82 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "0afaf0c97b1d068d242df1dc": {
-        "ItemID": "0afaf0c97b1d068d242df1dc",
-        "Name": "nf4-16f1",
-		"TemplateType": "mod",
+    "dd7caf9bd203b146528c8da4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "dd7caf9bd203b146528c8da4",
+        "Name": "acro_p2",
         "ModType": "sight",
-        "AimSpeed": -29,
-        "Accuracy": 23,
-        "ConflictingItems": [
-            "591c4efa86f7741030027726",
-            "570fd79bd2720bc7458b4583",
-            "570fd6c2d2720bc6458b457f",
-            "558022b54bdc2dac148b458d",
-            "58491f3324597764bc48fa02",
-            "584924ec24597768f12ae244",
-            "5b30b0dc5acfc400153b7124",
-            "60a23797a37c940de7062d02",
-            "5d2da1e948f035477b1ce2ba",
-            "5c0505e00db834001b735073",
-            "609a63b6e2ff132951242d09",
-            "584984812459776a704a82a6",
-            "59f9d81586f7744c7506ee62",
-            "570fd721d2720bc5458b4596",
-            "5c7d55f52e221644f31bff6a"
-        ],
+        "AimSpeed": 10,
+        "Accuracy": 14,
+        "ConflictingItems": [],
         "Ergonomics": 0,
-        "Weight": 0.9,
+        "Weight": 0.06,
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
+        "LoyaltyLevel": 3,
+        "Price": 0
+    },
+    "35adebfd2014a2861056138b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "35adebfd2014a2861056138b",
+        "Name": "lepold_lco",
+        "ModType": "sight",
+        "AimSpeed": 13,
+        "Accuracy": 14,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.317,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 3,
+        "Price": 0
+    },
+    "20c6ee849ac15cb4e31472c9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "20c6ee849ac15cb4e31472c9",
+        "Name": "steiner_r1x",
+        "ModType": "sight",
+        "AimSpeed": 18,
+        "Accuracy": 15,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.317,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 4
+    },
+    "2589a5a2424122404cf3a94c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "2589a5a2424122404cf3a94c",
+        "Name": "compm5",
+        "ModType": "sight",
+        "AimSpeed": 11,
+        "Accuracy": 18,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.084,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
+    "026dfdb287f69c3025f0f728": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "026dfdb287f69c3025f0f728",
+        "Name": "compm5_fde",
+        "ModType": "sight",
+        "AimSpeed": 11,
+        "Accuracy": 18,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.084,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 4,
         "Price": 0
     },
     "6504516826a65f22fcb408bb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6504516826a65f22fcb408bb",
         "Name": "surefire_rc2_556_blk",
 		"TemplateType": "mod",
@@ -3398,6 +3951,7 @@
         "Price": 0
     },
     "4129c7c9c0669b718451b168": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4129c7c9c0669b718451b168",
         "Name": "putnik_blk",
 		"TemplateType": "mod",
@@ -3425,6 +3979,7 @@
         "Price": 0
     },
     "5285550299ccac9d530a7ed1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5285550299ccac9d530a7ed1",
         "Name": "putnik_oreo",
 		"TemplateType": "mod",
@@ -3452,6 +4007,7 @@
         "Price": 0
     },
     "8a25358a28252c3b7fcb7e4a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8a25358a28252c3b7fcb7e4a",
         "Name": "putnik_fde",
 		"TemplateType": "mod",
@@ -3479,6 +4035,7 @@
         "Price": 0
     },
     "c26f2af872656829feb27c08": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c26f2af872656829feb27c08",
         "Name": "unity_micro_226_fde",
 		"TemplateType": "mod",
@@ -3490,84 +4047,8 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "797e1ab4422217d7cfe3d299": {
-        "ItemID": "797e1ab4422217d7cfe3d299",
-        "Name": "elcan_1_5-6",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": -14,
-        "Accuracy": 14,
-        "ConflictingItems": [],
-        "Ergonomics": 0,
-        "Weight": 0.705,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
-    "c5042b1c75088ddfc6c196f4": {
-        "ItemID": "c5042b1c75088ddfc6c196f4",
-        "Name": "vortex_golden_eagle",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": -50,
-        "Accuracy": 32,
-        "ConflictingItems": [
-            "591c4efa86f7741030027726",
-            "570fd79bd2720bc7458b4583",
-            "570fd6c2d2720bc6458b457f",
-            "558022b54bdc2dac148b458d",
-            "58491f3324597764bc48fa02",
-            "584924ec24597768f12ae244",
-            "5b30b0dc5acfc400153b7124",
-            "60a23797a37c940de7062d02",
-            "5d2da1e948f035477b1ce2ba",
-            "5c0505e00db834001b735073",
-            "609a63b6e2ff132951242d09",
-            "584984812459776a704a82a6",
-            "59f9d81586f7744c7506ee62",
-            "570fd721d2720bc5458b4596",
-            "5c7d55f52e221644f31bff6a"
-        ],
-        "Ergonomics": 0,
-        "Weight": 0.836,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
-    "750bcfb1b1f84f27a8f4f282": {
-        "ItemID": "750bcfb1b1f84f27a8f4f282",
-        "Name": "atacr_f1_1-8",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": -20,
-        "Accuracy": 26,
-        "ConflictingItems": [
-            "591c4efa86f7741030027726",
-            "570fd79bd2720bc7458b4583",
-            "570fd6c2d2720bc6458b457f",
-            "558022b54bdc2dac148b458d",
-            "58491f3324597764bc48fa02",
-            "584924ec24597768f12ae244",
-            "5b30b0dc5acfc400153b7124",
-            "60a23797a37c940de7062d02",
-            "5d2da1e948f035477b1ce2ba",
-            "5c0505e00db834001b735073",
-            "609a63b6e2ff132951242d09",
-            "584984812459776a704a82a6",
-            "59f9d81586f7744c7506ee62",
-            "570fd721d2720bc5458b4596",
-            "5c7d55f52e221644f31bff6a"
-        ],
-        "Ergonomics": 0,
-        "Weight": 0.595,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
     "764bac2a60fb452dd29cba6e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "764bac2a60fb452dd29cba6e",
         "Name": "mpi",
 		"TemplateType": "mod",
@@ -3595,6 +4076,7 @@
         "Price": 0
     },
     "cabcc6939632138bbb740c0f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cabcc6939632138bbb740c0f",
         "Name": "ris_ii_12_v2",
 		"TemplateType": "mod",
@@ -3618,6 +4100,7 @@
         "Price": 0
     },
     "43ff431b62452e9c6ebc24c7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "43ff431b62452e9c6ebc24c7",
         "Name": "ris_ii_12",
 		"TemplateType": "mod",
@@ -3636,6 +4119,7 @@
         "Price": 0
     },
     "d9c2ce5c957a54390a795cb9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d9c2ce5c957a54390a795cb9",
         "Name": "rotex_v_blk",
 		"TemplateType": "mod",
@@ -3666,6 +4150,7 @@
         "Price": 0
     },
     "f1d4272393162487b5896f2f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f1d4272393162487b5896f2f",
         "Name": "rotex_v_fde",
 		"TemplateType": "mod",
@@ -3696,6 +4181,7 @@
         "Price": 0
     },
     "aac2e5628ec0f31213f1f53b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "aac2e5628ec0f31213f1f53b",
         "Name": "rotex_v_gry",
 		"TemplateType": "mod",
@@ -3726,6 +4212,7 @@
         "Price": 0
     },
     "96c3f1dba8c2038398a29d47": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "96c3f1dba8c2038398a29d47",
         "Name": "rotex_v_compact_blk",
 		"TemplateType": "mod",
@@ -3756,6 +4243,7 @@
         "Price": 0
     },
     "48b2b70316ee11cd78074149": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "48b2b70316ee11cd78074149",
         "Name": "rotex_v_compact_fde",
 		"TemplateType": "mod",
@@ -3786,6 +4274,7 @@
         "Price": 0
     },
     "82144d6a0be3285243f60c50": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "82144d6a0be3285243f60c50",
         "Name": "rotex_v_compact_gry",
 		"TemplateType": "mod",
@@ -3816,6 +4305,7 @@
         "Price": 0
     },
     "0d26a697d357f0ea3f8f9a83": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0d26a697d357f0ea3f8f9a83",
         "Name": "rotex_v_deflector_blk",
 		"TemplateType": "mod",
@@ -3846,6 +4336,7 @@
         "Price": 0
     },
     "1d145684ac5119451eec9699": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "1d145684ac5119451eec9699",
         "Name": "rotex_v_deflector_fde",
 		"TemplateType": "mod",
@@ -3876,6 +4367,7 @@
         "Price": 0
     },
     "d29f21dabbdb6a8577bd5a4c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d29f21dabbdb6a8577bd5a4c",
         "Name": "rotex_v_deflector_gry",
 		"TemplateType": "mod",
@@ -3906,6 +4398,7 @@
         "Price": 0
     },
     "3373f8268f40bbd0f302bfe4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3373f8268f40bbd0f302bfe4",
         "Name": "ar-15_geissele_smr_mk8_7_inch_m-lok_handguard_(blk)",
 		"TemplateType": "mod",
@@ -3929,6 +4422,7 @@
         "Price": 0
     },
     "ce6d6c62180c5cdbc048ec06": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ce6d6c62180c5cdbc048ec06",
         "Name": "ar-15_geissele_smr_mk8_7_inch_m-lok_handguard_(ddc)",
 		"TemplateType": "mod",
@@ -3952,6 +4446,7 @@
         "Price": 0
     },
     "13f0c13d451f2c56fbf46548": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "13f0c13d451f2c56fbf46548",
         "Name": "ar-15_geissele_smr_mk8_7_inch_m-lok_handguard_(odg)",
 		"TemplateType": "mod",
@@ -3975,6 +4470,7 @@
         "Price": 0
     },
     "f9cb5d76e3639ef3c27c5294": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f9cb5d76e3639ef3c27c5294",
         "Name": "ar-15_geissele_smr_mk8_9_5_inch_m-lok_handguard_(blk)",
 		"TemplateType": "mod",
@@ -3998,6 +4494,7 @@
         "Price": 0
     },
     "75423eeee232e178d80c4925": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "75423eeee232e178d80c4925",
         "Name": "ar-15_geissele_smr_mk8_9_5_inch_m-lok_handguard_(ddc)",
 		"TemplateType": "mod",
@@ -4021,6 +4518,7 @@
         "Price": 0
     },
     "6ff95267a947d1c2856f3c0f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6ff95267a947d1c2856f3c0f",
         "Name": "ar-15_geissele_smr_mk8_9_5_inch_m-lok_handguard_(odg)",
 		"TemplateType": "mod",
@@ -4044,6 +4542,7 @@
         "Price": 0
     },
     "297eecda3d70301b822b6cf9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "297eecda3d70301b822b6cf9",
         "Name": "ar-15_geissele_smr_mk8_13_inch_m-lok_handguard_(blk)",
 		"TemplateType": "mod",
@@ -4067,6 +4566,7 @@
         "Price": 0
     },
     "4c834636cd952988d60d6561": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4c834636cd952988d60d6561",
         "Name": "ar-15_geissele_smr_mk8_13_inch_m-lok_handguard_(ddc)",
 		"TemplateType": "mod",
@@ -4090,6 +4590,7 @@
         "Price": 0
     },
     "e57cc5261d4937c1a15aa004": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e57cc5261d4937c1a15aa004",
         "Name": "ar-15_geissele_smr_mk8_13_inch_m-lok_handguard_(odg)",
 		"TemplateType": "mod",
@@ -4113,6 +4614,7 @@
         "Price": 0
     },
     "04a8d9c50f3227ef6550e613": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "04a8d9c50f3227ef6550e613",
         "Name": "ar-15_geissele_smr_mk8_15_inch_m-lok_handguard_(blk)",
 		"TemplateType": "mod",
@@ -4136,6 +4638,7 @@
         "Price": 0
     },
     "d2234d6695f82aae5012f0d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d2234d6695f82aae5012f0d5",
         "Name": "ar-15_geissele_smr_mk8_15_inch_m-lok_handguard_(ddc)",
 		"TemplateType": "mod",
@@ -4159,6 +4662,7 @@
         "Price": 0
     },
     "4ff0af6a0e6cdbd096c0197c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4ff0af6a0e6cdbd096c0197c",
         "Name": "ar-15_geissele_smr_mk8_15_inch_m-lok_handguard_(odg)",
 		"TemplateType": "mod",
@@ -4182,6 +4686,7 @@
         "Price": 0
     },
     "ee43d2dd34047cbe88ccf551": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ee43d2dd34047cbe88ccf551",
         "Name": "surefire_socom762-mini2_7_62x51_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4209,6 +4714,7 @@
         "Price": 0
     },
     "55d267e876b4709cc2115736": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "55d267e876b4709cc2115736",
         "Name": "surefire_socom556-mini2_5_56x45_sound_suppressor_blk",
 		"TemplateType": "mod",
@@ -4236,6 +4742,7 @@
         "Price": 0
     },
     "b9a6137901c6b1dd27c0c0cd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b9a6137901c6b1dd27c0c0cd",
         "Name": "surefire_socom556-mini2_5_56x45_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4263,6 +4770,7 @@
         "Price": 0
     },
     "68ecc6afc9baacad535b09b5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "68ecc6afc9baacad535b09b5",
         "Name": "surefire_warden_fast-attach_blast_regulator_blk",
 		"TemplateType": "mod",
@@ -4290,6 +4798,7 @@
         "Price": 0
     },
     "cc4134b4c122adad37aa342a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cc4134b4c122adad37aa342a",
         "Name": "surefire_warden_fast-attach_blast_regulator_fde",
 		"TemplateType": "mod",
@@ -4317,6 +4826,7 @@
         "Price": 0
     },
     "6efbc3fc36558fb085bbc36e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6efbc3fc36558fb085bbc36e",
         "Name": "surefire_socom762-ti2_7_62x51_sound_suppressor_blk",
 		"TemplateType": "mod",
@@ -4344,6 +4854,7 @@
         "Price": 0
     },
     "3cc1a01be7839321ab030074": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3cc1a01be7839321ab030074",
         "Name": "surefire_socom762-ti2_7_62x51_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4371,6 +4882,7 @@
         "Price": 0
     },
     "f07b843f00a254d10d80ea5a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f07b843f00a254d10d80ea5a",
         "Name": "surefire_socom762-rc2_7_62x51_sound_suppressor_blk",
 		"TemplateType": "mod",
@@ -4398,6 +4910,7 @@
         "Price": 0
     },
     "9c8b54c2f8c843fe7ce6c6ca": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9c8b54c2f8c843fe7ce6c6ca",
         "Name": "surefire_socom762-rc2_7_62x51_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4425,6 +4938,7 @@
         "Price": 0
     },
     "551ec269e7bb299d728da89e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "551ec269e7bb299d728da89e",
         "Name": "ar-10_gemtech_etm_3_port_7_62x51_muzzle_brake",
 		"TemplateType": "mod",
@@ -4451,7 +4965,149 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "2775bf11211bb12aec490f56": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "2775bf11211bb12aec490f56",
+        "Name": "kac_mams_5_56x45_muzzle_brake",
+        "TemplateID": null,
+        "ModType": "muzzle_supp_adapter",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -6,
+        "CameraRecoil": 0,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "CanCycleSubs": false,
+        "Accuracy": 0,
+        "HeatFactor": 1,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1,
+        "Velocity": 0,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.065,
+        "Loudness": 8,
+        "Convergence": 8,
+        "LoyaltyLevel": 0,
+        "Price": 0,
+        "Flash": -62
+    },
+    "d11567e6b00e6b18db43b036": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "d11567e6b00e6b18db43b036",
+        "Name": "fatman_hex_brake",
+        "ModType": "",
+        "VerticalRecoil": -6,
+        "HorizontalRecoil": -20,
+        "Dispersion": -15,
+        "CameraRecoil": 0,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "CanCycleSubs": false,
+        "Accuracy": 5,
+        "HeatFactor": 1,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1,
+        "Velocity": 0,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.167,
+        "Loudness": 35,
+        "Convergence": 12,
+        "LoyaltyLevel": 3,
+        "Price": 0,
+        "Flash": 35
+    },
+    "7df07162a928f5e9ab26404a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "7df07162a928f5e9ab26404a",
+        "Name": "AR-15 Colt XM-177E2 5.56x45 flash hider",
+        "ModType": "",
+        "VerticalRecoil": -6,
+        "HorizontalRecoil": -6,
+        "Dispersion": -10,
+        "CameraRecoil": 0,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "CanCycleSubs": false,
+        "Accuracy": 0,
+        "HeatFactor": 1,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1,
+        "Velocity": 0,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.082,
+        "Loudness": -5,
+        "Convergence": 2,
+        "LoyaltyLevel": 1,
+        "Price": 0,
+        "Flash": -45
+    },
+    "101e593cde9a1f6fb8476d1e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "101e593cde9a1f6fb8476d1e",
+        "Name": "kac_triple_tap_fh",
+        "ModType": "",
+        "VerticalRecoil": -6,
+        "HorizontalRecoil": -6,
+        "Dispersion": -10,
+        "CameraRecoil": 0,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "CanCycleSubs": false,
+        "Accuracy": 0,
+        "HeatFactor": 1,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1,
+        "Velocity": 0,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.073,
+        "Loudness": 10,
+        "Convergence": 9,
+        "LoyaltyLevel": 2,
+        "Price": 0,
+        "Flash": -40
+    },
+    "32ae89929c7e53b5e412acb3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "32ae89929c7e53b5e412acb3",
+        "Name": "muzzle_ar15_kac_qd_compensator_556x45",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -4,
+        "Dispersion": -4,
+        "CameraRecoil": 0,
+        "AutoROF": 0,
+        "SemiROF": 0,
+        "ModMalfunctionChance": 0,
+        "CanCycleSubs": false,
+        "Accuracy": 0,
+        "HeatFactor": 1,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1,
+        "Velocity": 0,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.063,
+        "Loudness": 4,
+        "Convergence": 7.5,
+        "LoyaltyLevel": 2,
+        "Price": 0,
+        "Flash": -40
+    },
     "275def25d1abe9b101511271": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "275def25d1abe9b101511271",
         "Name": "ar-15_scalarworks_peak_rear_sight",
 		"TemplateType": "mod",
@@ -4497,6 +5153,7 @@
         "Price": 0
     },
     "48dd8b7edd39c0ab164435ad": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "48dd8b7edd39c0ab164435ad",
         "Name": "ar-15_scalarworks_peak_front_sight",
 		"TemplateType": "mod",
@@ -4512,6 +5169,7 @@
         "Price": 0
     },
     "a6a1f3e9ff8c9bddaf8ab5f3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a6a1f3e9ff8c9bddaf8ab5f3",
         "Name": "gemtech_neutron_7_62x51_sound_suppressor",
 		"TemplateType": "mod",
@@ -4539,6 +5197,7 @@
         "Price": 0
     },
     "21db41fa34f997937c78b9d1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "21db41fa34f997937c78b9d1",
         "Name": "kac_qdc/mcq-prt_5_56x45_sound_suppressor_blk",
 		"TemplateType": "mod",
@@ -4568,6 +5227,7 @@
         "Price": 0
     },
     "0a4fce1b6ffcba383df0def7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0a4fce1b6ffcba383df0def7",
         "Name": "kac_qdc/mcq-prt_5_56x45_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4597,6 +5257,7 @@
         "Price": 0
     },
     "b02e5f84df2f2f062a309ef9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b02e5f84df2f2f062a309ef9",
         "Name": "kac_suppressor_shroud_4_inch_blk",
 		"TemplateType": "mod",
@@ -4626,6 +5287,7 @@
         "Price": 0
     },
     "09b44a7e34b49045e3308e58": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "09b44a7e34b49045e3308e58",
         "Name": "kac_suppressor_shroud_4_inch_fde",
 		"TemplateType": "mod",
@@ -4655,6 +5317,7 @@
         "Price": 0
     },
     "edb383eec77614c936e627ec": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "edb383eec77614c936e627ec",
         "Name": "kac_suppressor_shroud_6_inch_blk",
 		"TemplateType": "mod",
@@ -4684,6 +5347,7 @@
         "Price": 0
     },
     "08ce1f8189bcb4aa4a490d28": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "08ce1f8189bcb4aa4a490d28",
         "Name": "kac_suppressor_shroud_6_inch_fde",
 		"TemplateType": "mod",
@@ -4713,6 +5377,7 @@
         "Price": 0
     },
     "dfb4f1c3e5b85305c24ed2bc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "dfb4f1c3e5b85305c24ed2bc",
         "Name": "kac_qdc/crs-prt_5_56x45_sound_suppressor_blk",
 		"TemplateType": "mod",
@@ -4742,6 +5407,7 @@
         "Price": 0
     },
     "bfa234cc36aac6c9e1190ab1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bfa234cc36aac6c9e1190ab1",
         "Name": "kac_qdc/crs-prt_5_56x45_sound_suppressor_fde",
 		"TemplateType": "mod",
@@ -4770,7 +5436,473 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "8d28d2b0bc17dad17f09676d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "8d28d2b0bc17dad17f09676d",
+        "Name": "dd_sguard_556",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.623,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "a1fd0589018e71233daeb331": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "a1fd0589018e71233daeb331",
+        "Name": "dd_sguard_762",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.623,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "45b07217916365a3171c079e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "45b07217916365a3171c079e",
+        "Name": "allen_m4_suppressor",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -2,
+        "Dispersion": -9,
+        "CameraRecoil": -10,
+        "AutoROF": 1.5,
+        "SemiROF": 2.25,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 5,
+        "HeatFactor": 1.11,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.680,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Flash": 3
+    },
+    "005ea36cedb4cf3ed6503746": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "005ea36cedb4cf3ed6503746",
+        "Name": "putnik_no_logo",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -2,
+        "Dispersion": -8,
+        "CameraRecoil": -5,
+        "AutoROF": 1.15,
+        "SemiROF": 1.15,
+        "ModMalfunctionChance": -11,
+        "CanCycleSubs": false,
+        "Accuracy": 10,
+        "HeatFactor": 1.08,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1.11,
+        "Velocity": 0.56,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.620,
+        "Loudness": -25,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 6
+    },
+    "34811b81bb2bf7d6ecc8685d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "34811b81bb2bf7d6ecc8685d",
+        "Name": "polo_556_blk",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "9911241c521cf272e28138ab": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "9911241c521cf272e28138ab",
+        "Name": "polo_556_fde",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "79b662be6504a4c5c58b662e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "79b662be6504a4c5c58b662e",
+        "Name": "polo_556_worn",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "07e6732878542a85411811df": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "07e6732878542a85411811df",
+        "Name": "polo_556k_blk",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -2,
+        "Dispersion": -8,
+        "CameraRecoil": -5,
+        "AutoROF": 1.15,
+        "SemiROF": 1.15,
+        "ModMalfunctionChance": -11,
+        "CanCycleSubs": false,
+        "Accuracy": 10,
+        "HeatFactor": 1.08,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1.11,
+        "Velocity": 0.56,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.335,
+        "Loudness": -29,
+        "Convergence": 0,
+        "LoyaltyLevel": 5,
+        "Price": 0,
+        "Flash": 6
+    },
+    "67a198d04e36e7c17ead7f55": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "67a198d04e36e7c17ead7f55",
+        "Name": "polo_556k_fde",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -2,
+        "Dispersion": -8,
+        "CameraRecoil": -5,
+        "AutoROF": 1.15,
+        "SemiROF": 1.15,
+        "ModMalfunctionChance": -11,
+        "CanCycleSubs": false,
+        "Accuracy": 10,
+        "HeatFactor": 1.08,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1.11,
+        "Velocity": 0.56,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.335,
+        "Loudness": -29,
+        "Convergence": 0,
+        "LoyaltyLevel": 5,
+        "Price": 0,
+        "Flash": 6
+    },
+    "81cae3ac1c35a1f46157c891": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "81cae3ac1c35a1f46157c891",
+        "Name": "polo_556k_worn",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -2,
+        "Dispersion": -8,
+        "CameraRecoil": -5,
+        "AutoROF": 1.15,
+        "SemiROF": 1.15,
+        "ModMalfunctionChance": -11,
+        "CanCycleSubs": false,
+        "Accuracy": 10,
+        "HeatFactor": 1.08,
+        "CoolFactor": 1,
+        "DurabilityBurnModificator": 1.11,
+        "Velocity": 0.56,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.335,
+        "Loudness": -29,
+        "Convergence": 0,
+        "LoyaltyLevel": 5,
+        "Price": 0,
+        "Flash": 6
+    },
+    "908aacf3d6a56a7a0d1ade69": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "908aacf3d6a56a7a0d1ade69",
+        "Name": "polo_762_blk",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "bf593ba2155d31edd2b421c7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "bf593ba2155d31edd2b421c7",
+        "Name": "polo_762_fde",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "d461f4916807b7599b22f284": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "d461f4916807b7599b22f284",
+        "Name": "polo_762_worn",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -5,
+        "Dispersion": -7,
+        "CameraRecoil": -6,
+        "AutoROF": 1.5,
+        "SemiROF": 1.5,
+        "ModMalfunctionChance": -15,
+        "CanCycleSubs": false,
+        "Accuracy": 18,
+        "HeatFactor": 1.14,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 1.15,
+        "Velocity": 0.75,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.395,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "MeleeDamage": 9,
+        "MeleePen": 9,
+        "Price": 0,
+        "Flash": 3
+    },
+    "0b33e835730e05c6a996f452": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "0b33e835730e05c6a996f452",
+        "Name": "cgs_sci_supp_blk",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -7.5,
+        "Dispersion": -11,
+        "CameraRecoil": -16,
+        "AutoROF": 1.9,
+        "SemiROF": 2.6,
+        "ModMalfunctionChance": -19,
+        "CanCycleSubs": false,
+        "Accuracy": 22,
+        "HeatFactor": 1.15,
+        "CoolFactor": 1.04,
+        "DurabilityBurnModificator": 1.19,
+        "Velocity": 0.95,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.484,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Flash": -10
+    },
+    "24a57da0bf24002c1b8b31d9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "24a57da0bf24002c1b8b31d9",
+        "Name": "cgs_sci_supp_fde",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -7.5,
+        "Dispersion": -11,
+        "CameraRecoil": -16,
+        "AutoROF": 1.9,
+        "SemiROF": 2.6,
+        "ModMalfunctionChance": -19,
+        "CanCycleSubs": false,
+        "Accuracy": 22,
+        "HeatFactor": 1.15,
+        "CoolFactor": 1.04,
+        "DurabilityBurnModificator": 1.19,
+        "Velocity": 0.95,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.484,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Flash": -10
+    },
+    "e37c8df358fdec9a8780ea8c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "e37c8df358fdec9a8780ea8c",
+        "Name": "cgs_sci_supp_gry",
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -7.5,
+        "Dispersion": -11,
+        "CameraRecoil": -16,
+        "AutoROF": 1.9,
+        "SemiROF": 2.6,
+        "ModMalfunctionChance": -19,
+        "CanCycleSubs": false,
+        "Accuracy": 22,
+        "HeatFactor": 1.15,
+        "CoolFactor": 1.04,
+        "DurabilityBurnModificator": 1.19,
+        "Velocity": 0.95,
+        "RecoilAngle": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.484,
+        "Loudness": -34,
+        "Convergence": 0,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Flash": -10
+    },
     "726928d910aacf0b1b40b934": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "726928d910aacf0b1b40b934",
         "Name": "hg_sag_mk3_black",
 		"TemplateType": "mod",
@@ -4793,6 +5925,7 @@
         "Price": 0
     },
     "eebec7fdda3d612c25d48af6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "eebec7fdda3d612c25d48af6",
         "Name": "hg_sag_mk3_green",
 		"TemplateType": "mod",
@@ -4815,6 +5948,7 @@
         "Price": 0
     },
     "4da17d6e133487626488aa2d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4da17d6e133487626488aa2d",
         "Name": "hg_sag_mk3_gray",
 		"TemplateType": "mod",
@@ -4837,6 +5971,7 @@
         "Price": 0
     },
     "f896348f6bab6164ae6e0c2e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f896348f6bab6164ae6e0c2e",
         "Name": "hg_sag_mk3_plum",
 		"TemplateType": "mod",
@@ -4859,6 +5994,7 @@
         "Price": 0
     },
     "4c467c02973c90a5284cb89a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4c467c02973c90a5284cb89a",
         "Name": "hg_sag_mk3_tan",
 		"TemplateType": "mod",
@@ -4881,6 +6017,7 @@
         "Price": 0
     },
     "f849f458cb4ad62c5d8b96e1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f849f458cb4ad62c5d8b96e1",
         "Name": "mount_kac_high_forward",
 		"TemplateType": "mod",
@@ -4893,6 +6030,7 @@
         "Price": 0
     },
     "86f1db244188717106a25806": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "86f1db244188717106a25806",
         "Name": "mount_kac_high_forward",
 		"TemplateType": "mod",
@@ -4904,65 +6042,8 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "6065c6e7132d4d12c81fd8e1": {
-        "ItemID": "6065c6e7132d4d12c81fd8e1",
-        "Name": "muzzle_fatman_hex_brake",
-		"TemplateType": "mod",
-        "ModType": "",
-        "VerticalRecoil": -6.5,
-        "HorizontalRecoil": -10,
-        "Dispersion": -12,
-        "CameraRecoil": 0,
-        "AutoROF": 0,
-        "SemiROF": 0,
-        "ModMalfunctionChance": 0,
-        "CanCycleSubs": false,
-        "Accuracy": 3,
-        "HeatFactor": 1,
-        "CoolFactor": 1,
-        "DurabilityBurnModificator": 1,
-        "Velocity": 0,
-        "RecoilAngle": 0,
-        "ConflictingItems": [],
-        "Ergonomics": -1.5,
-        "Weight": 0.167,
-        "Loudness": 32,
-        "Convergence": 12,
-        "LoyaltyLevel": 0,
-        "Price": 0,
-        "Flash": 30
-    },
-    "41e97223a2ad6374a096ae14": {
-        "ItemID": "41e97223a2ad6374a096ae14",
-        "Name": "scope_unity_ftc_black",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": 17,
-        "Accuracy": 17,
-        "ConflictingItems": [],
-        "Ergonomics": -1,
-        "Weight": 0.455,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
-    "7ca248803b89788492384ba2": {
-        "ItemID": "7ca248803b89788492384ba2",
-        "Name": "scope_unity_ftc_fde",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": 17,
-        "Accuracy": 17,
-        "ConflictingItems": [],
-        "Ergonomics": -1,
-        "Weight": 0.455,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
     "2e681ada9836f6e030080191": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2e681ada9836f6e030080191",
         "Name": "mount_unity_ftc_riser_black",
 		"TemplateType": "mod",
@@ -4975,6 +6056,7 @@
         "Price": 0
     },
     "e1543def58291668bac8e2c8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e1543def58291668bac8e2c8",
         "Name": "mount_unity_ftc_riser_fde",
 		"TemplateType": "mod",
@@ -4987,6 +6069,7 @@
         "Price": 0
     },
     "bee69903a79a897514c85412": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bee69903a79a897514c85412",
         "Name": "hg_mfr9_blk",
 		"TemplateType": "mod",
@@ -5010,6 +6093,7 @@
         "Price": 0
     },
     "0ff4b9f8bb8232315f36ffba": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0ff4b9f8bb8232315f36ffba",
         "Name": "hg_mfr9_cbt",
 		"TemplateType": "mod",
@@ -5033,6 +6117,7 @@
         "Price": 0
     },
     "e54bf17e790c56ecd831753f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e54bf17e790c56ecd831753f",
         "Name": "hg_mfr9_dw",
 		"TemplateType": "mod",
@@ -5056,6 +6141,7 @@
         "Price": 0
     },
     "9eec17c39b0fca74b9e6827c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9eec17c39b0fca74b9e6827c",
         "Name": "hg_mfr9_fde",
 		"TemplateType": "mod",
@@ -5078,30 +6164,27 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "5ea16ada09aa976f2e7a51be": {
-        "ItemID": "5ea16ada09aa976f2e7a51be",
-        "Name": "hg_mfr10_blk",
-		"TemplateType": "mod",
+    "26011b09865a424f95c22619": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "26011b09865a424f95c22619",
+        "Name": "mfr10_blk",
         "ModType": "",
-        "VerticalRecoil": -1,
-        "HorizontalRecoil": -2,
+        "VerticalRecoil": -2.5,
+        "HorizontalRecoil": -2.5,
         "Dispersion": -1.5,
         "AimSpeed": 0,
-        "Ergonomics": 7,
-        "Accuracy": 18,
-        "HeatFactor": 0.965,
-        "CoolFactor": 1.092,
-        "ConflictingItems": [
-            "5a34fbadc4a28200741e230a",
-            "5ae30e795acfc408fb139a0b",
-            "56ea8d2fd2720b7c698b4570",
-            "55d35ee94bdc2d61338b4568"
-        ],
-        "Weight": 0.175,
-        "LoyaltyLevel": 0,
-        "Price": 0
+        "Ergonomics": 11,
+        "Accuracy": 10,
+        "HeatFactor": 0.963,
+        "CoolFactor": 1.095,
+        "ConflictingItems": [],
+        "Weight": 0.153,
+        "LoyaltyLevel": 3,
+        "Price": 0,
+        "AimStability": 4.5
     },
     "17ddd81c001383de5709cb7d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "17ddd81c001383de5709cb7d",
         "Name": "hg_mfr10_cbt",
 		"TemplateType": "mod",
@@ -5125,6 +6208,7 @@
         "Price": 0
     },
     "75773b218c774da8fcbc10f7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "75773b218c774da8fcbc10f7",
         "Name": "hg_mfr10_dw",
 		"TemplateType": "mod",
@@ -5148,6 +6232,7 @@
         "Price": 0
     },
     "a0abb28616af5a7f474b3649": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a0abb28616af5a7f474b3649",
         "Name": "hg_mfr10_fde",
 		"TemplateType": "mod",
@@ -5171,6 +6256,7 @@
         "Price": 0
     },
     "8f6edf466418c1b8d9356625": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8f6edf466418c1b8d9356625",
         "Name": "hg_mfr13_5_blk",
 		"TemplateType": "mod",
@@ -5194,6 +6280,7 @@
         "Price": 0
     },
     "07c74d946af09d5059bd38db": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "07c74d946af09d5059bd38db",
         "Name": "hg_mfr13_5_cbt",
 		"TemplateType": "mod",
@@ -5217,6 +6304,7 @@
         "Price": 0
     },
     "df9d8454a7214334710f8fc0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "df9d8454a7214334710f8fc0",
         "Name": "hg_mfr13_5_dw",
 		"TemplateType": "mod",
@@ -5240,6 +6328,7 @@
         "Price": 0
     },
     "a66f8c0dc225ec71541a8be1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a66f8c0dc225ec71541a8be1",
         "Name": "hg_mfr13_5_fde",
 		"TemplateType": "mod",
@@ -5263,6 +6352,7 @@
         "Price": 0
     },
     "7fcdd565380cb8fc9b0fb1f1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7fcdd565380cb8fc9b0fb1f1",
         "Name": "hg_mfr15_blk",
 		"TemplateType": "mod",
@@ -5286,6 +6376,7 @@
         "Price": 0
     },
     "43814001cfda6adc7f69fe6b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "43814001cfda6adc7f69fe6b",
         "Name": "hg_mfr15_cbt",
 		"TemplateType": "mod",
@@ -5309,6 +6400,7 @@
         "Price": 0
     },
     "7a431acbc2bc03fb8305fc93": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7a431acbc2bc03fb8305fc93",
         "Name": "hg_mfr15_dw",
 		"TemplateType": "mod",
@@ -5332,6 +6424,7 @@
         "Price": 0
     },
     "622d454e517ae2325e623625": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "622d454e517ae2325e623625",
         "Name": "hg_mfr15_fde",
 		"TemplateType": "mod",
@@ -5355,6 +6448,7 @@
         "Price": 0
     },
     "acc415b469ea6ac82c20ea5f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "acc415b469ea6ac82c20ea5f",
         "Name": "hg_hk_smr_14_5_blk",
 		"TemplateType": "mod",
@@ -5377,6 +6471,7 @@
         "Price": 0
     },
     "befa747c1e35a5283d2b4b66": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "befa747c1e35a5283d2b4b66",
         "Name": "hg_hk_smr_14_5_ddc",
 		"TemplateType": "mod",
@@ -5399,6 +6494,7 @@
         "Price": 0
     },
     "687ff858ff57353a91a66ca5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "687ff858ff57353a91a66ca5",
         "Name": "hg_hk_smr_10_5_blk",
 		"TemplateType": "mod",
@@ -5421,6 +6517,7 @@
         "Price": 0
     },
     "559582b091fc761d95c2da36": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "559582b091fc761d95c2da36",
         "Name": "hg_hk_smr_10_5_ddc",
 		"TemplateType": "mod",
@@ -5442,84 +6539,8 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "8d9e9ff3020f92eb5fc46680": {
-        "ItemID": "8d9e9ff3020f92eb5fc46680",
-        "Name": "scope_g33_exps3_magnifier",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": 0,
-        "Accuracy": 0,
-        "ConflictingItems": [],
-        "Ergonomics": 0,
-        "Weight": 0.3,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
-    "85675a91454713828d6138e5": {
-        "ItemID": "85675a91454713828d6138e5",
-        "Name": "scope_vortex_eleanor_1_10_blk",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": -29,
-        "Accuracy": 23,
-        "ConflictingItems": [
-            "591c4efa86f7741030027726",
-            "570fd79bd2720bc7458b4583",
-            "570fd6c2d2720bc6458b457f",
-            "558022b54bdc2dac148b458d",
-            "58491f3324597764bc48fa02",
-            "584924ec24597768f12ae244",
-            "5b30b0dc5acfc400153b7124",
-            "60a23797a37c940de7062d02",
-            "5d2da1e948f035477b1ce2ba",
-            "5c0505e00db834001b735073",
-            "609a63b6e2ff132951242d09",
-            "584984812459776a704a82a6",
-            "59f9d81586f7744c7506ee62",
-            "570fd721d2720bc5458b4596",
-            "5c7d55f52e221644f31bff6a"
-        ],
-        "Ergonomics": 0,
-        "Weight": 0.9,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
-    "cd609524dadc768a89f99bba": {
-        "ItemID": "cd609524dadc768a89f99bba",
-        "Name": "scope_vortex_eleanor_1_10_fde",
-		"TemplateType": "mod",
-        "ModType": "sight",
-        "AimSpeed": -29,
-        "Accuracy": 23,
-        "ConflictingItems": [
-            "591c4efa86f7741030027726",
-            "570fd79bd2720bc7458b4583",
-            "570fd6c2d2720bc6458b457f",
-            "558022b54bdc2dac148b458d",
-            "58491f3324597764bc48fa02",
-            "584924ec24597768f12ae244",
-            "5b30b0dc5acfc400153b7124",
-            "60a23797a37c940de7062d02",
-            "5d2da1e948f035477b1ce2ba",
-            "5c0505e00db834001b735073",
-            "609a63b6e2ff132951242d09",
-            "584984812459776a704a82a6",
-            "59f9d81586f7744c7506ee62",
-            "570fd721d2720bc5458b4596",
-            "5c7d55f52e221644f31bff6a"
-        ],
-        "Ergonomics": 0,
-        "Weight": 0.9,
-        "VerticalRecoil": 0,
-        "HorizontalRecoil": 0,
-        "LoyaltyLevel": 0,
-        "Price": 0
-    },
     "7af1b735539670b26a3fe68b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7af1b735539670b26a3fe68b",
         "Name": "mount_reptilia_34mm_fde",
 		"TemplateType": "mod",
@@ -5533,7 +6554,68 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "e3dcf75199f821636a95cb9b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "e3dcf75199f821636a95cb9b",
+        "Name": "reptilia_34mm_mount_blk",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 9,
+        "ConflictingItems": [],
+        "Weight": 0.194,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
+    "0ce104382851509ab14fb19c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "0ce104382851509ab14fb19c",
+        "Name": "reptilia_34mm_rmr_blk",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": -1,
+        "ConflictingItems": [],
+        "Weight": 0.02,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
+    "27b92c2226b1110635235c2e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "27b92c2226b1110635235c2e",
+        "Name": "reptilia_34mm_rmr_fde",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": -1,
+        "ConflictingItems": [],
+        "Weight": 0.02,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
+    "04b7ab7e14e564819a6d0e22": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "04b7ab7e14e564819a6d0e22",
+        "Name": "reptilia_ring_blk",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.02,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
+    "0d914f394390e16506a949da": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "0d914f394390e16506a949da",
+        "Name": "reptilia_ring_fde",
+        "ModType": "mount",
+        "Ergonomics": 0,
+        "Accuracy": 0,
+        "ConflictingItems": [],
+        "Weight": 0.02,
+        "LoyaltyLevel": 4,
+        "Price": 0
+    },
     "7b3525a6de4f4847921529c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7b3525a6de4f4847921529c0",
         "Name": "mount_reptilia_34mm_acro_blk",
 		"TemplateType": "mod",
@@ -5546,6 +6628,7 @@
         "Price": 0
     },
     "159023b10fa02ac28247fce3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "159023b10fa02ac28247fce3",
         "Name": "mount_reptilia_34mm_acro_blk",
 		"TemplateType": "mod",
@@ -5556,5 +6639,245 @@
         "Weight": 0.02,
         "LoyaltyLevel": 0,
         "Price": 0
+    },
+    "0496326cc260ae05a5518a76": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "0496326cc260ae05a5518a76",
+        "Name": "sr15_ambi_ch_blk",
+        "TemplateID": null,
+        "ModType": "",
+        "ReloadSpeed": 0,
+        "ConflictingItems": [],
+        "FixSpeed": 0,
+        "Ergonomics": 0,
+        "Weight": 0.064,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "ChamberSpeed": 35,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "c6213cfe82bfafc0b1b1911d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "c6213cfe82bfafc0b1b1911d",
+        "Name": "sr15_ambi_ch_fde",
+        "TemplateID": null,
+        "ModType": "",
+        "ReloadSpeed": 0,
+        "ConflictingItems": [],
+        "FixSpeed": 0,
+        "Ergonomics": 0,
+        "Weight": 0.064,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "ChamberSpeed": 35,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "c6aa3fe86a9fc7ea6c220c2f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "c6aa3fe86a9fc7ea6c220c2f",
+        "Name": "sr15_upper_blk",
+        "TemplateID": null,
+        "ModType": "",
+        "ModMalfunctionChance": 0,
+        "Accuracy": 0,
+        "HeatFactor": 0.987,
+        "CoolFactor": 1.02,
+        "DurabilityBurnModificator": 1,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.2495,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "ChamberSpeed": 0,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "cc85761fc4963442077f9460": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "cc85761fc4963442077f9460",
+        "Name": "sr15_upper_fde",
+        "TemplateID": null,
+        "ModType": "",
+        "ModMalfunctionChance": 0,
+        "Accuracy": 0,
+        "HeatFactor": 0.989,
+        "CoolFactor": 1.01,
+        "DurabilityBurnModificator": 1,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.2495,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "ChamberSpeed": 0,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "9065d7003f6f4f62ca099bbf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "9065d7003f6f4f62ca099bbf",
+        "Name": "ar15_straight_mag_20",
+        "ModType": "",
+        "ReloadSpeed": 8,
+        "Ergonomics": 0,
+        "MalfunctionChance": 0.005,
+        "LoadUnloadModifier": 0,
+        "CheckTimeModifier": 0,
+        "ConflictingItems": [],
+        "Weight": 0.090,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 1,
+        "Price": 0
+    },
+    "8ec622c17502df08341f14a2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "8ec622c17502df08341f14a2",
+        "Name": "x_15_ar15_50rd_drum",
+        "ModType": "",
+        "ReloadSpeed": -11,
+        "Ergonomics": -2,
+        "MalfunctionChance": 0.5,
+        "LoadUnloadModifier": 60,
+        "CheckTimeModifier": 20,
+        "ConflictingItems": [],
+        "Weight": 0.878,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 3,
+        "Price": 0
+    },
+    "c9aeb745fc67045b814af837": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "c9aeb745fc67045b814af837",
+        "Name": "pufgun_556_30rd_blk",
+        "ModType": "",
+        "ReloadSpeed": 0,
+        "Ergonomics": 0,
+        "MalfunctionChance": 0,
+        "LoadUnloadModifier": 0,
+        "CheckTimeModifier": 0,
+        "ConflictingItems": [],
+        "Weight": 0.215,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 1,
+        "Price": 0
+    },
+    "4656b02dbe4bfa4a3a9e6d40": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "4656b02dbe4bfa4a3a9e6d40",
+        "Name": "pufgun_556_30rd_fde",
+        "ModType": "",
+        "ReloadSpeed": 0,
+        "Ergonomics": 0,
+        "MalfunctionChance": 0,
+        "LoadUnloadModifier": 0,
+        "CheckTimeModifier": 0,
+        "ConflictingItems": [],
+        "Weight": 0.215,
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": 0,
+        "LoyaltyLevel": 1,
+        "Price": 0
+    },
+    "f5e580d2d78aee1a68978f70": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "f5e580d2d78aee1a68978f70",
+        "Name": "midwest_ar10_12_625",
+        "ModType": "",
+        "VerticalRecoil": -2,
+        "HorizontalRecoil": -2,
+        "Dispersion": -2,
+        "AimSpeed": 0,
+        "Ergonomics": 16,
+        "Accuracy": 16,
+        "HeatFactor": 0.965,
+        "CoolFactor": 1.03,
+        "ConflictingItems": [],
+        "Weight": 0.357,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Handling": 2,
+        "AimStability": 4
+    },
+    "0a64906cf9e00f3d10314995": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "0a64906cf9e00f3d10314995",
+        "Name": "midwest_ar10_15",
+        "ModType": "",
+        "VerticalRecoil": -2,
+        "HorizontalRecoil": -2.5,
+        "Dispersion": -2,
+        "AimSpeed": 0,
+        "Ergonomics": 12,
+        "Accuracy": 22,
+        "HeatFactor": 0.965,
+        "CoolFactor": 1.03,
+        "ConflictingItems": [],
+        "Weight": 0.411,
+        "LoyaltyLevel": 4,
+        "Price": 0,
+        "Handling": 2,
+        "AimStability": 4
+    },
+    "09a00fdd295d5f374c3b6829": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "09a00fdd295d5f374c3b6829",
+        "Name": "midwest_nf_9_25",
+        "ModType": "",
+        "VerticalRecoil": -1,
+        "HorizontalRecoil": -1.5,
+        "Dispersion": 0,
+        "AimSpeed": 0,
+        "Ergonomics": 16,
+        "Accuracy": 15,
+        "HeatFactor": 0.96,
+        "CoolFactor": 1.1,
+        "ConflictingItems": [],
+        "Weight": 0.323,
+        "LoyaltyLevel": 3,
+        "Price": 0,
+        "AimStability": 5
+    },
+    "fda2c36ae178185078035ce3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "fda2c36ae178185078035ce3",
+        "Name": "midwest_nf_10_5",
+        "ModType": "",
+        "VerticalRecoil": -1.5,
+        "HorizontalRecoil": -2,
+        "Dispersion": -1,
+        "AimSpeed": 0,
+        "Ergonomics": 13,
+        "Accuracy": 18,
+        "HeatFactor": 0.96,
+        "CoolFactor": 1.1,
+        "ConflictingItems": [],
+        "Weight": 0.351,
+        "LoyaltyLevel": 3,
+        "Price": 0,
+        "AimStability": 6.5
+    },
+    "ec47c8fd149c9b6a07db4dc6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "ec47c8fd149c9b6a07db4dc6",
+        "Name": "midwest_nf_13_5",
+        "ModType": "",
+        "VerticalRecoil": -3,
+        "HorizontalRecoil": -3,
+        "Dispersion": -2,
+        "AimSpeed": 0,
+        "Ergonomics": 10,
+        "Accuracy": 20,
+        "HeatFactor": 0.96,
+        "CoolFactor": 1.1,
+        "ConflictingItems": [],
+        "Weight": 0.351,
+        "LoyaltyLevel": 3,
+        "Price": 0,
+        "AimStability": 6.5,
+        "Handling": 1.5
     }
 }
