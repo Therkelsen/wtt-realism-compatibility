@@ -15,7 +15,7 @@ if (-Not (Test-Path -Path $releaseDir)) {
 $baseDir = "$releaseDir\wtt-realism-compatibility_${mod_version}_SPT-v${spt_version}"
 
 # Define the inner directory structure
-$innerDir = "user\mods\SPT-Realism\db\put_new_stuff_here\WTT Armory"
+$innerDir = "user\mods\SPT-Realism\db\templates\user_templates\WTT Armory"
 
 # Create the directories
 New-Item -ItemType Directory -Path "$baseDir\$innerDir" -Force

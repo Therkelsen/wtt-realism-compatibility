@@ -1,5 +1,6 @@
 {
     "064a8c271a037b0c6a1b86f5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "064a8c271a037b0c6a1b86f5",
         "Name": "mag_ump_1143x23_50_drum",
         "TemplateType": "mod",
@@ -17,6 +18,7 @@
         "Price": 0
     },
     "5fa85819d2d2bfc0079e6b09": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5fa85819d2d2bfc0079e6b09",
         "Name": "mag_mk17_762x51_50_drum",
         "TemplateType": "mod",
@@ -34,6 +36,7 @@
         "Price": 0
     },
     "0672adb8be2d7d5a552ab4f2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0672adb8be2d7d5a552ab4f2",
         "Name": "mag_glock_9x19_100_drum",
         "TemplateType": "mod",
@@ -51,6 +54,7 @@
         "Price": 0
     },
     "ccab703b048be433c03a671c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ccab703b048be433c03a671c",
         "Name": "mag_g36_556x45_100_drum",
         "TemplateType": "mod",
@@ -68,6 +72,7 @@
         "Price": 0
     },
     "e64f03a25b5e13510bc55091": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e64f03a25b5e13510bc55091",
         "Name": "mag_mp7_46x30_60_drum",
         "TemplateType": "mod",
@@ -85,6 +90,7 @@
         "Price": 0
     },
     "e8aa1ef743f71f3e03b858f2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e8aa1ef743f71f3e03b858f2",
         "Name": "mag_svd_izhmash_762x54_50_drum",
         "TemplateType": "mod",
@@ -102,6 +108,7 @@
         "Price": 0
     },
     "fa6502a2104d4c80eeb404fe": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "fa6502a2104d4c80eeb404fe",
         "Name": "mag_ar10_762x51_30",
         "TemplateType": "mod",
@@ -119,6 +126,7 @@
         "Price": 0
     },
     "d4fa8040a5b69d46bf8819e3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d4fa8040a5b69d46bf8819e3",
         "Name": "mag_p90_57x28_65",
         "TemplateType": "mod",
@@ -136,6 +144,7 @@
         "Price": 0
     },
     "ca525c0ecc13667bd1ef357c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ca525c0ecc13667bd1ef357c",
         "Name": "mag_mp5_9x19_55_drum",
         "TemplateType": "mod",
@@ -153,6 +162,7 @@
         "Price": 0
     },
     "9a5e3fa7c8205cf253799070": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9a5e3fa7c8205cf253799070",
         "Name": "mag_glock_1143x23_50_drum",
         "TemplateType": "mod",
@@ -170,6 +180,7 @@
         "Price": 0
     },
     "a483029913455f81127fd070": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a483029913455f81127fd070",
         "Name": "mag_pp-91_9x18pm_55_drum",
         "TemplateType": "mod",
@@ -187,6 +198,7 @@
         "Price": 0
     },
     "a10805748f12422327de49a8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a10805748f12422327de49a8",
         "Name": "mag_pm_izhmeh_9x18pm_18",
         "TemplateType": "mod",
@@ -204,6 +216,7 @@
         "Price": 0
     },
     "c29c6c3762a2414440fb69c9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c29c6c3762a2414440fb69c9",
         "Name": "mag_stanag_556x45_100_drum",
         "TemplateType": "mod",

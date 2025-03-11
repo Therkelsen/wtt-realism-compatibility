@@ -1,5 +1,6 @@
 {
     "66839591f4d0cba7b041b2af": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66839591f4d0cba7b041b2af",
         "Name": "weapon_patriot_1776",
         "TemplateType": "mod",
@@ -48,6 +49,7 @@
         "MasteryCategory": "M4"
     },
     "5ae30bad5acfc400185c2dc4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5ae30bad5acfc400185c2dc4",
         "Name": "rs_patriot_1776_carry_handle",
         "TemplateType": "mod",

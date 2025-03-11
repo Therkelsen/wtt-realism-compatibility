@@ -1,9 +1,9 @@
-{
+{    
     "a06aec4316ac6ff7353845f4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a06aec4316ac6ff7353845f4",
         "Name": "barrel_ar15_8in300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -5,
         "AutoROF": 3,
@@ -26,10 +26,10 @@
         "Price": 0
 	},
 	"36743efe52b803c9ec56ba99": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "36743efe52b803c9ec56ba99",
         "Name": "barrel_ar15_adar_406mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -20,
         "AutoROF": -2,
@@ -55,10 +55,10 @@
         "Price": 0
 	},
 	"855c66034be3bb6aece3919b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "855c66034be3bb6aece3919b",
         "Name": "barrel_ar15_370mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -10,
         "AutoROF": 0,
@@ -81,10 +81,10 @@
         "Price": 0
 	},
 	"c6b01e3e7a1ec6168254e687": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c6b01e3e7a1ec6168254e687",
         "Name": "barrel_ar15_260mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -6,
         "AutoROF": 1,
@@ -107,10 +107,10 @@
         "Price": 0
 	},
 	"bc9a059a5c6cb11a3b57c670": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bc9a059a5c6cb11a3b57c670",
         "Name": "barrel_ar15_ba_hanson_carbine_pro_348mm_blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -8,
         "AutoROF": 0,
@@ -133,10 +133,10 @@
         "Price": 0
 	},
 	"8f3a04aaba92798bf7c59f91": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8f3a04aaba92798bf7c59f91",
         "Name": "barrel_ar15_457mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -15,
         "HorizontalRecoil": -25,
         "AutoROF": -2.5,
@@ -167,10 +167,10 @@
         "Price": 0
 	},
 	"9e7ef7236e5189be2386e4c2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "9e7ef7236e5189be2386e4c2",
         "Name": "barrel_ar15_11_5in300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -8,
         "AutoROF": 3,
@@ -193,10 +193,10 @@
         "Price": 0
 	},
 	"d0b292e070ee6c5263285461": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d0b292e070ee6c5263285461",
         "Name": "barrel_ar15_12_5in300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -9,
         "AutoROF": 3,
@@ -219,10 +219,10 @@
         "Price": 0
 	},
 	"ee8c293ca09a8e3a72c63171": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ee8c293ca09a8e3a72c63171",
         "Name": "barrel_mcx_sig_spear_330mm_762x51",
-		"TemplateType": "mod",
-        "ModType": "308",
+		"ModType": "",
         "VerticalRecoil": 4,
         "HorizontalRecoil": 10,
         "AutoROF": 0,
@@ -243,10 +243,10 @@
         "MalfChance": 0
 	},
 	"7e907f07001010565675cab3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7e907f07001010565675cab3",
         "Name": "barrel_mk47_cmmg_254mm_545x39",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -10,
         "AutoROF": 5,
@@ -276,10 +276,10 @@
         "Price": 0
 	},
 	"e76f8cc1a9991402c3577669": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e76f8cc1a9991402c3577669",
         "Name": "barrel_mk47_cmmg_254mm_9x39",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -15,
         "AutoROF": 5,
@@ -308,10 +308,10 @@
         "Price": 0
 	},
 	"5f6f029a5e87bfd11d7f73e7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5f6f029a5e87bfd11d7f73e7",
         "Name": "barrel_m700_remington_heavy_5_r_stainless_threaded_508mm_277",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -5,
         "AutoROF": 0,
@@ -333,10 +333,10 @@
         "Price": 0
 	},
 	"d86734035b117af77620caf0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d86734035b117af77620caf0",
         "Name": "barrel_mk47_cmmg_409mm_9x39",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -15,
         "HorizontalRecoil": -25,
         "AutoROF": 5,
@@ -365,10 +365,10 @@
         "Price": 0
     },
 	"3a67dd4a1cda6a6d29bafc0e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3a67dd4a1cda6a6d29bafc0e",
         "Name": "barrel_mk47_cmmg_409mm_545x39",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -20,
         "AutoROF": -2,
@@ -391,10 +391,10 @@
         "Price": 0
     },
 	"097969ab2090312a61dc8c34": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "097969ab2090312a61dc8c34",
         "Name": "barrel_m700_remington_heavy_660mm_277",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -15,
         "AutoROF": 0,
@@ -416,10 +416,10 @@
         "Price": 0
 	},
 	"5c0ee3f1dd704f16c12da7fb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5c0ee3f1dd704f16c12da7fb",
         "Name": "barrel_m700_remington_heavy_threaded_508mm_277",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -10,
         "AutoROF": 0,
@@ -441,8 +441,10 @@
         "Price": 0
 	},
 	"9a1df2227c186dbe0a69acd7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5d2702e88abbc31ed91efc44",
         "Name": "barrel_m700_shilen_stainless_660mm",
+        "ModType": "",
 		"VerticalRecoil": -5,
         "HorizontalRecoil": -10,
         "AutoROF": 0,
@@ -464,10 +466,10 @@
         "Price": 0
 	},
 	"75aaff6e4b9746a9a43aed1b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "75aaff6e4b9746a9a43aed1b",
         "Name": "barrel_mcx_5_5in300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 10,
         "AutoROF": 3,
@@ -490,10 +492,10 @@
         "Price": 0
 	},
 	"8f13f88e0c490b2f28dcf023": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8f13f88e0c490b2f28dcf023",
         "Name": "barrel_mcx_171mm_556x45",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 5,
         "HorizontalRecoil": 15,
         "AutoROF": 5,
@@ -516,10 +518,10 @@
         "Price": 0
 	},
 	"2905579cfacf2a9ddaa2a922": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2905579cfacf2a9ddaa2a922",
         "Name": "barrel_mcx_229mm_556x45",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 10,
         "AutoROF": 3,
@@ -542,9 +544,9 @@
         "Price": 0
 	},
 	"a6cd0aecdd7c681e6ce5fad0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "a6cd0aecdd7c681e6ce5fad0",
         "Name": "ks1_barrel",
-		"TemplateType": "mod",
 		"ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -568,10 +570,10 @@
         "Price": 0
 	},
     "5b62e4a75ec6adea49b29abc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5b62e4a75ec6adea49b29abc",
         "Name": "ar-15_5_56x45_16_inch_faux_dissipator_barrel",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
         "AutoROF": 0,
@@ -593,11 +595,65 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
+    "cd97339d6bfa982e1539bb1c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "cd97339d6bfa982e1539bb1c",
+        "Name": "16in_riflegas_diss",
+        "TemplateID": null,
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -12,
+        "AutoROF": -2.25,
+        "SemiROF": -1.25,
+        "ModMalfunctionChance": -12,
+        "CameraRecoil": -12,
+        "Convergence": 0,
+        "Accuracy": 0,
+        "CenterOfImpact": 0.015,
+        "HeatFactor": 0.97,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 0.89,
+        "Velocity": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.78,
+        "ShotgunDispersion": 1,
+        "Loudness": 0,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
+    "e9a6cb55be806cb35811ebb3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "e9a6cb55be806cb35811ebb3",
+        "Name": "sr15_16_barrel",
+        "TemplateID": null,
+        "ModType": "",
+        "VerticalRecoil": 0,
+        "HorizontalRecoil": -12,
+        "AutoROF": -2.25,
+        "SemiROF": -1.25,
+        "ModMalfunctionChance": -12,
+        "CameraRecoil": -12,
+        "Convergence": 0,
+        "Accuracy": 0,
+        "CenterOfImpact": 0.015,
+        "HeatFactor": 0.97,
+        "CoolFactor": 1.03,
+        "DurabilityBurnModificator": 0.89,
+        "Velocity": 0,
+        "ConflictingItems": [],
+        "Ergonomics": 0,
+        "Weight": 0.78,
+        "ShotgunDispersion": 1,
+        "Loudness": 0,
+        "LoyaltyLevel": 0,
+        "Price": 0
+    },
     "44805f562c61dd6f99629991": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "44805f562c61dd6f99629991",
         "Name": "ar15_11_5_556_45",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 13,
         "AutoROF": 2.5,
@@ -620,10 +676,10 @@
         "Price": 0
     },
     "d40c79f8cd80c888bd960068": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "d40c79f8cd80c888bd960068",
         "Name": "ar15_12_5_carbine_556_45",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 11,
         "AutoROF": 2.5,
@@ -646,10 +702,10 @@
         "Price": 0
     },
     "2d2dbf0375f49c5b7ac899ab": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2d2dbf0375f49c5b7ac899ab",
         "Name": "ar15_12_5_mid_556_45",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 10,
         "AutoROF": 1.5,
@@ -672,10 +728,10 @@
         "Price": 0
     },
     "920e1fdd287c92fd605183d4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "920e1fdd287c92fd605183d4",
         "Name": "barrel_ar15_508mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -17,
         "AutoROF": -3.5,
@@ -706,10 +762,10 @@
         "Price": 0
     },
     "f8774eaf5abb081a89bbb950": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "f8774eaf5abb081a89bbb950",
         "Name": "barrel_ar15_ba_hanson_carbine_pro_406mm_300blackout",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -8,
         "HorizontalRecoil": -12,
         "AutoROF": -2.25,
@@ -739,10 +795,10 @@
         "Price": 0
     },
     "981bedd65e69fa6439c52c84": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "981bedd65e69fa6439c52c84",
         "Name": "ar15_12_5_carbine_300blackout",
-		"TemplateType": "mod",
-        "ModType": "short_barrel",
+		"ModType": "short_barrel",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -9,
         "AutoROF": 3,
@@ -765,10 +821,10 @@
         "Price": 0
     },
     "807cce3153fd6d07fa931fa1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "807cce3153fd6d07fa931fa1",
         "Name": "sr-25_11",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": 4,
         "HorizontalRecoil": 10,
         "AutoROF": 3,
@@ -791,10 +847,10 @@
         "Price": 0
     },
     "3f0cfc550b6aae26f59f7e25": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3f0cfc550b6aae26f59f7e25",
         "Name": "sr-25_14",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": 2,
         "HorizontalRecoil": 7,
         "AutoROF": 2,
@@ -817,10 +873,10 @@
         "Price": 0
     },
     "0e04281ba42dc2b931966711": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "0e04281ba42dc2b931966711",
-        "Name": "m700_16\"",
-		"TemplateType": "mod",
-        "ModType": "",
+        "Name": "m700_16",
+		"ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
         "AutoROF": 0,
@@ -842,10 +898,10 @@
         "Price": 0
     },
     "8d5a67fd685ff05e7253b4f7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "8d5a67fd685ff05e7253b4f7",
         "Name": "barrel_ax_accuracy_international_508mm_762x51_pb",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
         "AutoROF": 0,
@@ -875,10 +931,10 @@
         "Price": 0
     },
     "013114b6d9dc19eda4d0cad3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "013114b6d9dc19eda4d0cad3",
         "Name": "barrel_ax_accuracy_international_610mm_762x51_pb",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
         "AutoROF": 0,
@@ -908,10 +964,10 @@
         "Price": 0
     },
     "a3a94608ed92771a766c6244": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "a3a94608ed92771a766c6244",
         "Name": "barrel_ax_accuracy_international_660mm_762x51_pb",
-		"TemplateType": "mod",
-        "ModType": "",
+		"ModType": "",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,
         "AutoROF": 0,

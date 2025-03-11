@@ -1,5 +1,6 @@
 {
         "663cf1da2496a8e7b0b71759": {
+                "$type": "RealismMod.Gun, RealismMod",
                 "ItemID": "663cf1da2496a8e7b0b71759",
                 "Name": "weapon_wilsoncombatedcx9",
                 "TemplateType": "gun",
@@ -44,9 +45,11 @@
                 "BaseChamberCheckSpeed": 1,
                 "BaseFixSpeed": 1,
                 "OffsetRotation": 0.011,
-                "RecoilIntensity": 0.25
+                "RecoilIntensity": 0.25,
+                "MasteryCategory": "P226"
 	},
 	"663cf411c5d5feff1b25419e": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf411c5d5feff1b25419e",
                 "Name": "barrel_wilsonedcx9",
                 "TemplateType": "mod",
@@ -72,6 +75,7 @@
         "Price": 0
 	},
 	"663cf38456e3019763642e64": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf38456e3019763642e64",
                 "Name": "slide_wilsonedcx9",
                 "TemplateType": "mod",
@@ -91,6 +95,7 @@
                 "Price": 0
 	},
 	"663cf42c23f97fae3855361c": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf42c23f97fae3855361c",
                 "Name": "fs_wilsonedcx9",
                 "TemplateType": "mod",
@@ -106,6 +111,7 @@
                 "Price": 0
 	},
 	"663cf2baeb3d77e14be4fcb8": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf2baeb3d77e14be4fcb8",
                 "Name": "mag_wilsonedcx9",
                 "TemplateType": "mod",
@@ -123,6 +129,7 @@
                 "Price": 0
 	},
 	"663cf442509df39323384184": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf442509df39323384184",
                 "Name": "rs_wilsonedcx9",
                 "TemplateType": "mod",
@@ -138,6 +145,7 @@
                 "Price": 0
 	},
 	"663cf2edb9aad1223a8f3be6": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf2edb9aad1223a8f3be6",
                 "Name": "catch_wilsonedcx9",
                 "TemplateType": "mod",
@@ -162,6 +170,7 @@
                 "Price": 0
 	},
 	"663cf4a5156c382c1297331c": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf4a5156c382c1297331c",
                 "Name": "hammer_wilsonedcx9",
                 "TemplateType": "mod",
@@ -185,6 +194,7 @@
                 "Price": 0
 	},
 	"663cf485b3f099cff7175526": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf485b3f099cff7175526",
                 "Name": "trigger_wilsonedcx9",
                 "TemplateType": "mod",
@@ -208,6 +218,7 @@
                 "Price": 0
 	},
 	"663cf45b1004c6a00b96304b": {
+                "$type": "RealismMod.WeaponMod, RealismMod",
                 "ItemID": "663cf45b1004c6a00b96304b",
                 "Name": "grip_wilsonedcx9",
                 "TemplateType": "mod",

@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "wtt-realism-compatibility",
+			"path": "."
+		},
+		{
+			"name": "templates",
+			"path": "E:/SPT/user/mods/SPT-Realism/db/templates"
+		},
+		{
+			"path": "../../../Downloads/Modding/SPT/Realism Compat' patch 3.4.0"
+		},
+		{
+			"path": "../../../Downloads/Modding/SPT/EpicRangeTimeWeapons"
+		}
+	],
+	"settings": {}
+}

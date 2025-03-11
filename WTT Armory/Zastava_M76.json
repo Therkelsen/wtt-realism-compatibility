@@ -1,5 +1,6 @@
 {
     "66e88596febdcf9daade16a8": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66e88596febdcf9daade16a8",
         "Name": "weapon_m76_792x57",
         "TemplateType": "gun",
@@ -48,6 +49,7 @@
         "MasteryCategory": "AKM"
     },
     "66e8888f8fa84b78297cd8da": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e8888f8fa84b78297cd8da",
         "Name": "stock_m76_wood",
         "TemplateType": "mod",
@@ -71,6 +73,7 @@
         "Price": 0
     },
     "66e888aaa157baa64d8338d1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e888aaa157baa64d8338d1",
         "Name": "stock_m76_rpk",
         "TemplateType": "mod",
@@ -94,6 +97,7 @@
         "Price": 0
     },
     "66e888b781e5751af50ce6bd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e888b781e5751af50ce6bd",
         "Name": "stock_m76_svd",
         "TemplateType": "mod",
@@ -117,6 +121,7 @@
         "Price": 0
     },
     "66e887cf09ede6c7c42def11": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e887cf09ede6c7c42def11",
         "Name": "rs_m76",
         "TemplateType": "mod",
@@ -132,6 +137,7 @@
         "Price": 0
     },
     "66e888c270c3285b5d91fada": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e888c270c3285b5d91fada",
         "Name": "hg_m76_wood",
         "TemplateType": "mod",
@@ -150,6 +156,7 @@
         "Price": 0
     },
     "66e888e39ace35080ccb02bd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e888e39ace35080ccb02bd",
         "Name": "hg_m76_grip",
         "TemplateType": "mod",
@@ -168,6 +175,7 @@
         "Price": 0
     },
     "66e887960e41855970b03be2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e887960e41855970b03be2",
         "Name": "pg_m76_wood",
         "TemplateType": "mod",
@@ -184,6 +192,7 @@
         "Price": 0
     },
     "66e887c36b0f8c1fc0684f18": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e887c36b0f8c1fc0684f18",
         "Name": "pg_m76_ergo",
         "TemplateType": "mod",
@@ -200,13 +209,14 @@
         "Price": 0
     },
     "66e887e85c11853b81a538f4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e887e85c11853b81a538f4",
         "Name": "mag_m76",
         "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
-        "MalfunctionChance": 0.2,
+        "MalfunctionChance": 0,
         "LoadUnloadModifier": 0,
         "CheckTimeModifier": -15,
         "ConflictingItems": [],
@@ -217,11 +227,12 @@
         "Price": 0
     },
     "66e888fe06f561b136f47117": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e888fe06f561b136f47117",
         "Name": "dc_m76",
         "TemplateType": "mod",
         "ModType": "",
-        "ModMalfunctionChance": -5,
+        "ModMalfunctionChance": 0,
         "Accuracy": 0,
         "HeatFactor": 1,
         "CoolFactor": 1,
@@ -236,11 +247,12 @@
         "Price": 0
     },
     "66e8891c2072d5483a2595e9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e8891c2072d5483a2595e9",
         "Name": "dc_m76_railed",
         "TemplateType": "mod",
         "ModType": "",
-        "ModMalfunctionChance": -5,
+        "ModMalfunctionChance": 0,
         "Accuracy": 0,
         "HeatFactor": 1,
         "CoolFactor": 1,
@@ -255,6 +267,7 @@
         "Price": 0
     },
     "66e8894237d122e047db9483": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e8894237d122e047db9483",
         "Name": "muzzle_m76",
         "TemplateType": "mod",
@@ -283,6 +296,7 @@
         "Flash": -50
     },
     "66e88961b65d524acd112c0a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e88961b65d524acd112c0a",
         "Name": "suppressor_m76",
         "TemplateType": "mod",
@@ -293,7 +307,7 @@
         "CameraRecoil": -8,
         "AutoROF": 2,
         "SemiROF": 3,
-        "ModMalfunctionChance": -25,
+        "ModMalfunctionChance": 0,
         "CanCycleSubs": true,
         "Accuracy": -30,
         "HeatFactor": 1.18,
@@ -311,6 +325,7 @@
         "Flash": 10
     },
     "66d0c1319aba7b6bff460a37": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66d0c1319aba7b6bff460a37",
         "Name": "ammo_792x57mm_fmj",
         "LoyaltyLevel": 1,

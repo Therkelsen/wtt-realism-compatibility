@@ -1,5 +1,6 @@
 {
   "6657bc8faeddd6b0a9b40224": {
+    "$type": "RealismMod.Gun, RealismMod",
     "ItemID": "6657bc8faeddd6b0a9b40224",
     "TemplateType": "gun",
     "Name": "weapon_svd_762x54r_1",
@@ -16,7 +17,7 @@
     "VisualMulti": 1.1,
     "Convergence": 9.6,
     "RecoilAngle": 90,
-    "BaseMalfunctionChance": 0.04,
+    "BaseMalfunctionChance": 0.004,
     "HeatFactorGun": 0.35,
     "HeatFactorByShot": 1,
     "CoolFactorGun": 0.1,
@@ -48,6 +49,7 @@
     "MasteryCategory": "AKM"
   },
   "6657bd4d3a4d6e7c33fd2fdc": {
+    "$type": "RealismMod.Gun, RealismMod",
     "ItemID": "6657bd4d3a4d6e7c33fd2fdc",
     "Name": "weapon_svd_762x54r_2",
     "TemplateType": "gun",
@@ -64,7 +66,7 @@
     "VisualMulti": 1.1,
     "Convergence": 9.6,
     "RecoilAngle": 90,
-    "BaseMalfunctionChance": 0.04,
+    "BaseMalfunctionChance": 0.004,
     "HeatFactorGun": 0.35,
     "HeatFactorByShot": 1,
     "CoolFactorGun": 0.1,
@@ -96,6 +98,7 @@
     "MasteryCategory": "AKM"
   },
   "6657bd663a5a69b08786fecc": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bd663a5a69b08786fecc",
     "Name": "hg_svd_wood",
     "TemplateType": "mod",
@@ -114,6 +117,7 @@
     "Price": 0
   },
   "6657bd80a635c01603bd9ef7": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bd80a635c01603bd9ef7",
     "Name": "hg_svd_camo",
     "TemplateType": "mod",
@@ -132,6 +136,7 @@
     "Price": 0
   },
   "6657bd891b74ff27b6a64fae": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bd891b74ff27b6a64fae",
     "Name": "hg_svd_ghillie",
     "TemplateType": "mod",
@@ -150,6 +155,7 @@
     "Price": 0
   },
   "6657bd29491b4baa8790dd91": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bd29491b4baa8790dd91",
     "Name": "stock_svd_wood",
     "TemplateType": "mod",
@@ -173,6 +179,7 @@
     "Price": 0
   },
   "6657bd990e17e7fb2bab32e6": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bd990e17e7fb2bab32e6",
     "Name": "stock_svd_marksman_polymer_1",
     "TemplateType": "mod",
@@ -196,6 +203,7 @@
     "Price": 0
   },
   "6657bda8ebfed767215c15d4": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bda8ebfed767215c15d4",
     "Name": "stock_svd_marksman_polymer_2",
     "TemplateType": "mod",
@@ -219,6 +227,7 @@
     "Price": 0
   },
   "6657bdb47618210e20db4064": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bdb47618210e20db4064",
     "Name": "buffer_svd_adapter",
     "TemplateType": "mod",
@@ -242,6 +251,7 @@
     "Price": 0
   },
   "6657bdc55b6dea8c9e65dc93": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bdc55b6dea8c9e65dc93",
     "Name": "barrel_svd_carbine_length",
     "TemplateType": "mod",
@@ -267,6 +277,7 @@
     "Price": 0
   },
   "6657bdd3ceb56099bc50c188": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bdd3ceb56099bc50c188",
     "Name": "muzzle_svd_custom_3_port_brake",
     "TemplateType": "mod",
@@ -294,6 +305,7 @@
     "Price": 0
   },
   "6657bdde5fb53ba8b0657bd6": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bdde5fb53ba8b0657bd6",
     "Name": "muzzle_svd_custom_2_port_brake",
     "TemplateType": "mod",
@@ -321,6 +333,7 @@
     "Price": 0
   },
   "6657bde9e47c756d6b149a5b": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657bde9e47c756d6b149a5b",
     "Name": "muzzle_svd_flash_hider",
     "TemplateType": "mod",
@@ -348,11 +361,12 @@
     "Price": 0
   },
   "6657be1f9014a9663b39bc4b": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657be1f9014a9663b39bc4b",
     "Name": "dust_cover_svd_camo",
     "TemplateType": "mod",
     "ModType": "",
-    "ModMalfunctionChance": -5,
+    "ModMalfunctionChance": 0,
     "Accuracy": 0,
     "HeatFactor": 1,
     "CoolFactor": 1,
@@ -367,6 +381,7 @@
     "Price": 0
   },
   "6657be2ae0a6ff466db575de": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657be2ae0a6ff466db575de",
     "Name": "mag_svd_camo_10",
     "TemplateType": "mod",
@@ -384,6 +399,7 @@
     "Price": 0
   },
   "6657be33ed0d0e6d65f1ba00": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657be33ed0d0e6d65f1ba00",
     "Name": "mag_svd_polymer_10",
     "TemplateType": "mod",
@@ -401,13 +417,14 @@
     "Price": 0
   },
   "6657be3d8876d16a5866f413": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "6657be3d8876d16a5866f413",
     "Name": "mag_svd_camo_25",
     "TemplateType": "mod",
     "ModType": "",
     "ReloadSpeed": -5,
     "Ergonomics": 0,
-    "MagMalfunctionChance": 0.125,
+    "MagMalfunctionChance": 0,
     "LoadUnloadModifier": 0,
     "CheckTimeModifier": 0,
     "ConflictingItems": [],

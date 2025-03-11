@@ -1,5 +1,6 @@
 {
     "669fca7f9ed4916116c76d5e": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "669fca7f9ed4916116c76d5e",
         "Name": "weapon_auto5_12g",
         "TemplateType": "mod",
@@ -48,6 +49,7 @@
         "MasteryCategory": "MP153"
     },
     "669fcbc7d1b799623b40679a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcbc7d1b799623b40679a",
         "Name": "stock_auto5_wood",
         "TemplateType": "mod",
@@ -71,6 +73,7 @@
         "Price": 0
     },
     "669fcbe98880c4b9c174db01": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcbe98880c4b9c174db01",
         "Name": "stock_auto5_wood_sawnoff",
         "TemplateType": "mod",
@@ -94,6 +97,7 @@
         "Price": 0
     },
     "669fcb584355abc9d89baaf1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcb584355abc9d89baaf1",
         "Name": "hg_auto5_wood",
         "TemplateType": "mod",
@@ -113,6 +117,7 @@
         "Price": 0
     },
     "669fcadce0f0111308174c93": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcadce0f0111308174c93",
         "Name": "barrel_auto5_710mm",
         "TemplateType": "mod",
@@ -138,6 +143,7 @@
         "Price": 0
     },
     "669fcbd899f4dc2f8ed7d113": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcbd899f4dc2f8ed7d113",
         "Name": "barrel_auto5_610mm",
         "TemplateType": "mod",
@@ -163,6 +169,7 @@
         "Price": 0
     },
     "669fcc072ce7ed70082a6272": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcc072ce7ed70082a6272",
         "Name": "barrel_auto5_510mm",
         "TemplateType": "mod",
@@ -188,6 +195,7 @@
         "Price": 0
     },
     "669fcb6ed34f850baaa66446": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcb6ed34f850baaa66446",
         "Name": "mag_auto5_tube_4",
         "TemplateType": "mod",
@@ -205,6 +213,7 @@
         "Price": 0
     },
     "669fcf5d38f1b8ba9bd0ff6c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669fcf5d38f1b8ba9bd0ff6c",
         "Name": "mag_auto5_tube_6",
         "TemplateType": "mod",
@@ -221,8 +230,9 @@
         "LoyaltyLevel": 0,
         "Price": 0
     },
-    "5c87ca002e221600114cb150": {
-        "ItemID": "5c87ca002e221600114cb150",
+    "669fcb37000ef6ab0a278da1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
+        "ItemID": "669fcb37000ef6ab0a278da1",
         "Name": "fg_auto5",
         "TemplateType": "mod",
         "ModType": "",

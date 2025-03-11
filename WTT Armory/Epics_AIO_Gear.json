@@ -1,5 +1,6 @@
 {
     "b5223cb4b895fb6a438ac533": {
+        "$type": "RealismMod.Gear, RealismMod",
         "ItemID": "b5223cb4b895fb6a438ac533",
         "Name": "hesco_3800c",
         "AllowADS": true,
@@ -16,6 +17,7 @@
         "ArmourLevel": 7
     },
     "cf2ab73b0f0c00a0df3852e4": {
+        "$type": "RealismMod.Gear, RealismMod",
         "ItemID": "cf2ab73b0f0c00a0df3852e4",
         "Name": "hesco_4800",
         "AllowADS": true,
@@ -32,6 +34,7 @@
         "ArmourLevel": 9
     },
     "58c0a16f420c97fe1c3d2e27": {
+        "$type": "RealismMod.Gear, RealismMod",
         "ItemID": "58c0a16f420c97fe1c3d2e27",
         "Name": "hesco_u211",
         "AllowADS": true,
@@ -48,6 +51,7 @@
         "ArmourLevel": 7
     },
     "2aed3f0a15813b3d366fcdb9": {
+        "$type": "RealismMod.Gear, RealismMod",
         "ItemID": "2aed3f0a15813b3d366fcdb9",
         "Name": "tyr_ulv",
         "AllowADS": true,

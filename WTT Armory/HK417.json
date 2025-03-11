@@ -1,5 +1,6 @@
 {
   "664a5b945636ce820472f225": {
+    "$type": "RealismMod.Gun, RealismMod",
     "ItemID": "664a5b945636ce820472f225",
     "Name": "weapon_hk417",
     "TemplateType": "gun",
@@ -48,6 +49,7 @@
     "MasteryCategory": "M4"
   },
   "664b9a4798222d80ce536df6": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664b9a4798222d80ce536df6",
     "Name": "suppressor_osshxqd",
     "TemplateType": "mod",
@@ -75,6 +77,7 @@
     "Price": 0
   },
   "664b9a705538c7da4f026f22": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664b9a705538c7da4f026f22",
     "Name": "muzzle_oss762qd",
     "TemplateType": "mod",
@@ -102,6 +105,7 @@
     "Price": 0
   },
   "664a5fdb05fd8090a514f00f": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5fdb05fd8090a514f00f",
     "Name": "rec_hk417",
     "TemplateType": "mod",
@@ -121,6 +125,7 @@
     "Price": 0
   },
   "664a6025593a58418347808f": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a6025593a58418347808f",
     "Name": "hg_hk417",
     "TemplateType": "mod",
@@ -139,6 +144,7 @@
     "Price": 0
   },
   "664a600b58753b43b7fea3af": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a600b58753b43b7fea3af",
     "Name": "fs_hk417",
     "TemplateType": "mod",
@@ -154,6 +160,7 @@
     "Price": 0
   },
   "664a5ff61c4610dc01e84917": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5ff61c4610dc01e84917",
     "Name": "rs_hk417",
     "TemplateType": "mod",
@@ -169,6 +176,7 @@
     "Price": 0
   },
   "664a5fafbbe56744b29baf61": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5fafbbe56744b29baf61",
     "Name": "stock_hk417",
     "TemplateType": "mod",
@@ -192,6 +200,7 @@
     "Price": 0
   },
   "664a5ee0831d8e0a1c8db4c2": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5ee0831d8e0a1c8db4c2",
     "Name": "buffer_hk417",
     "TemplateType": "mod",
@@ -216,6 +225,7 @@
     "Price": 0
   },
   "664a5dd804b731a2ed042705": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5dd804b731a2ed042705",
     "Name": "mag_hk417_10",
     "TemplateType": "mod",
@@ -233,6 +243,7 @@
     "Price": 0
   },
   "664a5e1de6e9691c9c64f7d3": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5e1de6e9691c9c64f7d3",
     "Name": "mag_hk417_20",
     "TemplateType": "mod",
@@ -250,6 +261,7 @@
     "Price": 0
   },
   "664a5e58d5d39447e1d0d77d": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5e58d5d39447e1d0d77d",
     "Name": "charge_hk417",
     "TemplateType": "mod",
@@ -266,6 +278,7 @@
     "Price": 0
   },
   "664a5ebcc29c027e11d12f31": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664a5ebcc29c027e11d12f31",
     "Name": "muzzle_hk417_flash_hider",
     "TemplateType": "mod",
@@ -293,6 +306,7 @@
     "Price": 0
   },
   "664f89b93dbe2f0a220426f8": {
+    "$type": "RealismMod.WeaponMod, RealismMod",
     "ItemID": "664f89b93dbe2f0a220426f8",
     "Name": "fg_sturmgriff_black",
     "TemplateType": "mod",
