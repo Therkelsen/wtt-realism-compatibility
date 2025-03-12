@@ -1,8 +1,8 @@
 {
     "6668df22e6b592f28024be10": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "6668df22e6b592f28024be10",
         "Name": "weapon_wos_ar15",
-        "TemplateType": "gun",
         "WeapType": "DI",
         "OperationType": "buffer",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M4"
     },
     "6668ddd37b793f48deb730d4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668ddd37b793f48deb730d4",
         "Name": "weapon_wos_ar15_red",
-        "TemplateType": "mod",
         "WeapType": "DI",
         "OperationType": "buffer",
         "WeapAccuracy": 0,
@@ -96,9 +96,9 @@
         "MasteryCategory": "M4"
     },
     "6668df3e8fac52e2b611f9cd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668df3e8fac52e2b611f9cd",
         "Name": "buffer_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "buffer",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -25,
@@ -121,9 +121,9 @@
         "Price": 0
     },
     "6668deed3d7fbac106303a30": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668deed3d7fbac106303a30",
         "Name": "buffer_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "buffer",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -20,
@@ -146,9 +146,9 @@
         "Price": 0
     },
     "6668e0307e98d340aa313d8e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668e0307e98d340aa313d8e",
         "Name": "hg_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -1,
@@ -164,9 +164,9 @@
         "Price": 0
     },
     "6668e01a45375e9ae7af5e6d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668e01a45375e9ae7af5e6d",
         "Name": "hg_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -1,
@@ -182,9 +182,9 @@
         "Price": 0
     },
     "6668ded52fca905a7152f5b3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668ded52fca905a7152f5b3",
         "Name": "rec_wos_ar15_upper",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -201,9 +201,9 @@
         "Price": 0
     },
     "6668dec0b403fe10e778e8fe": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668dec0b403fe10e778e8fe",
         "Name": "rec_wos_ar15_upper",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -220,9 +220,9 @@
         "Price": 0
     },
     "6668e040f52467cd1c11d4b7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668e040f52467cd1c11d4b7",
         "Name": "muzzle_wos_ar15_brake",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -247,9 +247,9 @@
         "Price": 0
     },
     "6668e00b643a7c3f2f295202": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668e00b643a7c3f2f295202",
         "Name": "muzzle_wos_ar15_brake_red",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -274,9 +274,9 @@
         "Price": 0
     },
     "6668e04e397157c8ef95678f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668e04e397157c8ef95678f",
         "Name": "handstop_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -297,9 +297,9 @@
         "Price": 0
     },
     "6668dff37c4223cce3ed643f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668dff37c4223cce3ed643f",
         "Name": "handstop_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -320,9 +320,9 @@
         "Price": 0
     },
     "6668dea7133de5b160e3fb7c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668dea7133de5b160e3fb7c",
         "Name": "pg_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -336,9 +336,9 @@
         "Price": 0
     },
     "6668de8afafa7e3bc2d52366": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668de8afafa7e3bc2d52366",
         "Name": "pg_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -352,9 +352,9 @@
         "Price": 0
     },
     "6668df515a0d76ba182cf9cd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668df515a0d76ba182cf9cd",
         "Name": "stock_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -10,
@@ -375,9 +375,9 @@
         "Price": 0
     },
     "6668df0070d3290d31088bcb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668df0070d3290d31088bcb",
         "Name": "stock_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -10,
@@ -398,9 +398,9 @@
         "Price": 0
     },
     "6668dfd1919eb3683a7ca2e7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668dfd1919eb3683a7ca2e7",
         "Name": "charging_handle_wos_ar15",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -414,9 +414,9 @@
         "Price": 0
     },
     "6668df1042cd6feecdace275": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6668df1042cd6feecdace275",
         "Name": "charging_handle_wos_ar15_red",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
