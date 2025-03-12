@@ -1,8 +1,8 @@
 {
     "66b9de8cf34d11aa91b5f20c": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66b9de8cf34d11aa91b5f20c",
         "Name": "weapon_remington_r5_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "buffer",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M4"
     },
     "66b9e399b933b380757fbd9b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9e399b933b380757fbd9b",
         "Name": "stock_remington_r5_buffer",
-        "TemplateType": "mod",
         "ModType": "buffer",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -72,9 +72,9 @@
         "Price": 0
     },
     "66b9dea12d41f261a932bb8e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9dea12d41f261a932bb8e",
         "Name": "rec_remington_r5",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -91,9 +91,9 @@
         "Price": 0
     },
     "66b9e3b43abc786d831f94cc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9e3b43abc786d831f94cc",
         "Name": "charge_remington_r5",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -107,9 +107,9 @@
         "Price": 0
     },
     "66b9dec6551718a44cc46d47": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9dec6551718a44cc46d47",
         "Name": "pg_remington_r5",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -123,9 +123,9 @@
         "Price": 0
     },
     "66b9dec9cb0cd3062acd76bf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9dec9cb0cd3062acd76bf",
         "Name": "fg_remington_r5",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -139,9 +139,9 @@
         "Price": 0
     },
     "66b9decd90b542232d4f1a40": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9decd90b542232d4f1a40",
         "Name": "fs_remington_r5",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -154,9 +154,9 @@
         "Price": 0
     },
     "66b9ded36157e35f210dd7ae": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9ded36157e35f210dd7ae",
         "Name": "fs_remington_r5_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -169,9 +169,9 @@
         "Price": 0
     },
     "66b9ded0192d36cba257bc34": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9ded0192d36cba257bc34",
         "Name": "rs_remington_r5",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -184,9 +184,9 @@
         "Price": 0
     },
     "66b9ded6a43e7af91852ed68": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b9ded6a43e7af91852ed68",
         "Name": "rs_remington_r5_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -199,9 +199,9 @@
         "Price": 0
     },
     "66ba07f86fe0f21f267a096f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66ba07f86fe0f21f267a096f",
         "Name": "gb_remington_r5",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": 0,

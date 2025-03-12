@@ -1,8 +1,8 @@
 {
     "66c01f332770caf084f35480": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66c01f332770caf084f35480",
         "Name": "weapon_m107a1_50bmg",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M1A"
     },
     "66c13c53999e17f0702c2e70": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66c13c53999e17f0702c2e70",
         "Name": "weapon_m107a1_fde_50bmg",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -96,9 +96,9 @@
         "MasteryCategory": "M1A"
     },
     "66c01f4392c2f89537d4513c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f4392c2f89537d4513c",
         "Name": "rec_m107a1",
-        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 9,
         "Accuracy": 0,
@@ -109,9 +109,9 @@
         "Price": 0
     },
     "66c13c72ce401b0ed7932e54": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c13c72ce401b0ed7932e54",
         "Name": "rec_m107a1_fde",
-        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 9,
         "Accuracy": 0,
@@ -122,9 +122,9 @@
         "Price": 0
     },
     "66c01f5cfe6d85f612f92257": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f5cfe6d85f612f92257",
         "Name": "barrel_m107a1",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7.5,
         "HorizontalRecoil": -10,
@@ -148,9 +148,9 @@
         "Price": 0
     },
     "66c13cae748972bb715a6c15": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c13cae748972bb715a6c15",
         "Name": "barrel_m107a1_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7.5,
         "HorizontalRecoil": -10,
@@ -174,9 +174,9 @@
         "Price": 0
     },
     "66c3913a410ddc15cf863aa4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c3913a410ddc15cf863aa4",
         "Name": "barrel_m107a1_20in",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -200,9 +200,9 @@
         "Price": 0
     },
     "66c3919b21327d40a0556411": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c3919b21327d40a0556411",
         "Name": "barrel_m107a1_20in_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -226,9 +226,9 @@
         "Price": 0
     },
     "66c01f5fb3c11a6757f6bbc6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f5fb3c11a6757f6bbc6",
         "Name": "fs_m107a1",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -241,9 +241,9 @@
         "Price": 0
     },
     "66c01f617082901b8b01133a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f617082901b8b01133a",
         "Name": "rs_m107a1",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -256,9 +256,9 @@
         "Price": 0
     },
     "66c01f675cc8f74d1ceaa066": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f675cc8f74d1ceaa066",
         "Name": "mag_m107a1",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -5,
         "Ergonomics": -5,
@@ -273,9 +273,9 @@
         "Price": 0
     },
     "66c13cb4252fbd9bcf755ee1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c13cb4252fbd9bcf755ee1",
         "Name": "mag_m107a1_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": -5,
         "Ergonomics": -5,
@@ -290,9 +290,9 @@
         "Price": 0
     },
     "66c01f6a42b755ca07905d96": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f6a42b755ca07905d96",
         "Name": "muzzle_m107a1",
-        "TemplateType": "mod",
         "ModType": "muzzle_supp_adapter",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -10,
@@ -318,9 +318,9 @@
         "Flash": 35
     },
     "66c13cba89ecab2622810e0c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c13cba89ecab2622810e0c",
         "Name": "muzzle_m107a1_fde",
-        "TemplateType": "mod",
         "ModType": "muzzle_supp_adapter",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -10,
@@ -346,9 +346,9 @@
         "Flash": 35
     },
     "66c01f6c9033e1ccc3fa5780": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f6c9033e1ccc3fa5780",
         "Name": "supp_m107a1",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -5,
@@ -374,9 +374,9 @@
         "Flash": 20
     },
     "66c13cc2a6f3a73ca20c1c09": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c13cc2a6f3a73ca20c1c09",
         "Name": "supp_m107a1_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -5,
@@ -402,9 +402,9 @@
         "Flash": 20
     },
     "66c01f6f96ff7a1b700373c8": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f6f96ff7a1b700373c8",
         "Name": "pg_m107a1",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -418,27 +418,27 @@
         "Price": 0
     },
     "66c01f72d8e7493c154a39c5": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66c01f72d8e7493c154a39c5",
         "Name": "ammo_50bmg_fmj",
         "LoyaltyLevel": 4,
-        "TemplateType": "ammo",
         "Damage": 450,
         "PenetrationPower": 160,
         "BasePriceModifier": 1
     },
     "66c01f75d45074e8692a6e6f": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66c01f75d45074e8692a6e6f",
         "Name": "ammo_50bmg_he",
         "LoyaltyLevel": 4,
-        "TemplateType": "ammo",
         "Damage": 390,
         "PenetrationPower": 130,
         "BasePriceModifier": 1
     },
     "66c01f64a8c99ba1c1753ed4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66c01f64a8c99ba1c1753ed4",
         "Name": "bipod_m107a1",
-        "TemplateType": "mod",
         "ModType": "bipod",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,

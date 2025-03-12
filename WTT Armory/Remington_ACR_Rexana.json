@@ -1,8 +1,8 @@
 {
     "66ca50aacb9b900a4c8a5545": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66ca50aacb9b900a4c8a5545",
         "Name": "weapon_remington_acr_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "buffer",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M4"
     },
     "66de6fd66cbb623c146da6eb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6fd66cbb623c146da6eb",
         "Name": "rec_remington_acr",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -67,9 +67,9 @@
         "Price": 0
     },
     "66de6fef9cdc8dd4fd6c4a12": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6fef9cdc8dd4fd6c4a12",
         "Name": "hg_remington_acr",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -86,9 +86,9 @@
         "Price": 0
     },
     "66de6fe648301d48c34345d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6fe648301d48c34345d5",
         "Name": "fs_remington_acr",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -101,9 +101,9 @@
         "Price": 0
     },
     "66de6fe999e67d68da153ed6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6fe999e67d68da153ed6",
         "Name": "fs_remington_acr_improved",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -116,9 +116,9 @@
         "Price": 0
     },
     "66de700749f8bf3059ff9c57": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de700749f8bf3059ff9c57",
         "Name": "rs_remington_acr",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -131,9 +131,9 @@
         "Price": 0
     },
     "66de700aa5468fedb01d9e2e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de700aa5468fedb01d9e2e",
         "Name": "stock_remington_acr",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -28,
         "HorizontalRecoil": -43,
@@ -154,9 +154,9 @@
         "Price": 0
     },
     "66de6ffb90aea5edc6d13e21": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6ffb90aea5edc6d13e21",
         "Name": "pg_remington_acr",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -170,9 +170,9 @@
         "Price": 0
     },
     "66de6fecb92484304b18be7a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6fecb92484304b18be7a",
         "Name": "gb_remington_acr",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -195,9 +195,9 @@
         "Flash": -10
     },
     "66de6ffeba2455bbe5446195": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de6ffeba2455bbe5446195",
         "Name": "rail_remington_acr_bottom",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -218,9 +218,9 @@
         "Price": 0
     },
     "66de700152424cee4df1a1c1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de700152424cee4df1a1c1",
         "Name": "rail_remington_acr_left",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -241,9 +241,9 @@
         "Price": 0
     },
     "66de700442d966b0e77190e9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66de700442d966b0e77190e9",
         "Name": "rail_remington_acr_right",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -264,9 +264,9 @@
         "Price": 0
     },
     "66e12d42fa3616bf2259edd9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e12d42fa3616bf2259edd9",
         "Name": "barrel_remington_acr",
-        "TemplateType": "mod",
         "ModType": "short_barrel",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -290,9 +290,9 @@
         "Price": 0
     },
     "66e12d7864cf932227a70365": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e12d7864cf932227a70365",
         "Name": "silencer_remington_acr",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -10,
         "HorizontalRecoil": -15,
@@ -318,9 +318,9 @@
         "Flash": 3
     },
     "66e1c87fcacaf16a89dd6631": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e1c87fcacaf16a89dd6631",
         "Name": "stock_remington_acr",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -34,
         "HorizontalRecoil": -53,

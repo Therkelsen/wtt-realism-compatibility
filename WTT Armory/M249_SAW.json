@@ -3,7 +3,6 @@
         "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66e718dc498d978477e0ba75",
         "Name": "weapon_m249_saw_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,

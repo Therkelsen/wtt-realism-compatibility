@@ -1,8 +1,8 @@
 {
     "66e5b5e16c48ad4b4735cfbc": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66e5b5e16c48ad4b4735cfbc",
         "Name": "weapon_hoshizora_scar_17_308",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M4"
     },
     "66e5b5f62c8e1690fe86a2c1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b5f62c8e1690fe86a2c1",
         "Name": "rec_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 0,
@@ -67,9 +67,9 @@
         "Price": 0
     },
     "66e5b60f9152da7a19e4dede": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b60f9152da7a19e4dede",
         "Name": "barrel_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "short_barrel",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -93,9 +93,9 @@
         "Price": 0
     },
     "66e5b61824595929b965ad06": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b61824595929b965ad06",
         "Name": "charge_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -109,9 +109,9 @@
         "Price": 0
     },
     "66e5b61a5cf300a68c348756": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b61a5cf300a68c348756",
         "Name": "rail_cover_hoshizora_scar_17_left",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -132,9 +132,9 @@
         "Price": 0
     },
     "66e5b61de919463814a3fb6c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b61de919463814a3fb6c",
         "Name": "rail_cover_hoshizora_scar_17_right",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -155,9 +155,9 @@
         "Price": 0
     },
     "66e5b620308d6e82a628d122": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b620308d6e82a628d122",
         "Name": "fs_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -170,9 +170,9 @@
         "Price": 0
     },
     "66e5b63da1f0927412264499": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b63da1f0927412264499",
         "Name": "rs_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -185,9 +185,9 @@
         "Price": 0
     },
     "66e5b623896b2572c1cc9094": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b623896b2572c1cc9094",
         "Name": "gb_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -210,9 +210,9 @@
         "Flash": -10
     },
     "66e5b62fcf88c1d2b9e5179c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b62fcf88c1d2b9e5179c",
         "Name": "fg_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -226,9 +226,9 @@
         "Price": 0
     },
     "66e5b632530e3957717324d5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b632530e3957717324d5",
         "Name": "mag_hoshizora_scar_17_25",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": -3,
@@ -243,9 +243,9 @@
         "Price": 0
     },
     "66e5b63aba692bb7a3475814": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b63aba692bb7a3475814",
         "Name": "muzzle_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -13,
         "HorizontalRecoil": -20,
@@ -271,9 +271,9 @@
         "Flash": -45
     },
     "66e5b640984e054963ac6b64": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b640984e054963ac6b64",
         "Name": "stock_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -34,
         "HorizontalRecoil": -53,
@@ -294,9 +294,9 @@
         "Price": 0
     },
     "66e5b643c8d2192f1527a00a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66e5b643c8d2192f1527a00a",
         "Name": "pg_hoshizora_scar_17",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,

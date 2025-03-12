@@ -1,8 +1,8 @@
 {
     "6681810d4f568d3cb0c7187c": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "6681810d4f568d3cb0c7187c",
         "Name": "weapon_rexana_blicky_glock_1143x23",
-        "TemplateType": "gun",
         "WeapType": "pistol",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "P226"
     },
     "6681814ee4b45c56ec2b72ff": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6681814ee4b45c56ec2b72ff",
         "Name": "barrel_rexana_blicky_glock_127mm",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -73,9 +73,9 @@
         "Price": 0
     },
     "6681815229fbdd561afee4aa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6681815229fbdd561afee4aa",
         "Name": "rec_rexana_blicky_glock",
-        "TemplateType": "mod",
         "ModType": "",
         "ModMalfunctionChance": 0,
         "Accuracy": 5,
@@ -92,9 +92,9 @@
         "Price": 0
     },
     "66818164088671a88e8fe2fe": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66818164088671a88e8fe2fe",
         "Name": "fs_rexana_blicky_glock",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -107,9 +107,9 @@
         "Price": 0
     },
     "6681815c6dd391fa61af0ef9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6681815c6dd391fa61af0ef9",
         "Name": "rs_rexana_blicky_glock",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -122,9 +122,9 @@
         "Price": 0
     },
     "66818160448f7808db15394f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66818160448f7808db15394f",
         "Name": "mag_rexana_blicky_glock_33",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -139,9 +139,9 @@
         "Price": 0
     },
     "66818157842a50032280825d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66818157842a50032280825d",
         "Name": "muzzle_rexana_blicky_glock",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -30,
@@ -168,9 +168,9 @@
     },
     "668181672f6ecb17fc5b3909": {
         "ItemID": "668181672f6ecb17fc5b3909",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "Name": "scope_rexana_blicky_glock",
         "ModType": "sight",
-        "TemplateType": "mod",
         "AimSpeed": -7,
         "Accuracy": -6,
         "ConflictingItems": [],
@@ -182,9 +182,9 @@
         "Price": 0
     },
     "6681810371f395261c5f656a": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "6681810371f395261c5f656a",
         "Name": "ammo_lipstick",
-        "TemplateType": "ammo",
         "LoyaltyLevel": 2,
         "Damage":58,
         "PenetrationPower":40,

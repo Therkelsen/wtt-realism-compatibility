@@ -1,8 +1,8 @@
 {
     "66945f346fd04c33d4f9bc35": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66945f346fd04c33d4f9bc35",
         "Name": "weapon_arx160_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "M4"
     },
     "6696b5e6ed3ac659cc619eff": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "6696b5e6ed3ac659cc619eff",
         "Name": "weapon_arx160_fde_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -96,9 +96,9 @@
         "MasteryCategory": "M4"
     },
     "6696b5f5520265c38b644920": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "6696b5f5520265c38b644920",
         "Name": "weapon_arx160_od_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -144,9 +144,9 @@
         "MasteryCategory": "M4"
     },
     "6696b60855a9454cbc033d4e": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "6696b60855a9454cbc033d4e",
         "Name": "weapon_arx160_white_556x45",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -192,9 +192,9 @@
         "MasteryCategory": "M4"
     },
     "66945f6221aaf2b87072fe55": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66945f6221aaf2b87072fe55",
         "Name": "stock_arx160",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -38,
         "HorizontalRecoil": -59,
@@ -215,9 +215,9 @@
         "Price": 0
     },
     "6696b5eace2121911a970573": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b5eace2121911a970573",
         "Name": "stock_arx160_fde",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -38,
         "HorizontalRecoil": -59,
@@ -238,9 +238,9 @@
         "Price": 0
     },
     "6696b5f9ed1d427e4ad86b17": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b5f9ed1d427e4ad86b17",
         "Name": "stock_arx160_od",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -38,
         "HorizontalRecoil": -59,
@@ -261,9 +261,9 @@
         "Price": 0
     },
     "6696b60c0a25b741bec76b31": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b60c0a25b741bec76b31",
         "Name": "stock_arx160_white",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -38,
         "HorizontalRecoil": -59,
@@ -284,9 +284,9 @@
         "Price": 0
     },
     "66945f66e3d59d24380efd24": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66945f66e3d59d24380efd24",
         "Name": "fs_arx160",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -299,9 +299,9 @@
         "Price": 0
     },
     "6696b5ee0767b890fbff10f6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b5ee0767b890fbff10f6",
         "Name": "fs_arx160_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -314,9 +314,9 @@
         "Price": 0
     },
     "6696b5fc30289c750896e29c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b5fc30289c750896e29c",
         "Name": "fs_arx160_od",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -329,9 +329,9 @@
         "Price": 0
     },
     "6696b60f166ec948ad62102d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b60f166ec948ad62102d",
         "Name": "fs_arx160_white",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -344,9 +344,9 @@
         "Price": 0
     },
     "66945f69e2030f6b0e84d540": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66945f69e2030f6b0e84d540",
         "Name": "rs_arx160",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -359,9 +359,9 @@
         "Price": 0
     },
     "6696b5f2bbdfc4c65bb76aed": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b5f2bbdfc4c65bb76aed",
         "Name": "rs_arx160_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -374,9 +374,9 @@
         "Price": 0
     },
     "6696b605a21701289f235656": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b605a21701289f235656",
         "Name": "rs_arx160_od",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -389,9 +389,9 @@
         "Price": 0
     },
     "6696b613e8b0de3177315daa": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696b613e8b0de3177315daa",
         "Name": "rs_arx160_white",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -404,9 +404,9 @@
         "Price": 0
     },
     "669484086ae62382b4284663": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669484086ae62382b4284663",
         "Name": "barrel_arx160_460mm",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -429,9 +429,9 @@
         "Price": 0
     },
     "669484ce0693559026606fc0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669484ce0693559026606fc0",
         "Name": "barrel_arx160_370mm",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -455,9 +455,9 @@
         "Price": 0
     },
     "669485336b1b93b1026b8649": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "669485336b1b93b1026b8649",
         "Name": "barrel_arx160_348mm",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 7,
@@ -481,9 +481,9 @@
         "Price": 0
     },
     "6696a9eb3eb5c637b0c14e33": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "6696a9eb3eb5c637b0c14e33",
         "Name": "mag_L5_AWM_556x45_30",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,

@@ -1,8 +1,8 @@
 {
     "667b693466834848ed0c05a6": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "667b693466834848ed0c05a6",
         "Name": "cheytac_intervention_408_cheyenne",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "manual",
         "WeapAccuracy": 0,
@@ -53,9 +53,9 @@
         "MasteryCategory": "SV98"
     },
     "667b693c3f5fbfc2e39d6cfd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b693c3f5fbfc2e39d6cfd",
         "Name": "cheytac_intervention_wire_stock",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -8,
@@ -76,9 +76,9 @@
         "Price": 0
     },
     "667b6942429d9e68260ffd24": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6942429d9e68260ffd24",
         "Name": "cheytac_intervention_super_lightweight_stock",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -12,
@@ -99,9 +99,9 @@
         "Price": 0
     },
     "667b694b65a8b7deb4875394": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b694b65a8b7deb4875394",
         "Name": "cheytac_intervention_precision_stock",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -15,
@@ -122,9 +122,9 @@
         "Price": 0
     },
     "667b6951d45fb5f04c80d873": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6951d45fb5f04c80d873",
         "Name": "cheytac_intervention_ergo_grip",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -138,9 +138,9 @@
         "Price": 0
     },
     "667b6a1e035c41fb2dfb17cc": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a1e035c41fb2dfb17cc",
         "Name": "5-round__408_cheytac_intervention_magazine",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -155,9 +155,9 @@
         "Price": 0
     },
     "667b6a250e1fcc641aa3897a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a250e1fcc641aa3897a",
         "Name": "cheytac_intervention_brick_compensator",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -25,
@@ -182,9 +182,9 @@
         "Price": 0
     },
     "667b6a2978ad7367187309b3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a2978ad7367187309b3",
         "Name": "cheytac_intervention_helical_flash_hider",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -10,
@@ -209,9 +209,9 @@
         "Price": 0
     },
     "667b6a2df2141fa56081a834": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a2df2141fa56081a834",
         "Name": "cheytac_intervention_unit_muzzle_brake",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -30,
@@ -236,9 +236,9 @@
         "Price": 0
     },
     "667b6a3210c279b3607b4270": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a3210c279b3607b4270",
         "Name": "mcarthur_pgrs-1_muzzle_brake",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -35,
@@ -263,9 +263,9 @@
         "Price": 0
     },
     "667b6a3719affaf46d4675e3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a3719affaf46d4675e3",
         "Name": "cheytac_intervention_suppressor_and_brake",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -8,
@@ -290,9 +290,9 @@
         "Price": 0
     },
     "667b6a412a62cea41480117e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a412a62cea41480117e",
         "Name": "cheytac_intervention_opsinc_wrapped_suppressor",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": -7.5,
@@ -317,9 +317,9 @@
         "Price": 0
     },
     "667b6a4df56a85d5e37303b3": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a4df56a85d5e37303b3",
         "Name": "cheytac_intervention_extreme_precision_barrel",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -342,9 +342,9 @@
         "Price": 0
     },
     "667b6a525cd146e3c0e15a48": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a525cd146e3c0e15a48",
         "Name": "cheytac_intervention_standard_length_barrel",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -367,9 +367,9 @@
         "Price": 0
     },
     "667b6a61569f03e709f7070f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a61569f03e709f7070f",
         "Name": "cheytac_intervention_cqb_barrel",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -392,9 +392,9 @@
         "Price": 0
     },
     "667b6a6ace0500898e8c4997": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a6ace0500898e8c4997",
         "Name": "edm_arms_windrunner_barrel",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -417,9 +417,9 @@
         "Price": 0
     },
     "667b6a6f9b81c23384a2ae1d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a6f9b81c23384a2ae1d",
         "Name": "cheytac_intervention_floating_barrel_shroud",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -4,
@@ -438,9 +438,9 @@
         "Price": 0
     },
     "667b6a7356af08d214434f13": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a7356af08d214434f13",
         "Name": "cheytac_intervention_race_shroud",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -3,
@@ -459,9 +459,9 @@
         "Price": 0
     },
     "667b6a78309f1227610da73e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a78309f1227610da73e",
         "Name": "windrunner_bipod",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -480,9 +480,9 @@
         "Price": 0
     },
     "667b6a7c79f7f1feb368b6ae": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a7c79f7f1feb368b6ae",
         "Name": "cheytac_intervention_bolt_handle",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -496,9 +496,9 @@
         "Price": 0
     },
     "667b6a838436cc20b894ef9a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a838436cc20b894ef9a",
         "Name": "cheytac_intervention_weighted_bolt_handle",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -512,9 +512,9 @@
         "Price": 0
     },
     "667b6a87d9e4b1868f9d3eb0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a87d9e4b1868f9d3eb0",
         "Name": "cheytac_intervention_skeletonised_bolt_handle",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "ConflictingItems": [],
@@ -528,9 +528,9 @@
         "Price": 0
     },
     "667b6a8c87df3de87c2030f0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a8c87df3de87c2030f0",
         "Name": "cheytac_intervention_carry_handle",
-        "TemplateType": "mod",
         "ModType": "StockN",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -548,9 +548,9 @@
         "Price": 0
     },
     "667b6a91b6c4820bcb03496c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a91b6c4820bcb03496c",
         "Name": "cheytac_intervention_tied_carry_handle",
-        "TemplateType": "mod",
         "ModType": "StockN",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -568,9 +568,9 @@
         "Price": 0
     },
     "667b6a95aac6e049529db152": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "667b6a95aac6e049529db152",
         "Name": "cheytac_intervention_stout",
-        "TemplateType": "mod",
         "ModType": "StockN",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -588,10 +588,10 @@
         "Price": 0
     },
     "6678f7b1290f78957e3358da": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "6678f7b1290f78957e3358da",
         "Name": "ammo_408_cheyenne",
         "LoyaltyLevel": 5,
-        "TemplateType": "ammo",
         "BasePriceModifier": 3,
         "Damage": 145,
         "PenetrationPower": 120

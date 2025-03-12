@@ -1,8 +1,8 @@
 {
     "98be06efc45c489d2403de5f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "98be06efc45c489d2403de5f",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_black",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -17,9 +17,9 @@
         "Price": 0
     },
     "4a2f0208da5306cda5199b18": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4a2f0208da5306cda5199b18",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -34,9 +34,9 @@
         "Price": 0
     },
     "25cf2e514a6940bdb6b68ff6": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "25cf2e514a6940bdb6b68ff6",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_clr_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -51,9 +51,9 @@
         "Price": 0
     },
     "44b572d87f1efb726b1cfb7c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "44b572d87f1efb726b1cfb7c",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_clr_smoke",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -68,9 +68,9 @@
         "Price": 0
     },
     "beed67fa0c4b63ef823a1627": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "beed67fa0c4b63ef823a1627",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_clr_dfde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -85,9 +85,9 @@
         "Price": 0
     },
     "3355d160c6d31b64a51c87a4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3355d160c6d31b64a51c87a4",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_pink",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -102,9 +102,9 @@
         "Price": 0
     },
     "27150af2e684ff5bbe730e39": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "27150af2e684ff5bbe730e39",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_orange",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -119,9 +119,9 @@
         "Price": 0
     },
     "86d3cd271d413a292a4df528": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "86d3cd271d413a292a4df528",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_blue",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -136,9 +136,9 @@
         "Price": 0
     },
     "bb9f82671c588d7ea5e2c951": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bb9f82671c588d7ea5e2c951",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_red",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -153,9 +153,9 @@
         "Price": 0
     },
     "2747314fc3547bb3b1b9caf1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "2747314fc3547bb3b1b9caf1",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_alien",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -170,9 +170,9 @@
         "Price": 0
     },
     "5507da6346e64a8536976517": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5507da6346e64a8536976517",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_green",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -187,9 +187,9 @@
         "Price": 0
     },
     "3efb426925f2514ce18d13f5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3efb426925f2514ce18d13f5",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_purple",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -204,9 +204,9 @@
         "Price": 0
     },
     "b8c65b00f5961b92cb111cb1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "b8c65b00f5961b92cb111cb1",
         "Name": "mag_lancer_l5_awm_556x45_30_rnd_clear",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -221,9 +221,9 @@
         "Price": 0
     },
     "e16951f91e9c9c73975eae67": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e16951f91e9c9c73975eae67",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_black",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -238,9 +238,9 @@
         "Price": 0
     },
     "87dc0f2bb8fa7cd2b0051544": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "87dc0f2bb8fa7cd2b0051544",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -255,9 +255,9 @@
         "Price": 0
     },
     "7688231c5f74db6dce048aad": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7688231c5f74db6dce048aad",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_smoke",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -272,9 +272,9 @@
         "Price": 0
     },
     "ab133a3f1ae4d9b273acecc7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "ab133a3f1ae4d9b273acecc7",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_clear",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -289,9 +289,9 @@
         "Price": 0
     },
     "96f4fa9b23b3f78b65447b8d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "96f4fa9b23b3f78b65447b8d",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_fde_clear",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -306,9 +306,9 @@
         "Price": 0
     },
     "68af8a56ebae950054901e61": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "68af8a56ebae950054901e61",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_purple",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -323,9 +323,9 @@
         "Price": 0
     },
     "bfa5b3928cce0fdbb74f56e0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bfa5b3928cce0fdbb74f56e0",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_red",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -340,9 +340,9 @@
         "Price": 0
     },
     "c86b65eb78d9520ef92ca216": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c86b65eb78d9520ef92ca216",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_alien",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -357,9 +357,9 @@
         "Price": 0
     },
     "95eedf4a5b4017e03b9abf73": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "95eedf4a5b4017e03b9abf73",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_green",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -374,9 +374,9 @@
         "Price": 0
     },
     "93dc2ca7af0bf3e2b20c3ca2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "93dc2ca7af0bf3e2b20c3ca2",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_blue",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -391,9 +391,9 @@
         "Price": 0
     },
     "747faae756573333f6377583": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "747faae756573333f6377583",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_orange",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -408,9 +408,9 @@
         "Price": 0
     },
     "4cb69eddfc95a36e583ff10e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "4cb69eddfc95a36e583ff10e",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_pink",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -425,9 +425,9 @@
         "Price": 0
     },
     "e5bf7468a9b901ceb531d32c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "e5bf7468a9b901ceb531d32c",
         "Name": "mag_lancer_l5_awm_556x45_20_rnd_clear_dfde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": 0,
@@ -442,9 +442,9 @@
         "Price": 0
     },
     "c90eeb27ffd1c9824f9f2d1a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "c90eeb27ffd1c9824f9f2d1a",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_black",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -459,9 +459,9 @@
         "Price": 0
     },
     "42ffcf0aa743ade463720882": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "42ffcf0aa743ade463720882",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -476,9 +476,9 @@
         "Price": 0
     },
     "05ab5d35de2c86d3105a5801": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "05ab5d35de2c86d3105a5801",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_smoke",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -493,9 +493,9 @@
         "Price": 0
     },
     "806cd4930b18227fdc7caf9d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "806cd4930b18227fdc7caf9d",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_clear",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -510,9 +510,9 @@
         "Price": 0
     },
     "5b1379a39c78d67f7f7a0d8c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "5b1379a39c78d67f7f7a0d8c",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_clear_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -527,9 +527,9 @@
         "Price": 0
     },
     "66a5f71eee54941dbe8cf693": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a5f71eee54941dbe8cf693",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_purple",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -544,9 +544,9 @@
         "Price": 0
     },
     "514322a3cc41c3b2c89bcc5d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "514322a3cc41c3b2c89bcc5d",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_red",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -561,9 +561,9 @@
         "Price": 0
     },
     "bd4a74d9f4af44293c40ddaf": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "bd4a74d9f4af44293c40ddaf",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_alien",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -578,9 +578,9 @@
         "Price": 0
     },
     "cabf89ff9d37fbd99688d135": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "cabf89ff9d37fbd99688d135",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_green",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -595,9 +595,9 @@
         "Price": 0
     },
     "655280092c6e524dfab00673": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "655280092c6e524dfab00673",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_blue",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -612,9 +612,9 @@
         "Price": 0
     },
     "fd2df609b2961c4a37ab52df": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "fd2df609b2961c4a37ab52df",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_orange",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -629,9 +629,9 @@
         "Price": 0
     },
     "7ba754ded19aa316e835cfbd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "7ba754ded19aa316e835cfbd",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_pink",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -646,9 +646,9 @@
         "Price": 0
     },
     "3dc0e4b37982c000301f2454": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "3dc0e4b37982c000301f2454",
         "Name": "mag_lancer_l5_awm_556x45_10_rnd_clear_dfde",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,

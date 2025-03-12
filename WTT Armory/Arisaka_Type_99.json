@@ -1,8 +1,8 @@
 {
     "668c45bf9069178d4b1f225c": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "668c45bf9069178d4b1f225c",
         "Name": "weapon_arisaka_type_99_77x58",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "manual",
         "WeapAccuracy": 0,
@@ -53,9 +53,9 @@
         "MasteryCategory": "SV98"
     },
     "668c45f5ccdd653a6c2d2f72": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45f5ccdd653a6c2d2f72",
         "Name": "stock_arisaka_type_99_std",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -24,
         "HorizontalRecoil": -37,
@@ -78,9 +78,9 @@
         "Price": 0
     },
     "668c45fcd9bd3ddef7c4d991": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45fcd9bd3ddef7c4d991",
         "Name": "stock_arisaka_type_99_cheek_rest",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -25,
         "HorizontalRecoil": -39,
@@ -103,9 +103,9 @@
         "Price": 0
     },
     "668c460086f5ed4346b7a467": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c460086f5ed4346b7a467",
         "Name": "stock_arisaka_type_99_carbine",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -23,
         "HorizontalRecoil": -36,
@@ -128,9 +128,9 @@
         "Price": 0
     },
     "668c4603008aa90fc5a125f4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c4603008aa90fc5a125f4",
         "Name": "stock_arisaka_type_99_short",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -14,
         "HorizontalRecoil": -22,
@@ -153,9 +153,9 @@
         "Price": 0
     },
     "668c460709640c9b7a7c6fde": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c460709640c9b7a7c6fde",
         "Name": "stock_arisaka_type_99_short_wire_frame",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -20,
         "HorizontalRecoil": -31,
@@ -178,9 +178,9 @@
         "Price": 0
     },
     "668c460ae47d38eea6683df2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c460ae47d38eea6683df2",
         "Name": "stock_arisaka_type_99_bandolier",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -27,
         "HorizontalRecoil": -42,
@@ -203,9 +203,9 @@
         "Price": 0
     },
     "668c460f2cba48a0afc28bf0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c460f2cba48a0afc28bf0",
         "Name": "stock_arisaka_type_99_short_wire_frame_2",
-        "TemplateType": "mod",
         "ModType": "StockR",
         "VerticalRecoil": -22,
         "HorizontalRecoil": -34,
@@ -228,9 +228,9 @@
         "Price": 0
     },
     "668c45b3a00e210f6517e01c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45b3a00e210f6517e01c",
         "Name": "mag_arisaka_type_99_integral_5",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -245,9 +245,9 @@
         "Price": 0
     },
     "668c456ff9d8167cebdfb133": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c456ff9d8167cebdfb133",
         "Name": "barrel_arisaka_type_99_long",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -270,9 +270,9 @@
         "Price": 0
     },
     "668c458c38e5283ff57a28b9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c458c38e5283ff57a28b9",
         "Name": "barrel_arisaka_type_99_short",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -295,9 +295,9 @@
         "Price": 0
     },
     "668c45999646f559245e2dfb": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45999646f559245e2dfb",
         "Name": "barrel_arisaka_type_99_std",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -320,9 +320,9 @@
         "Price": 0
     },
     "668c459ca71a48edb89d3999": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c459ca71a48edb89d3999",
         "Name": "barrel_arisaka_type_99_long_light",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -345,9 +345,9 @@
         "Price": 0
     },
     "668c45bbe4357624d9f02999": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45bbe4357624d9f02999",
         "Name": "bipod_arisaka_type_99",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -363,9 +363,9 @@
         "Price": 0
     },
     "668c45a7b32f5aba45391150": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45a7b32f5aba45391150",
         "Name": "bayonet_arisaka_type_99",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -391,9 +391,9 @@
         "Flash": 35
     },
     "668c45af96692dec292e5761": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45af96692dec292e5761",
         "Name": "rs_arisaka_type_99_large",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -409,9 +409,9 @@
         "Price": 0
     },
     "668c45b7a6240cbc0eb1f351": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45b7a6240cbc0eb1f351",
         "Name": "rs_arisaka_type_99_medium",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -427,9 +427,9 @@
         "Price": 0
     },
     "668c45d60bfb23cb69ba860c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "668c45d60bfb23cb69ba860c",
         "Name": "rs_arisaka_type_99_small",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -448,10 +448,10 @@
         "Price": 0
     },
     "668c45aa8968e0b3c4819a95": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "668c45aa8968e0b3c4819a95",
         "Name": "ammo_77x58mm_tracer",
         "LoyaltyLevel": 4,
-        "TemplateType": "ammo",
         "Damage":116,
         "PenetrationPower":59,
         "BasePriceModifier": 1
