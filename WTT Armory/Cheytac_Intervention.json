@@ -588,8 +588,8 @@
         "Price": 0
     },
     "6678f7b1290f78957e3358da": {
-        "ItemID": "6678f7b1290f78957e3358da",
         "$type": "RealismMod.Ammo, RealismMod",
+        "ItemID": "6678f7b1290f78957e3358da",
         "Name": "ammo_408_cheyenne",
         "LoyaltyLevel": 5,
         "BasePriceModifier": 3,
