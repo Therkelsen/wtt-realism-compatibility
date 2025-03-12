@@ -1,8 +1,8 @@
 {
     "66a47e98c486ec9d1af3a4da": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66a47e98c486ec9d1af3a4da",
         "Name": "weapon_iwi_tavor_x95_556x45",
-        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "MDR"
     },
     "66a544c956621d3364f6085e": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66a544c956621d3364f6085e",
         "Name": "weapon_iwi_tavor_x95_fde_556x45",
-        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -96,9 +96,9 @@
         "MasteryCategory": "MDR"
     },
     "66a545898022784400d6c836": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66a545898022784400d6c836",
         "Name": "weapon_iwi_tavor_x95_od_556x45",
-        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -144,9 +144,9 @@
         "MasteryCategory": "MDR"
     },
     "66a47ed0df2ffbca58ebe5ed": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ed0df2ffbca58ebe5ed",
         "Name": "fs_iwi_tavor_x95",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -159,9 +159,9 @@
         "Price": 0
     },
     "66a47ed3f97061a20b99f188": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ed3f97061a20b99f188",
         "Name": "rs_iwi_tavor_x95",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -174,9 +174,9 @@
         "Price": 0
     },
     "66a47ed66c524cfbe9d210d7": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ed66c524cfbe9d210d7",
         "Name": "barrel_iwi_tavor_x95_long",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -199,9 +199,9 @@
         "Price": 0
     },
     "66a47ee0719117c6426137c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ee0719117c6426137c0",
         "Name": "barrel_iwi_tavor_x95_short",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -224,9 +224,9 @@
         "Price": 0
     },
     "66a47ee665dda2af8fd0a43a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ee665dda2af8fd0a43a",
         "Name": "barrel_iwi_tavor_x95_std",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -249,9 +249,9 @@
         "Price": 0
     },
     "66a47edd83cc2e80e6d36bc5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47edd83cc2e80e6d36bc5",
         "Name": "muzzle_iwi_tavor_x95_flash_hider",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -278,9 +278,9 @@
         "Flash": 40
     },
     "66a47eecd5592cc7768ac044": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47eecd5592cc7768ac044",
         "Name": "stock_iwi_tavor_x95_comb",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -301,9 +301,9 @@
         "Price": 0
     },
     "66a5451c697bb9eecd9f12ea": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a5451c697bb9eecd9f12ea",
         "Name": "stock_iwi_tavor_x95_fde_comb",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -324,9 +324,9 @@
         "Price": 0
     },
     "66a545b7b9fc33db7e4af704": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a545b7b9fc33db7e4af704",
         "Name": "stock_iwi_tavor_x95_od_comb",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -347,9 +347,9 @@
         "Price": 0
     },
     "66a47ef16376a8b51f090f38": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a47ef16376a8b51f090f38",
         "Name": "stock_iwi_tavor_x95_pad",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -370,9 +370,9 @@
         "Price": 0
     },
     "66a54520a0de502df2314799": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a54520a0de502df2314799",
         "Name": "stock_iwi_tavor_x95_pad_fde",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -393,9 +393,9 @@
         "Price": 0
     },
     "66a545ba19107ab41a2cfd44": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a545ba19107ab41a2cfd44",
         "Name": "stock_iwi_tavor_x95_pad_od",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -416,9 +416,9 @@
         "Price": 0
     },
     "66a5465a96a99e2e3fc3cb15": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a5465a96a99e2e3fc3cb15",
         "Name": "fg_iwi_tavor_x95",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
