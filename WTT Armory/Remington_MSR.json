@@ -1,8 +1,8 @@
 {
     "66cbc1d13919ac843e616d84": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66cbc1d13919ac843e616d84",
         "Name": "weapon_remington_msr_762x51",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "manual",
         "WeapAccuracy": 0,
@@ -53,9 +53,9 @@
 		"MasteryCategory": "SV98"
     },
 	"66cbc1e16de7d33f4b13f929": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc1e16de7d33f4b13f929",
         "Name": "mount_remington_msr_chassis",
-        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 6,
         "Accuracy": 0,
@@ -65,9 +65,9 @@
         "Price": 0
     },
 	"66cbc1fde187ede7a6054615": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc1fde187ede7a6054615",
         "Name": "mag_remington_msr_762x51_7",
-        "TemplateType": "mod",
         "ModType": "",
         "ReloadSpeed": 5,
         "Ergonomics": -1,
@@ -82,9 +82,9 @@
         "Price": 0
     },
 	"66cbc20389425a66415fe727": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc20389425a66415fe727",
         "Name": "barrel_remington_msr_762x51_long",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -10,
@@ -107,9 +107,9 @@
         "Price": 0
     },	
 	"66cbc2092ca37744a285edb5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc2092ca37744a285edb5",
         "Name": "barrel_remington_msr_762x51_short",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -10,
@@ -132,9 +132,9 @@
         "Price": 0
     },
 	"66cbc2132e5b2ed4ae8d2783": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc2132e5b2ed4ae8d2783",
         "Name": "muzzle_remington_msr_762x51_muzzle_brake",
-        "TemplateType": "mod",
         "ModType": "muzzle_supp_adapter",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -160,9 +160,9 @@
         "Flash": 35
     },	
 	"66cbc21b50dfcd28b331d8fd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc21b50dfcd28b331d8fd",
         "Name": "muzzle_remington_msr_762x51_thread_protector",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -188,9 +188,9 @@
         "Flash": 35
     },
 	"66cbc219b1efb85e480717ff": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc219b1efb85e480717ff",
         "Name": "silencer_remington_msr_762x51",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -20,
         "HorizontalRecoil": -30,
@@ -216,9 +216,9 @@
         "Flash": 20
     },
 	"66cbc20e6cd916b71d74c546": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc20e6cd916b71d74c546",
         "Name": "bipod_remington_msr_762x51_deployed",
-        "TemplateType": "mod",
         "ModType": "bipod",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -236,9 +236,9 @@
         "Price": 0
     },
 	"66cbc21149f0150d017e6237": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc21149f0150d017e6237",
         "Name": "bipod_remington_msr_762x51_folded",
-        "TemplateType": "mod",
         "ModType": "bipod",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -256,9 +256,9 @@
         "Price": 0
     },
 	"66cbc21ed793581d5a4c0c6b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc21ed793581d5a4c0c6b",
         "Name": "pg_remington_msr_762x51",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -272,9 +272,9 @@
         "Price": 0
     },
 	"66cbc2218de8171c78f5c32e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc2218de8171c78f5c32e",
         "Name": "pg_remington_msr_762x51_improved",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -289,9 +289,9 @@
     },
 
 	"66cbc22368e0e8c84e94a756": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc22368e0e8c84e94a756",
         "Name": "stock_remington_msr_762x51_standard",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -312,9 +312,9 @@
         "Price": 0
     },
 	"66cbc226af00b68ff606814c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66cbc226af00b68ff606814c",
         "Name": "stock_remington_msr_762x51_heavy",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -7,
         "HorizontalRecoil": -11,
@@ -335,9 +335,9 @@
         "Price": 0
     },	
 	"66cbc2285b662ff2d04a7a58": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
 		"ItemID": "66cbc2285b662ff2d04a7a58",
         "Name": "stock_remington_msr_762x51_tactical",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,
