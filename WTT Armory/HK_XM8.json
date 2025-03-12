@@ -1,8 +1,8 @@
 {
     "66b1770c5f8b2271bb5887dc": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66b1770c5f8b2271bb5887dc",
         "Name": "weapon_xm8_556x45_fde",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -47,9 +47,9 @@
         "RecoilIntensity": 0.133
     },
     "66b177141a00c9af1fd50b2d": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66b177141a00c9af1fd50b2d",
         "Name": "weapon_xm8_556x45_od",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -94,9 +94,9 @@
         "RecoilIntensity": 0.133
     },
     "66b17d6cbb296d01b4684944": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66b17d6cbb296d01b4684944",
         "Name": "weapon_xm8_556x45_black",
-        "TemplateType": "gun",
         "WeapType": "",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -141,9 +141,9 @@
         "RecoilIntensity": 0.133
     },
     "66b1777fef15631b8b5ca98a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1777fef15631b8b5ca98a",
         "Name": "barrel_xm8_lmg",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -8,
         "HorizontalRecoil": -12,
@@ -166,9 +166,9 @@
         "Price": 0
     },
     "66b177776541b7f127ca4af0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177776541b7f127ca4af0",
         "Name": "barrel_xm8_ar",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -6,
         "HorizontalRecoil": -9,
@@ -191,9 +191,9 @@
         "Price": 0
     },
     "66b1777cf41a1c521a7a449a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1777cf41a1c521a7a449a",
         "Name": "barrel_xm8_carbine",
-        "TemplateType": "mod",
         "ModType": "short_barrel",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
@@ -216,9 +216,9 @@
         "Price": 0
     },
     "66b1778236301d80c2044219": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1778236301d80c2044219",
         "Name": "barrel_xm8_pdw",
-        "TemplateType": "mod",
         "ModType": "short_barrel",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -241,9 +241,9 @@
         "Price": 0
     },
     "66b17796cd01eed07d2c3f5a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b17796cd01eed07d2c3f5a",
         "Name": "gb_xm8",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -264,9 +264,9 @@
         "Flash": -15
     },
     "66b177286a11a6564ecffae1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177286a11a6564ecffae1",
         "Name": "hg_xm8_lmg_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,
@@ -282,9 +282,9 @@
         "Price": 0
     },
     "66b17725e2cf432d366c1a44": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b17725e2cf432d366c1a44",
         "Name": "hg_xm8_ar_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -300,9 +300,9 @@
         "Price": 0
     },
     "66b177205192a4b5bb89c7c0": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177205192a4b5bb89c7c0",
         "Name": "hg_xm8_carbine_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -318,9 +318,9 @@
         "Price": 0
     },
     "66b1771c27bb1d655fb7fd16": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1771c27bb1d655fb7fd16",
         "Name": "hg_xm8_pdw_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -336,9 +336,9 @@
         "Price": 0
     },
     "66b177369857bd0e1bf7e38d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177369857bd0e1bf7e38d",
         "Name": "hg_xm8_lmg_od",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,
@@ -354,9 +354,9 @@
         "Price": 0
     },
     "66b17733c11a4996fdb1eca2": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b17733c11a4996fdb1eca2",
         "Name": "hg_xm8_ar_od",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -372,9 +372,9 @@
         "Price": 0
     },
     "66b177301451b4fa159a8553": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177301451b4fa159a8553",
         "Name": "hg_xm8_carbine_od",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -390,9 +390,9 @@
         "Price": 0
     },
     "66b1772c42936e0387a88fc9": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1772c42936e0387a88fc9",
         "Name": "hg_xm8_pdw_od",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -408,9 +408,9 @@
         "Price": 0
     },
     "66b17743edd0d64c03eeed3b": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b17743edd0d64c03eeed3b",
         "Name": "hg_xm8_lmg_black",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -4,
         "HorizontalRecoil": -6,
@@ -426,9 +426,9 @@
         "Price": 0
     },
     "66b1774114a15b9a0f09a69f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1774114a15b9a0f09a69f",
         "Name": "hg_xm8_ar_black",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -3,
         "HorizontalRecoil": -5,
@@ -444,9 +444,9 @@
         "Price": 0
     },
     "66b1773e819b5700a7987155": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1773e819b5700a7987155",
         "Name": "hg_xm8_carbine_black",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -462,9 +462,9 @@
         "Price": 0
     },
     "66b1773ab2b587b20bd4430a": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1773ab2b587b20bd4430a",
         "Name": "hg_xm8_pdw_black",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -2,
         "HorizontalRecoil": -3,
@@ -480,9 +480,9 @@
         "Price": 0
     },
     "66b177460cc616678c424cda": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177460cc616678c424cda",
         "Name": "stock_xm8_adjustable_fde",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -24,
         "HorizontalRecoil": -37,
@@ -503,9 +503,9 @@
         "Price": 0
     },
     "66b1774a7acd78ebf84ae125": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1774a7acd78ebf84ae125",
         "Name": "stock_xm8_pwd_pad_fde",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -526,9 +526,9 @@
         "Price": 0
     },
     "66b177610ed9932ce793aab1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177610ed9932ce793aab1",
         "Name": "stock_xm8_folding_adapter_fde",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -549,9 +549,9 @@
         "Price": 0
     },
     "66b1776c8acc52a0c65be177": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1776c8acc52a0c65be177",
         "Name": "stock_xm8_folding_fde",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -23,
         "HorizontalRecoil": -36,
@@ -572,9 +572,9 @@
         "Price": 0
     },
     "66b1774efb63f849b9b2fa12": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1774efb63f849b9b2fa12",
         "Name": "stock_xm8_adjustable_od",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -24,
         "HorizontalRecoil": -37,
@@ -595,9 +595,9 @@
         "Price": 0
     },
     "66b1775568563febad30452e": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1775568563febad30452e",
         "Name": "stock_xm8_pwd_pad_od",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -618,9 +618,9 @@
         "Price": 0
     },
     "66b177670380a35378501a43": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177670380a35378501a43",
         "Name": "stock_xm8_folding_adapter_od",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -641,9 +641,9 @@
         "Price": 0
     },
     "66b1777302b837c826f2a1ab": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1777302b837c826f2a1ab",
         "Name": "stock_xm8_folding_od",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -23,
         "HorizontalRecoil": -36,
@@ -664,9 +664,9 @@
         "Price": 0
     },
     "66b1775a2395f96a493eacbd": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1775a2395f96a493eacbd",
         "Name": "stock_xm8_adjustable_black",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -24,
         "HorizontalRecoil": -37,
@@ -687,9 +687,9 @@
         "Price": 0
     },
     "66b1775e348cb7ecb16620e5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1775e348cb7ecb16620e5",
         "Name": "stock_xm8_pwd_pad_black",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -710,9 +710,9 @@
         "Price": 0
     },
     "66b177647126f9c006bb44ae": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177647126f9c006bb44ae",
         "Name": "stock_xm8_folding_adapter_black",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
@@ -733,9 +733,9 @@
         "Price": 0
     },
     "66b1776fe80a0cd0e59ba2c1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1776fe80a0cd0e59ba2c1",
         "Name": "stock_xm8_folding_black",
-        "TemplateType": "mod",
         "ModType": "Stock",
         "VerticalRecoil": -23,
         "HorizontalRecoil": -36,
@@ -756,9 +756,9 @@
         "Price": 0
     },
     "66b177865018c420f94de0c4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177865018c420f94de0c4",
         "Name": "rail_xm8_top",
-        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": -18,
@@ -768,9 +768,9 @@
         "Price": 0
     },
     "66b177922ed0146f293f4d6f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177922ed0146f293f4d6f",
         "Name": "rail_xm8_top_carbine",
-        "TemplateType": "mod",
         "ModType": "mount",
         "Ergonomics": 0,
         "Accuracy": -18,
@@ -780,9 +780,9 @@
         "Price": 0
     },
     "66b1779b98627f711ecab7c1": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1779b98627f711ecab7c1",
         "Name": "rail_xm8_picatinny_adapter",
-        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": -2,
         "Accuracy": 0,
@@ -792,9 +792,9 @@
         "Price": 0
     },
     "66b1779f427471f780dc15c4": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b1779f427471f780dc15c4",
         "Name": "rail_xm8_picatinny_adapter_carbine",
-        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": -2,
         "Accuracy": 0,
@@ -804,9 +804,9 @@
         "Price": 0
     },
     "66b177a2170f88748ae2c32f": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66b177a2170f88748ae2c32f",
         "Name": "rail_xm8_picatinny_adapter_pdw",
-        "TemplateType": "mod",
         "ModType": "",
         "Ergonomics": -2,
         "Accuracy": 0,
