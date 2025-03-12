@@ -418,19 +418,19 @@
         "Price": 0
     },
     "66c01f72d8e7493c154a39c5": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66c01f72d8e7493c154a39c5",
         "Name": "ammo_50bmg_fmj",
         "LoyaltyLevel": 4,
-        "TemplateType": "ammo",
         "Damage": 450,
         "PenetrationPower": 160,
         "BasePriceModifier": 1
     },
     "66c01f75d45074e8692a6e6f": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66c01f75d45074e8692a6e6f",
         "Name": "ammo_50bmg_he",
         "LoyaltyLevel": 4,
-        "TemplateType": "ammo",
         "Damage": 390,
         "PenetrationPower": 130,
         "BasePriceModifier": 1

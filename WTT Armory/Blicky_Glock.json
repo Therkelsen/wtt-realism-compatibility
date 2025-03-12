@@ -182,9 +182,9 @@
         "Price": 0
     },
     "6681810371f395261c5f656a": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "6681810371f395261c5f656a",
         "Name": "ammo_lipstick",
-        "TemplateType": "ammo",
         "LoyaltyLevel": 2,
         "Damage":58,
         "PenetrationPower":40,

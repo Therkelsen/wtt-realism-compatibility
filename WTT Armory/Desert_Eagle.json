@@ -165,9 +165,9 @@
         "Flash": 40
     },
     "66b7d25c0cef8b1b1b9ed780": {
+        "$type": "RealismMod.Ammo, RealismMod",
         "ItemID": "66b7d25c0cef8b1b1b9ed780",
         "Name": "ammo_50ae_fmj",
-        "TemplateType": "ammo",
         "LoyaltyLevel": 2,
         "Damage":120,
         "PenetrationPower":40,
