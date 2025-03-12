@@ -2,7 +2,7 @@
     "66b7d231babb635f70257534": {
         "ItemID": "66b7d231babb635f70257534",
         "Name": "weapon_rexana_golden_desert_eagle_50ae",
-        "TemplateType": "gun",
+        "$type": "RealismMod.Gun, RealismMod",
         "WeapType": "pistol",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -51,7 +51,7 @@
     "66b7d247d44615ed57a7d91c": {
         "ItemID": "66b7d247d44615ed57a7d91c",
         "Name": "barrel_rexana_golden_desert_eagle",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "",
         "VerticalRecoil": -20,
         "HorizontalRecoil": -10,
@@ -78,7 +78,7 @@
     "66b7d26472e85e872a04d16a": {
         "ItemID": "66b7d26472e85e872a04d16a",
         "Name": "fs_rexana_golden_desert_eagle",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -93,7 +93,7 @@
     "66b7d26d4fdb9f6c36f7e5b5": {
         "ItemID": "66b7d26d4fdb9f6c36f7e5b5",
         "Name": "rs_rexana_golden_desert_eagle",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -108,7 +108,7 @@
     "66b7d26a2aa8c6dc9be441ca": {
         "ItemID": "66b7d26a2aa8c6dc9be441ca",
         "Name": "mag_rexana_golden_desert_eagle_std_9rd",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "",
         "ReloadSpeed": 0,
         "Ergonomics": 0,
@@ -125,7 +125,7 @@
     "66b7d2677e3552084bc7a8d8": {
         "ItemID": "66b7d2677e3552084bc7a8d8",
         "Name": "pg_rexana_golden_desert_eagle_lv",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "",
         "VerticalRecoil": 0,
         "HorizontalRecoil": 0,
@@ -139,7 +139,7 @@
     "66b7d261223b09b949cf0299": {
         "ItemID": "66b7d261223b09b949cf0299",
         "Name": "muzzle_rexana_golden_desert_eagle",
-        "TemplateType": "mod",
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ModType": "",
         "VerticalRecoil": -5,
         "HorizontalRecoil": -8,
