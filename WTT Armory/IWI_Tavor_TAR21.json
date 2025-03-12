@@ -1,8 +1,8 @@
 {
     "66a2d15b2500a672aa10d9ff": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66a2d15b2500a672aa10d9ff",
         "Name": "weapon_iwi_tavor_tar21_556x45",
-        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -48,9 +48,9 @@
         "MasteryCategory": "MDR"
     },
     "66a37082da8293dc5e0a377d": {
+        "$type": "RealismMod.Gun, RealismMod",
         "ItemID": "66a37082da8293dc5e0a377d",
         "Name": "weapon_iwi_tavor_tar21_556x45_fde",
-        "TemplateType": "gun",
         "WeapType": "bullpup",
         "OperationType": "",
         "WeapAccuracy": 0,
@@ -96,9 +96,9 @@
         "MasteryCategory": "MDR"
     },
     "66a2d161d8903862b32a5c86": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a2d161d8903862b32a5c86",
         "Name": "fs_iwi_tavor_tar21",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -111,9 +111,9 @@
         "Price": 0
     },
     "66a370a324fec61fe4caf579": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a370a324fec61fe4caf579",
         "Name": "fs_iwi_tavor_tar21_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -126,9 +126,9 @@
         "Price": 0
     },
     "66a2d15f635a7d51a57c6e3d": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a2d15f635a7d51a57c6e3d",
         "Name": "rs_iwi_tavor_tar21",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -141,9 +141,9 @@
         "Price": 0
     },
     "66a370a071720cc085c57fe5": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a370a071720cc085c57fe5",
         "Name": "rs_iwi_tavor_tar21_fde",
-        "TemplateType": "mod",
         "ModType": "sight",
         "AimSpeed": 0,
         "Accuracy": 0,
@@ -156,9 +156,9 @@
         "Price": 0
     },
     "66a2d1647b0aa9239596a93c": {
+        "$type": "RealismMod.WeaponMod, RealismMod",
         "ItemID": "66a2d1647b0aa9239596a93c",
         "Name": "barrel_iwi_tavor_tar21_406mm",
-        "TemplateType": "mod",
         "ModType": "",
         "VerticalRecoil": -1,
         "HorizontalRecoil": -2,
